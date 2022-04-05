@@ -1,0 +1,520 @@
+{
+    "Depth": 1,
+    "PathFromRoot": "",
+    "NuclearityFromRoot": "",
+    "LeftText": [
+        "1\tZaha Hadid",
+        "2\tDame Zaha Mohammad Hadid DBE RA",
+        "3\t( Arabic :",
+        "4\tزها حديد Zahā Ḥadīd ;",
+        "5\t31 October 1950 – 31 March 2016 )",
+        "6\twas an Iraqi - British architect .",
+        "7\tShe was the first woman",
+        "8\tto receive the Pritzker Architecture Prize , in 2004 .",
+        "9\tShe received the UK 's most prestigious architectural award , the Stirling Prize , in 2010 and 2011 .",
+        "10\tIn 2012 , she was made a Dame by Elizabeth II for services to architecture ,",
+        "11\tand in 2015 she became the first and only woman",
+        "12\tto be awarded the Royal Gold Medal from the Royal Institute of British Architects .",
+        "13\tShe was described by The Guardian of London as the ' Queen of the curve ' ,",
+        "14\twho \" liberated architectural geometry ,",
+        "15\tgiving it a whole new expressive identity . \"",
+        "16\tHer major works include the aquatic centre for the London 2012 Olympics , Michigan State University 's Broad Art Museum in the US , and the Guangzhou Opera House in China .",
+        "17\tSome of her designs have been presented posthumously ,",
+        "18\tincluding the statuette for the 2017 Brit Awards ,",
+        "19\tand many of her buildings are still under construction ,",
+        "20\tincluding the Al Wakrah Stadium in Qatar , a venue for the 2022 FIFA World Cup ."
+    ],
+    "LeftTopic": "HadidIntro",
+    "LeftTree": {
+        "Depth": 2,
+        "PathFromRoot": "L",
+        "NuclearityFromRoot": "N",
+        "LeftText": [
+            "1\tZaha Hadid",
+            "2\tDame Zaha Mohammad Hadid DBE RA",
+            "3\t( Arabic :",
+            "4\tزها حديد Zahā Ḥadīd ;",
+            "5\t31 October 1950 – 31 March 2016 )",
+            "6\twas an Iraqi - British architect ."
+        ],
+        "LeftTopic": "IntroHadid",
+        "LeftTree": {
+            "Depth": 3,
+            "PathFromRoot": "LL",
+            "NuclearityFromRoot": "NN",
+            "LeftText": [
+                "1\tZaha Hadid",
+                "2\tDame Zaha Mohammad Hadid DBE RA",
+                "3\t( Arabic :",
+                "4\tزها حديد Zahā Ḥadīd ;",
+                "5\t31 October 1950 – 31 March 2016 )"
+            ],
+            "LeftTopic": "NameAndDOB",
+            "LeftTree": null,
+            "RightText": [
+                "6\twas an Iraqi - British architect ."
+            ],
+            "RightTopic": "Architect",
+            "RightTree": null,
+            "LeftNuclearity": "M",
+            "RightNuclearity": "M"
+        },
+        "RightText": [
+            "7\tShe was the first woman",
+            "8\tto receive the Pritzker Architecture Prize , in 2004 .",
+            "9\tShe received the UK 's most prestigious architectural award , the Stirling Prize , in 2010 and 2011 .",
+            "10\tIn 2012 , she was made a Dame by Elizabeth II for services to architecture ,",
+            "11\tand in 2015 she became the first and only woman",
+            "12\tto be awarded the Royal Gold Medal from the Royal Institute of British Architects .",
+            "13\tShe was described by The Guardian of London as the ' Queen of the curve ' ,",
+            "14\twho \" liberated architectural geometry ,",
+            "15\tgiving it a whole new expressive identity . \"",
+            "16\tHer major works include the aquatic centre for the London 2012 Olympics , Michigan State University 's Broad Art Museum in the US , and the Guangzhou Opera House in China .",
+            "17\tSome of her designs have been presented posthumously ,",
+            "18\tincluding the statuette for the 2017 Brit Awards ,",
+            "19\tand many of her buildings are still under construction ,",
+            "20\tincluding the Al Wakrah Stadium in Qatar , a venue for the 2022 FIFA World Cup ."
+        ],
+        "RightTopic": "NoteworthyAccolades",
+        "RightTree": {
+            "Depth": 3,
+            "PathFromRoot": "LR",
+            "NuclearityFromRoot": "NS",
+            "LeftText": [
+                "7\tShe was the first woman",
+                "8\tto receive the Pritzker Architecture Prize , in 2004 .",
+                "9\tShe received the UK 's most prestigious architectural award , the Stirling Prize , in 2010 and 2011 .",
+                "10\tIn 2012 , she was made a Dame by Elizabeth II for services to architecture ,",
+                "11\tand in 2015 she became the first and only woman",
+                "12\tto be awarded the Royal Gold Medal from the Royal Institute of British Architects ."
+            ],
+            "LeftTopic": "StridesForFemaleArchitects",
+            "LeftTree": {
+                "Depth": 4,
+                "PathFromRoot": "LRL",
+                "NuclearityFromRoot": "NSM",
+                "LeftText": [
+                    "7\tShe was the first woman",
+                    "8\tto receive the Pritzker Architecture Prize , in 2004 .",
+                    "9\tShe received the UK 's most prestigious architectural award , the Stirling Prize , in 2010 and 2011 ."
+                ],
+                "LeftTopic": "MajorAwardsPre2011",
+                "LeftTree": null,
+                "RightText": [
+                    "10\tIn 2012 , she was made a Dame by Elizabeth II for services to architecture ,",
+                    "11\tand in 2015 she became the first and only woman",
+                    "12\tto be awarded the Royal Gold Medal from the Royal Institute of British Architects ."
+                ],
+                "RightTopic": "MajorAccomplishmentsPost2011",
+                "RightTree": null,
+                "LeftNuclearity": "M",
+                "RightNuclearity": "M"
+            },
+            "RightText": [
+                "13\tShe was described by The Guardian of London as the ' Queen of the curve ' ,",
+                "14\twho \" liberated architectural geometry ,",
+                "15\tgiving it a whole new expressive identity . \"",
+                "16\tHer major works include the aquatic centre for the London 2012 Olympics , Michigan State University 's Broad Art Museum in the US , and the Guangzhou Opera House in China .",
+                "17\tSome of her designs have been presented posthumously ,",
+                "18\tincluding the statuette for the 2017 Brit Awards ,",
+                "19\tand many of her buildings are still under construction ,",
+                "20\tincluding the Al Wakrah Stadium in Qatar , a venue for the 2022 FIFA World Cup ."
+            ],
+            "RightTopic": "StyleAndSomeMajorWorks",
+            "RightTree": {
+                "Depth": 4,
+                "PathFromRoot": "LRR",
+                "NuclearityFromRoot": "NSM",
+                "LeftText": [
+                    "13\tShe was described by The Guardian of London as the ' Queen of the curve ' ,",
+                    "14\twho \" liberated architectural geometry ,",
+                    "15\tgiving it a whole new expressive identity . \""
+                ],
+                "LeftTopic": "ExpressiveStyle",
+                "LeftTree": null,
+                "RightText": [
+                    "16\tHer major works include the aquatic centre for the London 2012 Olympics , Michigan State University 's Broad Art Museum in the US , and the Guangzhou Opera House in China .",
+                    "17\tSome of her designs have been presented posthumously ,",
+                    "18\tincluding the statuette for the 2017 Brit Awards ,",
+                    "19\tand many of her buildings are still under construction ,",
+                    "20\tincluding the Al Wakrah Stadium in Qatar , a venue for the 2022 FIFA World Cup ."
+                ],
+                "RightTopic": "MajorWorks",
+                "RightTree": {
+                    "Depth": 5,
+                    "PathFromRoot": "LRRR",
+                    "NuclearityFromRoot": "NSMM",
+                    "LeftText": [
+                        "16\tHer major works include the aquatic centre for the London 2012 Olympics , Michigan State University 's Broad Art Museum in the US , and the Guangzhou Opera House in China ."
+                    ],
+                    "LeftTopic": "MajorWorks",
+                    "LeftTree": null,
+                    "RightText": [
+                        "17\tSome of her designs have been presented posthumously ,",
+                        "18\tincluding the statuette for the 2017 Brit Awards ,",
+                        "19\tand many of her buildings are still under construction ,",
+                        "20\tincluding the Al Wakrah Stadium in Qatar , a venue for the 2022 FIFA World Cup ."
+                    ],
+                    "RightTopic": "PosthumousWork",
+                    "RightTree": null,
+                    "LeftNuclearity": "N",
+                    "RightNuclearity": "S"
+                },
+                "LeftNuclearity": "M",
+                "RightNuclearity": "M"
+            },
+            "LeftNuclearity": "M",
+            "RightNuclearity": "M"
+        },
+        "LeftNuclearity": "N",
+        "RightNuclearity": "S"
+    },
+    "RightText": [
+        "21\tEarly life and academic career",
+        "22\tHadid was born on 31 October 1950 in Baghdad , Iraq , to an upper - class Iraqi family .",
+        "23\tHer father Mohammed Hadid Muhammad al - Hajj Husayn Hadid was a wealthy industrialist from Mosul .",
+        "24\tHe co-founded the left - liberal al - Ahali group in 1932 , a significant political organisation in the 1930s and 1940s .",
+        "25\tHe was the co-founder of the National Democratic Party in Iraq .",
+        "26\tHe served as minister of finance after the overthrow of the monarch after the 1958 Iraqi coup d'état for the government of General Abd al - Karim Qasim .",
+        "27\tHer mother Wajiha al - Sabunji was an artist from Mosul .",
+        "28\tIn the 1960s Hadid attended boarding schools in England and Switzerland .",
+        "29\tHadid studied mathematics at the American University of Beirut",
+        "30\tbefore moving , in 1972 , to London",
+        "31\tto study at the Architectural Association School of Architecture .",
+        "32\tThere she studied with Rem Koolhaas , Elia Zenghelis and Bernard Tschumi .",
+        "33\tHer former professor , Koolhaas , described her at graduation as \" a planet in her own orbit . \"",
+        "34\tZenghelis described her as the most outstanding pupil he ever taught .",
+        "35\t\" We called her the inventor of the 89 degrees .",
+        "36\tNothing was ever at 90 degrees .",
+        "37\tShe had spectacular vision .",
+        "38\tAll the buildings were exploding into tiny little pieces . \"",
+        "39\tHe recalled",
+        "40\tthat she was less interested in details , such as staircases .",
+        "41\t\" The way",
+        "42\tshe drew a staircase",
+        "43\tyou would smash your head against the ceiling ,",
+        "44\tand the space was reducing and reducing ,",
+        "45\tand you would end up in the upper corner of the ceiling .",
+        "46\tShe could n’t care about tiny details .",
+        "47\tHer mind was on the broader pictures —",
+        "48\twhen it came to the joinery",
+        "49\tshe knew",
+        "50\twe could fix that later .",
+        "51\tShe was right . ’",
+        "52\tHer fourth - year student project was a painting of a hotel in the form of a bridge ,",
+        "53\tinspired by the works of the Russian suprematist artist Kazimir Malevich"
+    ],
+    "RightTopic": "EarlyLifeAndAcademicCareer",
+    "RightTree": {
+        "Depth": 2,
+        "PathFromRoot": "R",
+        "NuclearityFromRoot": "S",
+        "LeftText": [
+            "21\tEarly life and academic career"
+        ],
+        "LeftTopic": "EarlyLifeAndAcademicsTitle",
+        "LeftTree": null,
+        "RightText": [
+            "22\tHadid was born on 31 October 1950 in Baghdad , Iraq , to an upper - class Iraqi family .",
+            "23\tHer father Mohammed Hadid Muhammad al - Hajj Husayn Hadid was a wealthy industrialist from Mosul .",
+            "24\tHe co-founded the left - liberal al - Ahali group in 1932 , a significant political organisation in the 1930s and 1940s .",
+            "25\tHe was the co-founder of the National Democratic Party in Iraq .",
+            "26\tHe served as minister of finance after the overthrow of the monarch after the 1958 Iraqi coup d'état for the government of General Abd al - Karim Qasim .",
+            "27\tHer mother Wajiha al - Sabunji was an artist from Mosul .",
+            "28\tIn the 1960s Hadid attended boarding schools in England and Switzerland .",
+            "29\tHadid studied mathematics at the American University of Beirut",
+            "30\tbefore moving , in 1972 , to London",
+            "31\tto study at the Architectural Association School of Architecture .",
+            "32\tThere she studied with Rem Koolhaas , Elia Zenghelis and Bernard Tschumi .",
+            "33\tHer former professor , Koolhaas , described her at graduation as \" a planet in her own orbit . \"",
+            "34\tZenghelis described her as the most outstanding pupil he ever taught .",
+            "35\t\" We called her the inventor of the 89 degrees .",
+            "36\tNothing was ever at 90 degrees .",
+            "37\tShe had spectacular vision .",
+            "38\tAll the buildings were exploding into tiny little pieces . \"",
+            "39\tHe recalled",
+            "40\tthat she was less interested in details , such as staircases .",
+            "41\t\" The way",
+            "42\tshe drew a staircase",
+            "43\tyou would smash your head against the ceiling ,",
+            "44\tand the space was reducing and reducing ,",
+            "45\tand you would end up in the upper corner of the ceiling .",
+            "46\tShe could n’t care about tiny details .",
+            "47\tHer mind was on the broader pictures —",
+            "48\twhen it came to the joinery",
+            "49\tshe knew",
+            "50\twe could fix that later .",
+            "51\tShe was right . ’",
+            "52\tHer fourth - year student project was a painting of a hotel in the form of a bridge ,",
+            "53\tinspired by the works of the Russian suprematist artist Kazimir Malevich"
+        ],
+        "RightTopic": "Content",
+        "RightTree": {
+            "Depth": 3,
+            "PathFromRoot": "RR",
+            "NuclearityFromRoot": "SN",
+            "LeftText": [
+                "22\tHadid was born on 31 October 1950 in Baghdad , Iraq , to an upper - class Iraqi family .",
+                "23\tHer father Mohammed Hadid Muhammad al - Hajj Husayn Hadid was a wealthy industrialist from Mosul .",
+                "24\tHe co-founded the left - liberal al - Ahali group in 1932 , a significant political organisation in the 1930s and 1940s .",
+                "25\tHe was the co-founder of the National Democratic Party in Iraq .",
+                "26\tHe served as minister of finance after the overthrow of the monarch after the 1958 Iraqi coup d'état for the government of General Abd al - Karim Qasim .",
+                "27\tHer mother Wajiha al - Sabunji was an artist from Mosul ."
+            ],
+            "LeftTopic": "EarlyLifeAndFamily",
+            "LeftTree": {
+                "Depth": 4,
+                "PathFromRoot": "RRL",
+                "NuclearityFromRoot": "SNM",
+                "LeftText": [
+                    "22\tHadid was born on 31 October 1950 in Baghdad , Iraq , to an upper - class Iraqi family ."
+                ],
+                "LeftTopic": "DOBAndPlace",
+                "LeftTree": null,
+                "RightText": [
+                    "23\tHer father Mohammed Hadid Muhammad al - Hajj Husayn Hadid was a wealthy industrialist from Mosul .",
+                    "24\tHe co-founded the left - liberal al - Ahali group in 1932 , a significant political organisation in the 1930s and 1940s .",
+                    "25\tHe was the co-founder of the National Democratic Party in Iraq .",
+                    "26\tHe served as minister of finance after the overthrow of the monarch after the 1958 Iraqi coup d'état for the government of General Abd al - Karim Qasim .",
+                    "27\tHer mother Wajiha al - Sabunji was an artist from Mosul ."
+                ],
+                "RightTopic": "Parents'Backgrounds",
+                "RightTree": null,
+                "LeftNuclearity": "N",
+                "RightNuclearity": "S"
+            },
+            "RightText": [
+                "28\tIn the 1960s Hadid attended boarding schools in England and Switzerland .",
+                "29\tHadid studied mathematics at the American University of Beirut",
+                "30\tbefore moving , in 1972 , to London",
+                "31\tto study at the Architectural Association School of Architecture .",
+                "32\tThere she studied with Rem Koolhaas , Elia Zenghelis and Bernard Tschumi .",
+                "33\tHer former professor , Koolhaas , described her at graduation as \" a planet in her own orbit . \"",
+                "34\tZenghelis described her as the most outstanding pupil he ever taught .",
+                "35\t\" We called her the inventor of the 89 degrees .",
+                "36\tNothing was ever at 90 degrees .",
+                "37\tShe had spectacular vision .",
+                "38\tAll the buildings were exploding into tiny little pieces . \"",
+                "39\tHe recalled",
+                "40\tthat she was less interested in details , such as staircases .",
+                "41\t\" The way",
+                "42\tshe drew a staircase",
+                "43\tyou would smash your head against the ceiling ,",
+                "44\tand the space was reducing and reducing ,",
+                "45\tand you would end up in the upper corner of the ceiling .",
+                "46\tShe could n’t care about tiny details .",
+                "47\tHer mind was on the broader pictures —",
+                "48\twhen it came to the joinery",
+                "49\tshe knew",
+                "50\twe could fix that later .",
+                "51\tShe was right . ’",
+                "52\tHer fourth - year student project was a painting of a hotel in the form of a bridge ,",
+                "53\tinspired by the works of the Russian suprematist artist Kazimir Malevich"
+            ],
+            "RightTopic": "AcademicCareer",
+            "RightTree": {
+                "Depth": 4,
+                "PathFromRoot": "RRR",
+                "NuclearityFromRoot": "SNM",
+                "LeftText": [
+                    "28\tIn the 1960s Hadid attended boarding schools in England and Switzerland .",
+                    "29\tHadid studied mathematics at the American University of Beirut",
+                    "30\tbefore moving , in 1972 , to London",
+                    "31\tto study at the Architectural Association School of Architecture .",
+                    "32\tThere she studied with Rem Koolhaas , Elia Zenghelis and Bernard Tschumi ."
+                ],
+                "LeftTopic": "Education",
+                "LeftTree": null,
+                "RightText": [
+                    "33\tHer former professor , Koolhaas , described her at graduation as \" a planet in her own orbit . \"",
+                    "34\tZenghelis described her as the most outstanding pupil he ever taught .",
+                    "35\t\" We called her the inventor of the 89 degrees .",
+                    "36\tNothing was ever at 90 degrees .",
+                    "37\tShe had spectacular vision .",
+                    "38\tAll the buildings were exploding into tiny little pieces . \"",
+                    "39\tHe recalled",
+                    "40\tthat she was less interested in details , such as staircases .",
+                    "41\t\" The way",
+                    "42\tshe drew a staircase",
+                    "43\tyou would smash your head against the ceiling ,",
+                    "44\tand the space was reducing and reducing ,",
+                    "45\tand you would end up in the upper corner of the ceiling .",
+                    "46\tShe could n’t care about tiny details .",
+                    "47\tHer mind was on the broader pictures —",
+                    "48\twhen it came to the joinery",
+                    "49\tshe knew",
+                    "50\twe could fix that later .",
+                    "51\tShe was right . ’",
+                    "52\tHer fourth - year student project was a painting of a hotel in the form of a bridge ,",
+                    "53\tinspired by the works of the Russian suprematist artist Kazimir Malevich"
+                ],
+                "RightTopic": "OutstandingPupil",
+                "RightTree": {
+                    "Depth": 5,
+                    "PathFromRoot": "RRRR",
+                    "NuclearityFromRoot": "SNMN",
+                    "LeftText": [
+                        "33\tHer former professor , Koolhaas , described her at graduation as \" a planet in her own orbit . \"",
+                        "34\tZenghelis described her as the most outstanding pupil he ever taught .",
+                        "35\t\" We called her the inventor of the 89 degrees .",
+                        "36\tNothing was ever at 90 degrees .",
+                        "37\tShe had spectacular vision .",
+                        "38\tAll the buildings were exploding into tiny little pieces . \"",
+                        "39\tHe recalled",
+                        "40\tthat she was less interested in details , such as staircases .",
+                        "41\t\" The way",
+                        "42\tshe drew a staircase",
+                        "43\tyou would smash your head against the ceiling ,",
+                        "44\tand the space was reducing and reducing ,",
+                        "45\tand you would end up in the upper corner of the ceiling .",
+                        "46\tShe could n’t care about tiny details .",
+                        "47\tHer mind was on the broader pictures —",
+                        "48\twhen it came to the joinery",
+                        "49\tshe knew",
+                        "50\twe could fix that later .",
+                        "51\tShe was right . ’"
+                    ],
+                    "LeftTopic": "ProfessorsPraise",
+                    "LeftTree": {
+                        "Depth": 6,
+                        "PathFromRoot": "RRRRL",
+                        "NuclearityFromRoot": "SNMNN",
+                        "LeftText": [
+                            "33\tHer former professor , Koolhaas , described her at graduation as \" a planet in her own orbit . \"",
+                            "34\tZenghelis described her as the most outstanding pupil he ever taught .",
+                            "35\t\" We called her the inventor of the 89 degrees .",
+                            "36\tNothing was ever at 90 degrees .",
+                            "37\tShe had spectacular vision .",
+                            "38\tAll the buildings were exploding into tiny little pieces . \""
+                        ],
+                        "LeftTopic": "InnovativeStudent",
+                        "LeftTree": {
+                            "Depth": 7,
+                            "PathFromRoot": "RRRRLL",
+                            "NuclearityFromRoot": "SNMNNM",
+                            "LeftText": [
+                                "33\tHer former professor , Koolhaas , described her at graduation as \" a planet in her own orbit . \""
+                            ],
+                            "LeftTopic": "KoolhaasDescription",
+                            "LeftTree": null,
+                            "RightText": [
+                                "34\tZenghelis described her as the most outstanding pupil he ever taught .",
+                                "35\t\" We called her the inventor of the 89 degrees .",
+                                "36\tNothing was ever at 90 degrees .",
+                                "37\tShe had spectacular vision .",
+                                "38\tAll the buildings were exploding into tiny little pieces . \""
+                            ],
+                            "RightTopic": "ZenghelisSpectacularVision",
+                            "RightTree": null,
+                            "LeftNuclearity": "M",
+                            "RightNuclearity": "M"
+                        },
+                        "RightText": [
+                            "39\tHe recalled",
+                            "40\tthat she was less interested in details , such as staircases .",
+                            "41\t\" The way",
+                            "42\tshe drew a staircase",
+                            "43\tyou would smash your head against the ceiling ,",
+                            "44\tand the space was reducing and reducing ,",
+                            "45\tand you would end up in the upper corner of the ceiling .",
+                            "46\tShe could n’t care about tiny details .",
+                            "47\tHer mind was on the broader pictures —",
+                            "48\twhen it came to the joinery",
+                            "49\tshe knew",
+                            "50\twe could fix that later .",
+                            "51\tShe was right . ’"
+                        ],
+                        "RightTopic": "BroadPictureFocus",
+                        "RightTree": {
+                            "Depth": 7,
+                            "PathFromRoot": "RRRRLR",
+                            "NuclearityFromRoot": "SNMNNM",
+                            "LeftText": [
+                                "39\tHe recalled",
+                                "40\tthat she was less interested in details , such as staircases .",
+                                "41\t\" The way",
+                                "42\tshe drew a staircase",
+                                "43\tyou would smash your head against the ceiling ,",
+                                "44\tand the space was reducing and reducing ,",
+                                "45\tand you would end up in the upper corner of the ceiling ."
+                            ],
+                            "LeftTopic": "StaircaseExample",
+                            "LeftTree": {
+                                "Depth": 8,
+                                "PathFromRoot": "RRRRLRL",
+                                "NuclearityFromRoot": "SNMNNMS",
+                                "LeftText": [
+                                    "39\tHe recalled",
+                                    "40\tthat she was less interested in details , such as staircases ."
+                                ],
+                                "LeftTopic": "IntroStaircaseExample",
+                                "LeftTree": null,
+                                "RightText": [
+                                    "41\t\" The way",
+                                    "42\tshe drew a staircase",
+                                    "43\tyou would smash your head against the ceiling ,",
+                                    "44\tand the space was reducing and reducing ,",
+                                    "45\tand you would end up in the upper corner of the ceiling ."
+                                ],
+                                "RightTopic": "InnovativeStaircaseDesign",
+                                "RightTree": null,
+                                "LeftNuclearity": "S",
+                                "RightNuclearity": "N"
+                            },
+                            "RightText": [
+                                "46\tShe could n’t care about tiny details .",
+                                "47\tHer mind was on the broader pictures —",
+                                "48\twhen it came to the joinery",
+                                "49\tshe knew",
+                                "50\twe could fix that later .",
+                                "51\tShe was right . ’"
+                            ],
+                            "RightTopic": "BroadPicture",
+                            "RightTree": {
+                                "Depth": 8,
+                                "PathFromRoot": "RRRRLRR",
+                                "NuclearityFromRoot": "SNMNNMN",
+                                "LeftText": [
+                                    "46\tShe could n’t care about tiny details .",
+                                    "47\tHer mind was on the broader pictures —"
+                                ],
+                                "LeftTopic": "BroadPictureFocus",
+                                "LeftTree": null,
+                                "RightText": [
+                                    "48\twhen it came to the joinery",
+                                    "49\tshe knew",
+                                    "50\twe could fix that later .",
+                                    "51\tShe was right . ’"
+                                ],
+                                "RightTopic": "FixDetailsLaterPhilosophy",
+                                "RightTree": null,
+                                "LeftNuclearity": "N",
+                                "RightNuclearity": "S"
+                            },
+                            "LeftNuclearity": "S",
+                            "RightNuclearity": "N"
+                        },
+                        "LeftNuclearity": "M",
+                        "RightNuclearity": "M"
+                    },
+                    "RightText": [
+                        "52\tHer fourth - year student project was a painting of a hotel in the form of a bridge ,",
+                        "53\tinspired by the works of the Russian suprematist artist Kazimir Malevich"
+                    ],
+                    "RightTopic": "FourthYearProject",
+                    "RightTree": null,
+                    "LeftNuclearity": "N",
+                    "RightNuclearity": "S"
+                },
+                "LeftNuclearity": "S",
+                "RightNuclearity": "N"
+            },
+            "LeftNuclearity": "M",
+            "RightNuclearity": "M"
+        },
+        "LeftNuclearity": "S",
+        "RightNuclearity": "N"
+    },
+    "LeftNuclearity": "N",
+    "RightNuclearity": "S"
+}

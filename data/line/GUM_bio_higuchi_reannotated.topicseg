@@ -1,0 +1,160 @@
+1	Ichiyō Higuchi
+2	Ichiyō Higuchi
+3	( 樋口 一葉 Higuchi Ichiyō , May 2 , 1872 – November 23 , 1896 )
+4	was a pen name of Japanese author Natsu Higuchi
+5	( 樋口 奈津 Higuchi Natsu ) ,
+HiguchiDatesAndAuthor{>2}GivenName
+6	also known as Natsuko Higuchi
+7	( 樋口 夏子 Higuchi Natsuko ) .
+HiguchiDatesAuthorName{>3}SpecialtyAndInfluence
+8	Specializing in short stories ,
+9	she was one of the first important writers
+10	to appear in the Meiji period
+11	( 1868 - 1912 )
+12	and Japan 's first prominent woman writer of modern times .
+Specialty{=4}Influence
+13	She wrote relatively little
+14	as a result of living a brief life
+15	— she died at 24 —
+16	but her stories had a large impact on Japanese literature
+17	and she is still appreciated by the Japanese public today .
+IntroHiguchi{>1}Biography
+18	Efforts to become a writer
+EffortsHeader{<2}Biography
+19	She , her mother , and younger sister made ends meet
+20	by doing needlework , washing , and other jobs .
+WorkingClassUpbringing{<6}BeNovelistToSupportFamily
+21	In 1892 ,
+22	after seeing the success of a classmate , Kaho Tanabe ,
+23	who wrote a novel ,
+24	Higuchi decided to become a novelist
+25	to support her family .
+DecisionToWrite{<5}EarlyWorks
+26	Nevertheless , her initial efforts
+27	at writing fiction
+28	were in the form of a short story , a form
+29	to which she would remain true .
+ShortStoryWriter{<6}FutureAdvisor
+30	In 1891 she met her future advisor
+31	who would help ,
+32	she assumed ,
+33	this poet-turned-fiction-writer
+34	and connect her with editors :
+IntroFutureAdvisorAndRole{>9}Name
+35	Tosui Nakarai .
+IntroTosuiNakarai{<8}Relationship
+36	She fell in love with him right away ,
+37	not knowing
+38	that , at 31 , he had a reputation as a womanizer .
+FellInLoveWithNakarai{>10}NotSeriousWriter
+39	Nor did she realize
+40	that he wrote popular literature
+41	which aimed to please the general public
+42	and in no way wished to be associated with serious literature .
+TosuiNakarai{>9}UnreciprocatedAffection
+43	Her mentor did not return her passionate ,
+44	if discreet ,
+45	love for him ,
+46	and instead treated her as a younger sister .
+TosuiNakarai{<7}RecurrentTheme
+47	This failed relationship would become a recurrent theme in Higuchi 's fiction .
+EarlyLife{=4}FirstPublications
+48	Eventually , she got the break
+49	she was so eager for :
+50	her first stories were published in a minor newspaper under her pen name , Ichiyo Higuchi .
+FirstPublications{>6}ContemporaryStyle
+51	The stories from this first period
+52	( 1892 – 94 )
+53	suffered from the excessive influence of Heian poetry .
+FirstSuccess{<5}WritingStyle
+54	Higuchi felt compelled to demonstrate her classical literary training .
+55	The plots were thin ,
+56	there was little development of character
+57	and they were loaded down by excessive sentiment ,
+58	especially when compared to what she was writing concurrently in her diary .
+EarlyWritingStyle{<6}TrademarkThemes
+59	But she was developing rapidly .
+60	Several of her trademark themes appear ;
+DevelopTrademarkThemes{<8}ExampleThemeLoveTriangle
+61	for example , the triangular relationship among a lonely , beautiful , young woman
+62	who has lost her parents ,
+63	a handsome man
+64	who has abandoned her
+65	( and remains in the background ) ,
+FirstTwoOfTriangle{=9}ThirdOfTriangle
+66	and a lonely and desperate ragamuffin
+67	who falls in love with her .
+LoveTriangleTheme{=7}AnotherTheme
+68	Another theme
+69	Higuchi repeated
+70	was the ambition and cruelty of the Meiji middle class .
+EarlyLife{=3}Career
+71	The story " Umoregi "
+72	( " In Obscurity " )
+73	signaled Higuchi 's arrival as a professional writer .
+74	It was published in the prestigious journal Miyako no Hana in 1892 ,
+75	only nine months after she had started writing in earnest .
+MajorPublication{<6}NewSeriousAuthor
+76	Her work was noticed
+77	and she was recognized as a promising new author .
+ProfessionalWriter{=5}MovingHouses
+78	Her last years
+79	In 1893 , Higuchi , her mother and her sister abandoned their middle class house
+LeaveOriginalHome{<7}PoorNeighborhood
+80	and , with a grim determination
+81	to survive ,
+82	moved to a poor neighborhood
+83	where they opened a stationery store
+84	that before long failed .
+FinanciallyStruggling{<6}InfluenceOfNewEnvironment
+85	Their new dwelling was a five-minute walk from Tokyo 's ill-famed red-light district , the Yoshiwara .
+NewEnvironment{<7}InfluenceLaterWorks
+86	Her experience
+87	living in this neighborhood
+88	would provide material for several of her later stories , especially " Takekurabe " ,
+89	( literally , " Comparing heights " ;
+LaterWorks{>8}MoreWorks
+90	" Child 's Play " in the Robert Lyons Danly translation ;
+91	also called " Growing Up " in the Edward Seidensticker translation . )
+BecomingProfessionalWriter{=4}MaturePeriod
+92	The stories of her mature period
+93	( 1894 – 96 )
+94	were not only marked by her experience
+95	living near the red-light district
+96	and greater concern over the plight of women ,
+MaturePeriodStyle{=7}InfluenceOfIharaSaikaku
+97	but also by the influence of Ihara Saikaku , a 17th-century writer ,
+98	whose stories she had recently discovered .
+99	His distinctiveness lay in great part in his acceptance of low-life characters as worthwhile literary subjects .
+MaturePeriodThemes{=6}IndividualStyle
+100	What Higuchi added was a special awareness
+101	of suffering and sensitivity .
+IndividualStyle{>7}SomeWorks
+102	To this period belong " Ōtsugomori "
+103	( " On the Last Day of the Year " ) ,
+104	" Nigorie "
+105	( " Troubled Waters " ) ,
+SomeWorks{=9}MoreWorks
+106	" Wakare-Michi "
+107	( " Separate Ways " ) ,
+108	" Jūsan'ya "
+109	( " The Thirteenth Night " )
+MoreWorks{=10}AnotherWork
+110	and " Takekurabe "
+111	( " Child 's Play " ) .
+112	The last two are considered her best work .
+MoreWorks{<8}FameLastFewYears
+113	With these last stories her fame spread throughout the Tokyo literary establishment .
+114	In her humble home she was visited by other writers , students of poetry , admirers , the curious , critics , and editors
+115	requesting her collaboration .
+MaturePeriod{=5}DeathAndInfluence
+116	But between constant interruptions and frequent headaches , Higuchi stopped writing .
+117	As her father and one of her brothers had before her ,
+118	she had caught tuberculosis .
+119	She died on November 23 , 1896 , at the age of twenty-four .
+CareerAndLife{>6}Legacy
+120	Higuchi 's likeness adorns the Japanese 5000 yen banknote as of fall 2004 ,
+121	becoming the third woman
+122	to appear on a Japanese banknote ,
+123	after Empress Jingū in 1881 and Murasaki Shikibu in 2000 .
+124	Her best-known stories have been made into movies .

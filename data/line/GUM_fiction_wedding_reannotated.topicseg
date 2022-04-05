@@ -1,0 +1,167 @@
+1	The Chemical Wedding by Christian Rosencreutz
+2	A ROMANCE IN EIGHT DAYS by JOHANN VALENTIN ANDREAE in a new version by JOHN CROWLEY
+3	illustrated by THEO FADEL
+4	SMALL BEER PRESS EASTHAMPTON , MASS .
+~
+5	Introduction
+6	I
+IntroductionHeader{<2}Content
+7	The Chemical Wedding by Christian Rosencreutz is the way
+8	I ’ve decided to present the title of this book .
+IntroTitleBook{>5}HowBookIsOftenTitled
+9	Most versions in English are called The Chemical Wedding of Christian Rosencreutz ,
+WhatBookOftenCalled{<6}MisleadingTitle
+10	which suggests
+11	( and most people
+12	who ’ve heard of it suppose )
+13	that the wedding is Christian ’s .
+WhatIncorrectTitleSuggests{<7}WhoChristianReallyIs
+14	It ’s not ;
+15	Christian Rosencreutz is the purported author of a book called The Chemical Wedding .
+ChristianRosencreutzRole{=4}RealAuthor
+16	The actual author is Johann Valentin Andreae ,
+17	whose name did n’t appear on the book originally ,
+18	thus ensuring the confusion .
+RealAuthorIsAndreae{>5}AuthorCallsItChemicalWedding
+19	I ’ll call it herein
+20	( as everyone mostly does )
+21	simply The Chemical Wedding .
+TitleBackground{>3}MoreInfoFromAuthor
+22	Though its original readers would have had a certain amount of context for the truly bizarre and surprising events
+23	it tells of ,
+OriginalReadersHadContext{<5}Author'sSuggestion
+24	it ’s possible that The Chemical Wedding is now more enjoyable
+25	without knowing that context ,
+26	and experiencing the book unmediated .
+27	You might therefore wish to start right in on the first page of text
+28	that follows
+ReadWithoutContext{>6}ReturnToIntroLater
+29	and only then return to this introduction .
+Author'sSuggestion{>4}Comparison
+30	Consider a similar case :
+31	a little book
+32	published in 1934 by the Surrealist artist Max Ernst
+33	called Une Semaine de Bonté .
+IntroFrenchBook{<5}BookDescription
+34	It was made entirely of collaged illustrations
+35	cut out of old books
+Introduction{<1}Story
+36	The First Day
+FirstDayHeader{<3}Story
+37	It was just before Easter Sunday , 1
+38	and I was sitting at my table .
+Setting{<5}PrayersAndReadyToCook
+39	I ’d said my prayers ,
+40	talking a long time as usual with my Maker
+41	and thinking about some of the great mysteries
+42	the Father of Lights had revealed to me .
+Prayers{=6}ReadyToCook
+43	Now I was ready to make and to bake
+44	– only in my heart , actually –
+45	a small , perfect unleavened wafer
+46	to eat with my beloved Paschal Lamb .
+SittingAtTable{<4}Disturbances
+47	All of a sudden a terrible wind blew up , so strong
+48	that I thought
+49	the hill my little house was built on would be blown apart –
+50	but I ’d seen the Devil do things as bad as this before
+51	( the Devil had often tried to harm me ) ,
+FeltStrongWind{>6}ContinuedMeditating
+52	so I took heart
+53	and went on meditating .
+StrongWind{=5}FeltSomething
+54	Till I felt somebody touch me on the back .
+55	This frightened me
+56	so that I did n’t dare turn .
+57	I tried to stay as brave and calm
+58	as a human being could under the circumstances .
+FirstTugAndFrightened{<7}SecondTugDiscoverWoman
+59	I felt
+60	my coat tugged at ,
+61	and tugged again ,
+62	and at last I looked around .
+63	A woman stood there , so bright and beautiful , in a sky-colored robe – a heavens covered with
+StrangeTug{>6}AuthorFootnoteAndContinuation
+64	1 Christian ’s story begins just before Easter , like Dante ’s Divine Comedy .
+65	It can be seen as an allegory of Christ ’s death and resurrection ,
+66	though this idea produces some puzzles .
+Author'sNote{=7}CharacterIsContent
+67	The birds sang so beautifully ,
+68	the young deer skipped so happily ,
+69	that it gladdened my old heart ,
+70	and I could n't help singing too ...
+DayOne{=2}DayFour
+71	THE FOURTH DAY
+FourthDayHeader{<3}Story
+72	I was awake and lying in bed next morning ,
+73	looking idly at the wonderful images and inscriptions all around my room ,
+SettingNextMorning{<6}SuddenSoundFearOverslept
+74	when suddenly I heard the sound of trumpets ,
+75	as if a procession were already underway .
+SuddenSound{=8}PageAndNarratorWakeUp
+76	My page jumped out of bed
+77	as if crazed ,
+78	looking more dead than alive ,
+PageJumpedUp{<9}PageAfraidPresentedToKing
+79	and you can imagine
+80	how I felt
+81	when he cried ,
+82	“ They 're already being presented to the king ! "
+PageAndCharacterGetUp{=7}GetDressed
+83	I could only groan in frustration and curse my lazy bones .
+84	I got dressed ,
+CharacterGotDressed{=8}PageRanOutToInvestigate
+85	but my page was quicker
+86	than I was
+87	and ran out of the chamber
+88	to see what was what .
+SuddenlyAwakeNextMorning{=5}HadNotOverslept
+89	He soon came back
+90	and gave me the good news
+91	that I actually had n’t overslept ;
+92	all I ’d done was miss breakfast :
+MissedBreakfast{=7}Didn'tWantToBotherHim
+93	they had n’t wanted to wake an old man
+94	who needed his rest .
+FoundOutOnlyMissedBreakfast{>6}CharacterGetsReady
+95	But now I had to get ready
+96	to go with him to the lion fountain ,
+97	where most of the others were gathered .
+FearOverslept{=4}ReliefAndInscription
+98	Such a relief !
+99	My spirits recovered ,
+100	and
+Relief{<7}WentToGarden
+101	as soon as I had got into my habit ,
+102	I followed him to the garden
+103	I have already told about .
+ReliefAndGoToGarden{=6}ExamineMonuments
+104	I found that the lion , in place of his sword , now held a rather large plaque .
+105	Examining this ,
+ExaminePlaques{<8}CanTellTakenFromMonuments
+106	I could tell
+107	that it had been taken from those ancient monuments
+108	I ’d seen
+109	and put here for some special reason .
+ExaminePlaques{>7}SetDownInscription
+110	The inscription on it was fading away ,
+111	so I should set it down here
+112	as it was then ,
+113	and ask my readers to ponder it :
+Garden{=5}Inscription
+114	Prince Hermes :
+115	Now after humankind has suffered so much harm here
+116	I flow
+117	having by god ’s counsel and with the help of art become a healing balm .
+HumanSufferingGod'sCounsel{=6}Orders
+118	Drink from me
+119	if you can ;
+Drink{=8}Wash
+120	wash ,
+121	if you like ;
+122	trouble my waters
+123	if you dare .
+Orders{=7}DrinkAndLive
+124	Drink , Brethren !
+125	Drink
+126	and live !

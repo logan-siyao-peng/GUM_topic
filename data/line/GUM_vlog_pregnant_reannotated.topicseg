@@ -1,0 +1,253 @@
+1	Hi everyone !
+2	So I 'm just about to tuck into a crisp sandwich .
+3	Salt vinegar squares are my crisp of choice .
+4	And I 've got some apple juice
+5	because this signifies kind of my diet staples the last few weeks .
+Diet{<2}AnnouncesPregnancy
+6	So I thought
+7	this was an opportune time
+8	to tell you all
+9	that a couple of weeks ago I found out
+10	that I am pregnant .
+IntroPregnant{>1}ReactionsAnxietyAndExperience
+11	It 's the first week
+12	that I 've been actually able to say the words " I 'm pregnant "
+13	and have it not feel really weird .
+NoLongerFeelWeird{<6}DateFoundOut
+14	I found out on ,
+15	I think
+16	it was the 3rd of January .
+MistakenDate{<7}DateFoundOut
+17	Let 's just double check that .
+18	No , excuse me ,
+19	it was the fifth of January .
+WhenSheFoundOut{=5}HowSheFoundOut
+20	I found out on the fifth
+21	and that was
+22	because my period was late
+23	and I am never late .
+LatePeriod{>6}Tracking
+24	As soon as I came off the pill
+25	my period came back pretty regularly
+CameOffPill{<7}StartToTrack
+26	and I started tracking my periods
+27	just because I knew
+28	the pregnancy was something
+29	that eventually we would want ,
+WantedToBePregnant{>8}UsefulToTrackCycle
+30	and I know
+31	that it helps if you 've been tracking your period
+32	so you know your cycle .
+FirstFindingOut{<4}InitialReactions
+33	And for the first few days / couple of weeks I felt really anxious , really scared , really worried ,
+AnxietyAndWorry{>6}Elaboration
+34	because my initial reaction was ,
+35	and still now , I 'm a bit like ,
+36	I 'm not old enough for this .
+37	I 'm not grown up enough
+38	to do this .
+NotFeelingGrownUpEnough{>7}AdultAndChild
+39	You feel like you 're prepared ,
+FeelPrepared{=10}LongRelationshipAndAdult
+40	you 're in a ,
+41	you know ,
+42	in a relationship .
+43	We have been for years ,
+44	we 're adults ,
+Adult{>9}Unsure
+45	but I do n't know what it is .
+Adult{=8}FeelingLikeChild
+46	As soon as I found out
+47	I just went back to like a 14 year old girl .
+48	I 'm like
+49	" oh my god , what am I gon na tell my mom ?
+50	I ca n't be a mom . "
+FeltLikeChild{=9}AnxiousAndOverwhelmed
+51	So really I was just very very overwhelmed and anxious
+52	so it took a few days for me to really process what happened .
+AnxietyAndWorry{=5}Shock
+53	It was quite a shock
+54	and it 's such a huge huge thing .
+55	It 's life-changing ,
+Life-ChangingShock{>6}ScaredAndTalkingToPeople
+56	and so for the first couple of weeks that 's all
+57	I could focus on ,
+58	was how life-changing it was
+59	and it was really scary .
+Scary{=7}TalkToPeople
+60	I then started to talk to people about it ,
+61	that made me feel better .
+InitialReactions{=3}Vlogging
+62	And , I 'm not really sure what I 'm trying to say .
+63	I do n't want this to be too , like , all over the place
+64	but I decided
+65	I do want to document this some way ,
+66	whether I –
+DecisionToDocument{<5}WhyDocument
+67	At first I was like ,
+68	I do n't need to copy it on YouTube
+69	but I definitely wanted to document this in some kind of video form ,
+70	just because it 's such a huge thing .
+71	You ’re only pregnant for the first time once .
+VlogBecauseImportantEvent{=4}WhatToVlogAndWhy
+72	But I did want to document my first trimester to an extent ,
+73	because
+74	when I first found out ,
+75	I did start to watch videos of people 's first few weeks ,
+WatchedVideos{=7}FrightenedFromPeople'sExcitement
+76	but again ,
+77	maybe because I was n't in a great headspace ,
+78	that just frightened me ,
+79	which again was because everyone was just saying how awful they felt , how excited they were ,
+WatchingOtherVlogs{=6}WorryFromWatching
+80	and I did n't feel excited .
+81	I felt worried .
+VideosFeelingWorried{<8}Reasons
+82	The thought
+83	of telling , like , my mom .
+84	I cried
+85	when I told her
+86	because I felt so , just , like , oh my god .
+CriedTellingMom{<9}GuiltForNotBeingHappy
+87	I mean
+88	you , you feel quite bad
+89	when you feel like that ,
+90	because it 's such a happy thing
+CryingTellingMom{=7}CurrentAcceptanceAndGuiltyFeelings
+91	and now ,
+92	you know ,
+93	I –
+94	you know ,
+95	I know
+NowRestarts{<9}CurrentAcceptance
+96	I 've kind of accepted .
+97	The shock has kind of sunk in .
+98	And I am happy to tell people ,
+CurrentAcceptance{<8}GuiltyFeelingsBefore
+99	but at first
+100	when you 're trying to get your head around it ,
+101	it 's very daunting
+Daunting{<9}GuiltyForFeelingBad
+102	and you just feel awful
+103	thinking .
+104	The thought
+105	of telling someone
+106	makes me want to burst into tears .
+GuiltyFeelings{=10}ManyFeelings
+107	All these things going onto my head .
+WatchingOtherVlogsAndExperience{=5}WhatToVlogNow
+108	So that also then helped me to make the decision
+109	that I do want to document this ,
+HelpedDecision{<6}HowToDocumentNow
+110	but I 'm probably going to do it , like , with hindsight ,
+111	so I check in every now and again
+112	and just let you know how I 've been feeling .
+OccasionalCheckIns{=7}NotDocumentingSickAndWaiting
+113	But in terms
+114	of if I am sick
+115	or I 'm not feeling great ,
+116	I 'm not gon na vlog
+117	whilst I feel like that .
+Won'tVlogWhenSick{>9}Reasons
+118	I would n't want to vlog
+119	whilst I feel like that
+120	if I was just ill anyway .
+Wouldn'tWantToVlog{=10}Doesn'tWantToShowSick
+121	And I just think
+122	it did n't help me seeing people at their worst at the very beginning ,
+123	because all you hear is doom and gloom .
+NotDocumentingSick{=8}WaitingAFewWeeks
+124	I decided to wait a few weeks
+125	before I even started to talk about it ,
+126	so I think
+127	I 'm about seven weeks .
+InitialReactionsAndVlogging{=2}FirstFewWeeksExperience
+128	I am waiting for my first midwife appointment .
+FirstAppointment{<4}BookingProcess
+129	I went –
+130	I booked the doctors ,
+131	because the NHS says
+132	you need to book a doctor 's appointment ,
+NHSRecommendation{=6}WasteOfTime
+133	but that was a waste of time
+134	and I felt quite bad
+135	about taking that appointment .
+136	Because in my area you 'd have to self-refer ,
+137	so I have n't had any kind of appointment or checkups or anything
+BookingDoctor'sAppointment{<5}Tracking
+138	but I have been tracking
+139	– tracking –
+140	I 've got an app
+141	called " what to expect " ,
+App{>6}AppDetails
+142	put in my ,
+143	you know ,
+144	cycle situation
+145	and have an estimated due date ,
+146	which is about mid-September .
+Appointments{=3}Symptoms
+147	In terms of symptoms ,
+148	I mean
+149	I have n't felt the best ,
+150	but I have been able to get through it .
+ManageableSymptoms{>5}NotSick
+151	I 've definitely struggled on some days
+152	but I have n't been sick .
+OverallState{<4}AppetiteSymptoms
+153	The biggest thing for me is I have lost –
+154	I dipped ,
+155	and I have lost my appetite .
+156	There 's nothing
+157	I really feel like eating .
+LossInAppetite{>6}Details
+158	I do n't have particular aversions to things ,
+159	I do n't feel really sick
+160	when I smell anything at the moment .
+NoParticularAversions{>9}NotInMoodFor
+161	But there 's things
+162	that I do n't want to have ,
+163	so like coffee ,
+164	I just know
+165	that I do n't want that ,
+Aversions{=8}Cravings
+166	and all I want is beige :
+BeigeFoods{>10}Details
+167	I want chips ,
+168	I want white toast ,
+169	it 's pretty much all
+170	I eat all day .
+ChipsAndToast{=11}Pasta
+171	Pasta
+172	if I want something hot maybe ,
+173	I 've had soup ,
+174	but essentially starchy carbs
+CravingCarbs{=9}Justification
+175	and that 's quite normal
+176	it seems .
+177	Like , everyone craves that at this point
+Normal{=10}NeedEnergy
+178	because you 're ,
+179	you know ,
+180	building a baby ,
+181	so you need that energy .
+CravingsAndAversions{=7}TriesToEatHealthy
+182	So I do n't feel particularly great nutrition-wise ,
+183	and I 'm trying to eat fruit
+184	where I can
+185	and veg
+186	when I can ,
+TryToEatHealthy{=8}GoWithFlow
+187	but I 'm just sort of going with it ,
+188	because I know
+189	there 's enough information out there
+190	that this is generally how it goes .
+191	And then hopefully you start to feel a bit better .
+AppetiteSymptoms{=5}PhysicalSymptoms
+192	I have felt nauseous and
+193	as everyone describes it ,
+194	a bit jet-lagged , a bit cloudy in my head ,
+Nausea{=6}Headaches
+195	and the worst thing for me has been headaches .
+196	I have n't had them this week ,
+197	but last week I had a couple of really really bad ones
+198	and I have n't had headaches that bad for years .

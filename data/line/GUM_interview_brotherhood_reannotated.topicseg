@@ -1,0 +1,84 @@
+1	Wikinews interviews President of the International Brotherhood of Magicians
+2	Wednesday , October 9 , 2013
+3	October is National Magic Month in the United States .
+4	Wikinews spoke with William Evans , president of the International Brotherhood of Magicians , about the current state of magic and what its future looks like in the world of entertainment .
+~
+5	For how long have you been involved
+6	in performing / studying magic ?
+Question{<3}Response
+7	Over 50 years .
+8	I am 61 now
+DirectResponse50Years{=4}BackgroundAndStory
+9	so I really started
+10	when I was about 10 years old
+11	even though I had seen and worked with some basic tricks a few years earlier .
+FirstIntroAt10{<5}MagicStoreAndInfluences
+12	I remember
+13	going into Hollywood Magic
+14	and wanting that big red box with the dragons on it
+15	and I did n't even know
+16	what it did .
+EnteringStoreWantingDragonBox{<7}MagicianSoldBooksInstead
+17	The magician behind the counter was wise enough not to sell it to me ,
+18	but instead sold me two books
+MagicStore{=6}InfluencesBooksAndMagicians
+19	which I still own today -
+20	" Scarne on Card Tricks " and " Scarne on Magic Tricks " .
+21	That started me out on books
+22	and I have amassed quite a few since then .
+23	My major influences on performance are Eugene Burger and Michael Skinner .
+PersonalIntroductionToMagic{=2}MagicTodayAndTravel
+24	October is National Magic Month in the US .
+25	Do you think
+26	magic is alive as a viable form of entertainment today ?
+Question{<5}Response
+27	Absolutely .
+28	There are more magicians
+29	working today
+30	than ever before .
+MoreWorkingMagicians{=6}AudienceWillAlwaysExist
+31	There will always be an audience for good magicians
+32	doing good magic .
+MagicStillPopularToday{=4}InfluenceOfInternet
+33	Has the internet helped or hurt magic ?
+Question{<5}Response
+34	Both .
+35	I think
+36	it has helped draw younger people to magic as a hobby ,
+InternetIncreaseMagicPopularity{=6}InternetCons
+37	but I think
+38	it has hurt the ability of young magicians
+39	to think
+40	because so many rely on the internet for everything
+RelyOnInternet{<8}NeedBooksForHistoryKnowledge
+41	and they are n't reading the books .
+42	We have to have knowledge of the history of magic and what has been done before .
+RelyOnInternetOverBooks{=7}InternetDiminishesTheExperience
+43	Moreover , seeing someone perform on the internet takes away the use of our senses , originality and imagination
+44	that reading and thinking about magic can produce .
+45	Anyone can become a monkey ;
+46	it takes serious study
+47	to become a magician .
+MagicToday{=3}TravelForWork
+48	Do you travel much in your current role ?
+Question{<4}Response
+49	Yes , I am traveling quite a bit .
+50	After I was inducted as International President in Phoenix in July ,
+51	I have been to the Jeff McBride Experience in Eureka Springs , Arkansas , Magic Live in Las Vegas , The Midwest Magic Jubilee in St. Louis , the TAOM in Dallas , the British Ring Convention in Buxton , England and the Magic Circle in London .
+TravelAlreadyDone{=5}UpcomingShows
+52	I am going to Las Vegas and Los Angeles next month ,
+53	Italy in November ,
+54	back to Las Vegas in December ,
+ThisYear{=7}NextYear
+55	Mexico in January ,
+56	Magi-Fest in February ,
+57	the Winter Carnival of Magic in Tennessee in March ,
+58	Eureka Springs Cavalcade of Magic in March ,
+59	and the FFFF in April .
+ListOfPlaces{>6}AsForNow
+60	That 's as of now .
+Interview{>1}PhotoCaption
+61	File photo of magician David Gish
+62	displaying magic props for a young child .
+63	Image :
+64	Paul Budd .

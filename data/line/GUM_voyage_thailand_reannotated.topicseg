@@ -1,0 +1,149 @@
+1	Respect
+RespectHeader{<2}Details
+2	Thais are a polite people
+3	and ,
+4	while remarkably tolerant of foreigners gallivanting on their beaches and with their women ,
+ThaiPeopleArePolite{<4}MutualRespect
+5	you ll find
+6	that you will get more respect
+7	if you in turn treat them and their customs with respect .
+IntroRespect{<3}TheWai
+8	The wai
+9	Ronald McDonald showing
+10	how it 's done
+ImageDescription{<5}WaiIntro
+11	The traditional greeting
+12	known as the wai ,
+13	where you press your hands together
+14	as is in prayer
+15	and bow slightly ,
+HowToWai{>6}WaiOriginAndProminence
+16	is derived from the Hindu cultural influence from India ,
+17	and still widely practised .
+IntroTheWai{>4}WaiInstructions
+18	Among Thais , there are strict rules of hierarchy
+19	that dictate how and when the wai should be given .
+20	In brief , inferiors salute superiors first .
+21	You should not wai service people or street vendors .
+WhenToDoWai{>6}MoreDescription
+22	The higher your hands go ,
+23	the more respectful you are .
+24	You will also often see
+25	Thais doing a wai
+26	as they walk past temples and spirit houses .
+HowThaiPeoplePracticeWai{=5}ExpectationsForForeigners
+27	As a foreign visitor , you are not expected to know how to wai ,
+28	nor to reciprocate
+29	when wai'd to ;
+NotExpectedToWai{>7}Hypothetical
+30	while you 're unlikely to cause offense
+31	if you do ,
+32	you may well look slightly strange .
+ExpectationsForForeigners{=6}AcknowledgeWai
+33	If somebody makes a wai to you ,
+34	a slight bow alone is more than sufficient for ordinary occasions ,
+35	and for business , most Thais will shake hands with foreigners instead of waiing anyway .
+Respect{=1}DressAndReligion
+36	Dress
+DressHeader{<3}Details
+37	Personal appearance is very important in Thailand as a measure of respect to other people .
+38	You will find
+39	that dressing appropriately means that you are shown more respect in return .
+DressLinkedToRespect{>6}GeneralExpectationsOfWesterners
+40	This translates in many ways ,
+41	even sometimes lowering initial offering prices at markets .
+42	While some allowance is made for the differing customs of foreigners ,
+43	Thais respond more positively to well-dressed Westerners .
+44	Traditionally , Thais are modest and conservative dressers .
+DressAndRespect{=5}SpecificDressRules
+45	At a minimum your clothes should be neat , clean , and free from holes or tears .
+46	Except at the beach or at sacred sites normal western dress is acceptable for both men and women ,
+CleanDressExpectation{=8}ModestDress
+47	except that you should avoid clothing
+48	showing a lot of skin .
+49	Pants are preferable to shorts ,
+PreferModesty{>9}TopsSpecific
+50	blouses should have capped sleeves ,
+51	and
+52	if tank tops are worn ,
+53	the straps should be thick
+54	( i.e. , not spaghetti straps ) .
+GeneralDressRules{>7}MenSpecificAttire
+55	Thai men generally wear pants ,
+ThaiMenPantsNorm{>8}ShortsNorms
+56	and most Thais view an adult man
+57	wearing shorts
+58	as fairly ridiculous ;
+59	shorts are primarily worn by laborers and schoolchildren .
+ShortsNotCommon{>9}ShortsLength
+60	Men 's shorts should be knee length or more ,
+61	if worn at all .
+ClothingExpectations{=6}ShoeProtocol
+62	Taking off one 's shoes at temples and private homes is mandatory etiquette ,
+63	and this may even be requested at some shops .
+TakeShoesOffRule{=7}RecommendedShoeTypes
+64	Wear shoes
+65	that slip on and off easily .
+66	Flip-flops , hiking sandals , and clog-type shoes are usually a good pragmatic choice
+67	for traveling in Thailand ;
+68	only in the most top-end establishments are shoes required .
+GeneralDress{=4}SacredSitesDress
+69	It is best to play it safe with wats and other sacred sites in Thailand ;
+70	your dress should be unambiguously modest and cover your entire torso and most of your limbs .
+71	For men , ankle-length pants are mandatory ;
+72	on top , t-shirts are acceptable ,
+73	though a button-front or polo shirt would be best .
+MenAttireRules{=6}WomenAttireRules
+74	Many recommend
+75	that women wear only full length dresses and skirts ;
+76	you should make sure that your clothing covers at least your shoulders and your knees
+77	and some places may require that you wear ankle-length pants or skirts and long sleeved tops .
+WomenAttireRules{>7}InappropriateClothesExamples
+78	Shorts and sleeveless shirts are highly inappropriate ,
+79	as are short skirts .
+GeneralDressRulesMenWomen{=5}ForeignersVersusLocals
+80	The rules are even more strict for foreign visitors ,
+81	so
+82	even if you see a local in shorts
+83	it 's not OK for everyone .
+ForeignersVersusLocals{>6}BeachNudityInappropriate
+84	Topless sunbathing is common by Western women at many tourist beaches .
+85	At beaches which are primarily Thai visitors however ,
+86	this is not advised .
+Dress{=2}Religion
+87	Religion
+ReligionHeader{<3}Details
+88	Buddhist prayer flags , Wat Arun , Bangkok
+ImageDescription{<7}ImportanceOfBuddhism
+89	Monks are an integral part of Buddhism in Thailand ,
+90	and Thai men are generally expected to spend a certain amount of time
+91	living as a monk
+92	at least once in their lifetime .
+ImportanceOfBuddhism{=6}MonksAndWomen
+93	Buddhist monks are meant to avoid sexual temptations ,
+94	and in particular they do not touch women
+95	or take things from women 's hands .
+MonksAvoidContactingWomen{=5}WomenExpectations
+96	Women should make every effort to make way for monks on the street and give them room
+97	so they do not have to make contact with you .
+98	Women should avoid offering anything to a monk with their hands .
+WomenAvoidContactingMonks{<6}AppropriateWayForInteraction
+99	Objects or donations should be placed in front of a monk
+100	so he can pick it up ,
+101	or place it on a special cloth
+102	he carries with him .
+AppropriateWayForDonation{>7}MonkAccompaniment
+103	Monks will sometimes be aided by a layman
+104	who will accept things from women merit-makers on their behalf .
+MonksAndWomen{=4}AppropriateDonationTypes
+105	Theravada Buddhist monks are also supposed to avoid material temptations
+106	and as such , are not allowed to touch money ,
+107	so offering money to a monk is considered to be a sign of disrespect in most Theravada Buddhist cultures .
+TheravadaViewsOnMaterialTemptations{<5}AppropriateDonations
+108	Therefore ,
+109	should you wish to donate to a monk ,
+110	you should only offer food , and put your monetary donation in the appropriate donation box at the temple .
+AppropriateDonations{>6}FakeMonks
+111	Those monks
+112	that accept money
+113	are almost always fakes .

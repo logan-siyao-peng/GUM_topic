@@ -1,0 +1,239 @@
+1	Boom !
+2	It 's like lipstick central .
+3	It 's actually pretty crazy in here .
+LipstickCentral{<3}LipstickContainer
+4	Eventually I actually —
+5	maybe we can check for this at Target .
+Target{<4}LipstickContainer
+6	I actually want to get one of those acrylic things
+7	where the lipsticks can just stand up in it
+8	and it looks super neat .
+9	Like that 's definitely what I want .
+LipstickContainer{<2}SpringCleaningPurpose
+10	But I also need to clear a lot of these out
+11	because I know
+12	a lot of these lipsticks are at least over like two three years old
+13	and that 's like not okay .
+IntroLipStick{<1}LipstickSpringCleaning
+14	Alright so let 's have a quick look at this .
+15	My fancy lipsticks — I ca n't part with them yet .
+16	I just I literally ca n't
+17	so I 'm gon na keep those .
+FancyLipsticks{=4}PatMcGrathLipstick
+18	Let 's see .
+19	Okay so this is a Pat McGrath lipstick .
+IntroPatMcGrathLipstick{<5}BeautifulRedLipstick
+20	Oh my gosh .
+21	It 's like the most beautiful red lipstick .
+Beautiful{=7}Swatch
+22	Look at this .
+23	Let me swatch it for you real quick , real quick .
+24	Mm !
+25	Look at how beautiful this is .
+Beautiful{>6}Keeps
+26	I feel like I do n't want to throw it away .
+FancyLipstick{=3}ExpirationInfoAndKeep
+27	But anyways , so on the bottom of this lipstick you can see where it says eighteen months is the shelf life so .
+28	Let me see if I can —
+29	Can you all see this ?
+30	I will definitely insert a little clip here
+31	that will show you what the shelf life symbol looks like on products .
+ShowShelfLifeSymbol{<5}Explanation
+32	So you will find this on all your cosmetics , your makeup .
+33	It is usually on there .
+34	So
+35	when it says eighteen M
+36	that means that product , after eighteen months , is expired .
+Explanation{>4}Keeps
+37	I feel like this is not too far past eighteen months ,
+38	and I mean look at the red .
+39	It 's beautiful ,
+40	so I ca n't part with it .
+41	This is a problem .
+FancyLipstickAndExpirationInfo{=2}MoreSortingAndDoorbell
+42	Oh my gosh .
+43	The doorbell rang .
+44	Excitement !
+DoorbellRang{<5}GetsDoor
+45	Who 's at the door Hershey ?
+46	Ah !
+47	Alright .
+48	I 'll be right back .
+49	I got to get the door .
+Door{<4}Hershey
+50	Alright .
+51	Let 's get back into the spring cleaning .
+52	You 're gon na spring clean with me ?
+53	What a sweet baby .
+54	Yes you are !
+DogInterruption{=5}HersheyFirstVlog
+55	Look at her .
+56	Guys I love her so much !
+57	Hershey it 's your first vlog .
+58	You 're doing great .
+59	Ah !
+Doorbell{<3}MoreSorting
+60	Alright .
+61	Let 's get into this .
+62	See what else we got here .
+ResumeSorting{<6}TooFaced
+63	Okay Too Faced Melted Matte Liquid Lipstick .
+64	I also love this .
+65	I love this color .
+IntroTooFacedLipstick{<5}Expiration
+66	See what this says .
+67	This says twelve months .
+68	One hundred percent this is definitely definitely expired ,
+69	but it 's just with lipsticks it 's kind of hard to tell .
+Expired{=6}Deciding
+70	Like — like usually with foundations
+71	when it 's expired ,
+72	you will see the oil separating and all that ,
+ComparingWithFoundation{<7}FinalDecisionAndExpiredPile
+73	but this just looks —
+74	it looks fine .
+75	Makes it hard to throw away ,
+76	but I 'm gon na create like a little expired pile down here on the floor .
+TooFacedAndExpiredPile{=4}MoreSorting
+77	Alright what is this ?
+78	Oh this is Ofra !
+IntroOfra{<7}OfraOldAndReminisce
+79	Oh my god
+80	I had this back in college
+81	is when I ordered this ,
+82	which is probably around twenty sixteen .
+Reminisce{<8}Old
+83	This is four years old .
+84	Everything has like rubbed off of it .
+85	This has one thousand percent got to go in the throw away pile .
+ThrowAway{>9}BadCondition
+86	Oh it looks kind of dry and crusty too .
+87	Yeah no .
+88	Not a good look .
+89	Let 's throw this out .
+Ofra{=6}ViewerEngagement
+90	Go ahead
+91	and comment below .
+92	How many of you people actually knew
+93	that makeup expires ?
+ViewerEngagement{>7}PersonalConcession
+94	Cuz I actually did not know
+95	and actually did n't realize
+96	what that symbol meant
+Didn'tKnowSymbol{=8}FoundOutFromOthers
+97	until I heard other people talking about it
+98	and I was like
+99	wait what ? .
+OfraAndViewerEngagement{=5}MortSorting
+100	Next up we got Ashton Liquid Lipstick by Anastasia Beverly Hills .
+101	Six months !
+102	You 're supposed to finish a whole liquid lipstick in six months .
+103	That is wild .
+ShortShelfLife{>7}Expired
+104	I definitely had this for at least — at least four years
+105	cuz I definitely had this in college as well .
+106	Yeah that 's gon na have to go in the expired pile .
+AnastasiaBeverlyHills{=6}MoreSorting
+107	So Dose of Colors definitely does not have an expiration date on their products .
+NoExpirationDate{>9}Hypothesis
+108	I do n't know
+109	if this means
+110	that they just do n't expire
+Doesn'tExpire{=10}Unsure
+111	or I do n't know .
+112	I do n't know
+113	what that means .
+DoseOfColorNoExpiration{<8}SeparatePile
+114	Okay .
+115	Let 's keep going .
+116	I 'm a just put all the Dose of Color in a separate pile
+117	cuz that 's kind of weird .
+118	I might need to research that a little bit .
+DoseOfColor{=7}MoreSorting
+119	Oh !
+120	Okay .
+121	Let me show you guys .
+122	That is an expired lipstick .
+123	Ew .
+ExpiredLipstickIntro{<9}FancyLipstick
+124	Okay so the fancy lipsticks have a shelf life of twelve months ,
+125	so one full year .
+126	I know
+127	I 've definitely had this over a year though .
+FancyLipstickTime{<10}Decision
+128	I think .
+129	Have I had this over a year ?
+130	My gosh it 's hard to think back .
+131	But yeah this just does not look good .
+132	That 's gon na have to go in the expired pile .
+ExpiredFancyLipstick{=8}MoreSorting
+133	Yikes !
+134	This black is also not looking good .
+IntroBlackLipstick{=10}Decision
+135	I feel like I 've only had the black since last year Halloween though .
+136	Or was it the Halloween before ?
+Halloween{=12}HardToRemember
+137	Guys this is harder
+138	than I thought .
+139	I ca n't remember
+140	when I bought things .
+HalloweenAndMemory{<11}DecisionExpired
+141	It 's not looking good though .
+142	It 's all like super separated .
+143	I do n't like how that looks .
+144	Expired !
+BlackLipstick{=9}MoreSorting
+145	Oh so this is interesting .
+146	Black Up actually has twenty four months of shelf life for their lip pencils
+147	which is really really good .
+148	That 's two years .
+BlackUpLongShelfLife{=12}LongShelfLifeUnhealthy
+149	But is that actually good ?
+150	Does that mean
+151	that this is chocked full of preservatives ?
+152	That 's like not healthy for you ?
+153	I do n't know !
+BlackUpLongShelfLife{=11}Decision
+154	But I 've definitely had this for more than two years .
+155	Expired .
+BlackUp{=10}MoreSorting
+156	This blue lipstick is definitely old .
+157	Definitely old .
+OldBlueLipstick{>13}ReiterateOld
+158	I do n't know
+159	if you can actually tell
+160	by looking at it
+161	but she 's old .
+IntroOldBlueLipstick{=12}PackagingAndDecision
+162	Let 's see what the shelf life is .
+163	That 's interesting .
+164	The Urban Decay does not have a shelf life on the actual stick .
+ShelfLifeNotOnStick{<14}Packaging
+165	So you know
+166	how lipsticks usually come in packaging ?
+167	It usually comes in that little box ?
+IntroBox{<16}ShelfLifeOnBox
+168	I 'm thinking
+169	that maybe Dose of Colors and Urban Decay have the shelf life
+170	printed on those boxes
+ShelfLifeOnBox{=15}WhoKeepsBox
+171	but who keeps their lipsticks in a box ?
+172	Like how do I know now
+173	if this is expired or not ?
+Packaging{=13}Decision
+174	I 've definitely had this over two years though
+175	so I 'm just gon na go ahead
+176	and throw it in the expired pile .
+177	I feel like two years is kind of the limit
+178	that I 've seen so far .
+BlueLipstickAndPackaging{=11}MoreSorting
+179	This has a shelf life of six months !
+180	Expired .
+ExpiredLipstick{<12}Piles
+181	So this is the throw out slash expired pile .
+ExpiredPile{=13}UncertaintyPile
+182	This is the I do n't know what to do with it pile ,
+183	but I think
+184	these are all the Dose of Colors lipsticks
+185	that I know
+186	I 've had for at least over two years .
