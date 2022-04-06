@@ -1,0 +1,106 @@
+1	Stranger Things Happen -
+2	Water Off a Black Dog ’s Back
+3	Rachel Rook took Carroll home
+4	to meet her parents
+5	two months after she first slept with him .
+6	For a generous girl , a girl
+7	who took off her clothes with abandon ,
+8	she was remarkably close - mouthed about some things .
+9	In two months Carroll had learned
+10	that her parents lived on a farm several miles outside of town ;
+11	that they sold strawberries in summer ,
+12	and Christmas trees in the winter .
+13	He knew
+14	that they never left the farm ;
+15	instead , the world came to them in the shape of weekend picnickers and driveby tourists .
+16	Do you think your parents will like me ? "
+17	he said .
+18	He had spent the afternoon preparing for this visit as carefully
+19	as if he were preparing for an exam .
+20	He had gotten his hair cut ,
+21	trimmed his nails ,
+22	washed his neck and behind his ears .
+23	The outfit
+24	he had chosen ,
+25	khaki pants and a blue button - down shirt
+26	-- no tie --
+27	lay neatly folded on the bed .
+28	He stood before Rachel in his plain white underwear and white socks ,
+29	gazing at her
+30	as if she were a mirror .
+31	" No , "
+32	she said .
+33	It was the first time
+34	she had been to his apartment ,
+35	and she stood square in the center of his bedroom ,
+36	her arms folded against her body
+37	as if she was afraid to sit down , to touch something .
+38	" Why ? "
+39	" My father will like you , "
+40	she said .
+41	" But he likes everyone .
+42	My mother 's more particular --
+43	she thinks
+44	that you lack a serious nature . "
+45	Carroll put on his pants ,
+46	admiring the crease .
+47	" So you 've talked to her about me . "
+48	" Yes . "
+49	" But you have n't talked about her to me . "
+50	" No . "
+51	" Are you ashamed of her ? "
+52	Rachel snorted .
+53	Then she sighed in a way
+54	that seemed to suggest
+55	she was regretting her decision
+56	to take him home .
+57	" You 're ashamed of me , "
+58	he guessed ,
+59	and Rachel kissed him
+60	and smiled
+61	and did n't say anything .
+62	Rachel still lived on her parents ' farm ,
+63	which made it all the more remarkable that she had kept Carroll and her parents apart for so long .
+64	It suggested a talent for daily organization
+65	that filled Carroll 's heart with admiration and lust .
+Present{=1}FlashbackWhenTheyFirstMet
+66	She was nineteen , two years younger than Carroll ;
+67	she was a student at Jellicoh College
+68	and every weekday she rose at seven
+69	and biked four miles into town ,
+70	and then back again on her bike , four miles uphill to the farm .
+71	Carroll met Rachel in the Jellicoh College library ,
+72	where he had a part - time job .
+73	He sat at the checkout desk ,
+74	stamping books and reading Tristram Shandy for a graduate class ;
+75	he was almost asleep
+76	when someone said ,
+77	" Excuse me . "
+78	He looked up .
+79	The girl
+80	who stood before the tall desk
+81	was red - headed .
+82	Sunlight
+83	streaming in through a high window opposite her
+84	lit up the fine hairs on her arm , the embroidered flowers on the collar of her white shirt .
+85	The sunlight turned her hair to fire
+86	and Carroll found it difficult to look directly at her .
+87	" Can I help you ? "
+88	he said .
+89	She placed a shredded rectangle on the desk ,
+90	and Carroll picked it up between his thumb and forefinger .
+91	Pages hung in tatters from the sodden blue spine .
+92	Title , binding , and covers had been gnawed away .
+93	" I need to pay for a damaged book , "
+94	she said .
+95	" What happened ?
+96	Did your dog eat it ? "
+97	he said ,
+98	making a joke .
+99	" Yes , "
+100	she said ,
+101	and smiled .
+102	" What 's your name ? "
+103	Carroll said .
+104	Already , he thought
+105	he might be in love .

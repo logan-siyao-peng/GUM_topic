@@ -1,0 +1,94 @@
+1	Re(a)d Wedding :
+2	A Comparative Discourse Analysis of Fan Responses to Game of Thrones
+3	It is no exaggeration to say
+4	that HBO ’s Game of Thrones is more than just a television series or a successful brand :
+5	it is a transmedia system in the sense
+6	first used by Marsha Kinder ( 1991 )
+7	and popularized by Henry Jenkins ( 2006 ) ,
+8	in which media - hopping networks of intertextualities extend the “ storyworld ” of an original production .
+TransmediaSystem{=3}LargeFranchise
+9	Now spanning six seasons and 60 episodes , with an average global viewership
+10	( from its most recent season )
+11	of 25.1 million viewers per episode
+12	( Shepherd , 2016 ) ,
+13	it has spawned five video games , a graphic novel adaptation , several companion books , two rap albums , a 28 - city orchestral tour , a wide variety of tabletop games , toys , merchandise and mobile apps , and countless podcasts , fanfics and other fan - based creations .
+GameOfThronesIntro{<2}FansAndThisStudy
+14	Given the volume of content this represents ,
+15	it is easy to forget that the television series itself is an adaptation of a book series with a pre-existing fandom .
+16	As such , the Game of Thrones storyworld represents a remarkably rich and challenging environment for fans old and new ,
+17	who must negotiate an increasingly complex network of paratexts and intertexts
+18	in order to fully engage with its narratives .
+19	In this sense , fans of the series represent an emerging model for cultural consumption
+20	that should be carefully explored .
+21	Transmedia systems , like that
+22	exemplified by Game of Thrones ,
+23	are becoming increasingly prevalent
+24	( e.g. , Star Wars , Harry Potter , The Walking Dead , the Marvel Cinematic Universe , etc ) ;
+25	these systems demonstrate , in microcosm , the global challenge
+26	of managing the fire - hose flow of information in contemporary postdigital society .
+Fans{=3}ThisStudy
+27	The study
+28	of how people , as fans , access and manage information within a transmedia system
+29	provides valuable insight
+30	that contributes not only to practitioners and scholars of the media industry ,
+31	but to the wider context of cultural studies ,
+32	by offering findings on this new model of the fan as consumer and information - user .
+33	For us , as digital humanists , defining the “ transmedia fan ” is of particular relevance
+34	as we seek to understand contemporary social and cultural transformations
+35	engendered by digital technologies .
+Introduction{=1}MethodologyAndConclusion
+36	Methodology
+MethodologyTitle{<3}Content
+37	As a first step
+38	in defining the “ transmedia fan ” ,
+39	the current project undertakes a comparative discourse analysis of online conversations of Game of Thrones fans .
+40	One of the most dramatic plot developments in the source material
+41	( Martin , 2000 )
+42	was adapted to the screen in the penultimate episode of the third season , “ The Rains of Castamere ”
+43	( Benioff & Weiss , 2013 ) .
+44	Readers of the book series had long anticipated and dreaded the events of the “ Red Wedding ” ,
+45	while fans of the show unfamiliar with Martin ’s narrative were largely taken unawares by the pivotal episode .
+46	Since the television series ’ inception , writers at The AV Club have written two critical reviews for each episode :
+47	one for viewers familiar with the books
+48	( i.e. , “ Experts ” )
+49	and one for viewers unfamiliar with the books and averse to “ spoilers ”
+50	( i.e. , “ Newbies ” ) .
+51	What results are two completely separate reviews of “ The Rains of Castamere ”
+52	which in turn document the fans ’ reactions to the episode in the form of user comment threads :
+53	one comment thread
+54	where fans were expected to be shocked by the outcome of the episode
+55	and one comment thread
+56	where fans had hotly anticipated it .
+57	As a pilot project , the current work takes the content of both comment threads
+58	— a corpus of approximately 5,600 comments —
+59	and analyzes each thread separately
+60	using a qualitative coding method
+61	aligned with constructivist grounded theory
+62	( Charmaz , 2006 ) .
+63	Through this analysis , a categorization of themes emerges
+64	illustrating tactics
+65	for negotiating intertexts and paratexts unique to each group of fans .
+66	These themes fall under two broad categories :
+67	negotiation
+68	( i.e. , emotional responses )
+69	and tactical negotiation
+70	( i.e. , cognitive , or reasoned responses ) .
+71	A comparison of categories and sub-categories between both groups provides preliminary findings
+72	to support an emergent model , or models , of the “ transmedia fan ” .
+Methodology{=2}Conclusion
+73	Conclusion
+ConclusionTitle{<3}Content
+74	The present research represents a first step
+75	in exploring the impact of transmedia systems ,
+76	as exemplified by Game of Thrones , through the study of fans .
+77	The question
+78	posed by this research
+79	is , fundamentally , an examination
+80	of how the problem of “ access ” is framed in postdigital society from the perspective of the consumer .
+81	Future research should explore the negotiation tactics
+82	observed in transmedia fans
+83	using the principles of De Certeau ’s ( 1984 ) everyday life practice ,
+84	in order to extend its application to the broader context of modern - day consumers .
+85	The current study will contribute to the development of further qualitative and quantitative research
+86	that will more clearly define the information behaviors of the transmedia fan .
+87	This project is of relevance to researchers in media studies , fan studies , information studies and digital humanities .

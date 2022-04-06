@@ -1,0 +1,130 @@
+1	2.1 Early Ideas in Atomic Theory
+2	By the end of this section , you will be able to :
+3	State the postulates of Dalton ’s atomic theory
+4	Use postulates of Dalton ’s atomic theory
+5	to explain the laws of definite and multiple proportions
+6	The earliest recorded discussion of the basic structure of matter comes from ancient Greek philosophers , the scientists of their day .
+7	In the fifth century BC , Leucippus and Democritus argued
+8	that all matter was composed of small , finite particles
+9	that they called atomos ,
+10	a term derived from the Greek word for “ indivisible . ”
+11	They thought of atoms as moving particles
+12	that differed in shape and size ,
+13	and which could join together .
+14	Later , Aristotle and others came to the conclusion
+15	that matter consisted of various combinations of the four “ elements ”
+16	— fire , earth , air , and water —
+17	and could be infinitely divided .
+18	Interestingly , these philosophers thought about atoms and “ elements ” as philosophical concepts ,
+19	but apparently never considered performing experiments
+20	to test their ideas .
+Background{<2}Dalton'sAtomicTheory
+21	The Aristotelian view of the composition of matter held sway for over two thousand years ,
+22	until English schoolteacher John Dalton helped to revolutionize chemistry with his hypothesis
+23	that the behavior of matter could be explained
+24	using an atomic theory .
+25	First published in 1807 ,
+26	many of Dalton ’s hypotheses about the microscopic features of matter are still valid in modern atomic theory .
+27	Here are the postulates of Dalton ’s atomic theory .
+28	1. Matter is composed of exceedingly small particles
+29	called atoms .
+30	An atom is the smallest unit of an element
+31	that can participate in a chemical change .
+32	2. An element consists of only one type of atom ,
+33	which has a mass
+34	that is characteristic of the element
+35	and is the same for all atoms of that element
+36	( Figure 2.2 ) .
+37	A macroscopic sample of an element contains an incredibly large number of atoms ,
+38	all of which have identical chemical properties .
+39	Figure 2.2
+40	A pre-1982 copper penny
+41	( left )
+42	contains approximately 3 ×× 10 22 copper atoms
+43	( several dozen are represented as brown spheres at the right ) ,
+44	each of which has the same chemical properties .
+45	( credit :
+46	modification of work by “ slgckgc ” / Flickr )
+47	3. Atoms of one element differ in properties from atoms of all other elements .
+48	4. A compound consists of atoms of two or more elements
+49	combined in a small , whole - number ratio .
+50	In a given compound , the numbers of atoms of each of its elements are always present in the same ratio
+51	( Figure 2.3 ) .
+52	Figure 2.3
+53	Copper(II) oxide , a powdery , black compound , results from the combination of two types of atoms
+54	— copper
+55	( brown spheres )
+56	and oxygen
+57	( red spheres ) —
+58	in a 1 : 1 ratio .
+59	( credit :
+60	modification of work by “ Chemicalinterest ” / Wikimedia Commons )
+61	5. Atoms are neither created nor destroyed during a chemical change ,
+62	but are instead rearranged to yield substances
+63	that are different from those
+64	present before the change
+65	( Figure 2.4 ) .
+66	Figure 2.4
+67	When the elements copper
+68	( a shiny , red - brown solid ,
+69	shown here as brown spheres )
+70	and oxygen
+71	( a clear and colorless gas ,
+72	shown here as red spheres )
+73	react ,
+74	their atoms rearrange
+75	to form a compound
+76	containing copper and oxygen
+77	( a powdery , black solid ) .
+78	( credit copper :
+79	modification of work by http://images-of-elements.com/copper.php )
+80	Dalton ’s atomic theory provides a microscopic explanation of the many macroscopic properties of matter
+81	that you ’ve learned about .
+82	For example ,
+83	if an element such as copper consists of only one kind of atom ,
+84	then it can not be broken down into simpler substances ,
+85	that is , into substances
+86	composed of fewer types of atoms .
+87	And
+88	if atoms are neither created nor destroyed during a chemical change ,
+89	then the total mass of matter present
+90	when matter changes from one type to another
+91	will remain constant
+92	( the law of conservation of matter ) .
+Content{>1}PracticeExamples
+93	EXAMPLE 2.1
+ExampleHeading{<2}Questions
+94	Testing Dalton ’s Atomic Theory
+95	In the following drawing , the green spheres represent atoms of a certain element .
+96	The purple spheres represent atoms of another element .
+97	If the spheres touch ,
+98	they are part of a single unit of a compound .
+99	Does the following chemical change
+100	represented by these symbols
+101	violate any of the ideas of Dalton ’s atomic theory ?
+102	If so ,
+103	which one ?
+104	Solution
+105	The starting materials consist of two green spheres and two purple spheres .
+106	The products consist of only one green sphere and one purple sphere .
+107	This violates Dalton ’s postulate
+108	that atoms are neither created nor destroyed during a chemical change ,
+109	but are merely redistributed .
+110	( In this case , atoms appear to have been destroyed . )
+111	Check Your Learning
+112	In the following drawing , the green spheres represent atoms of a certain element .
+113	The purple spheres represent atoms of another element .
+114	If the spheres touch ,
+115	they are part of a single unit of a compound .
+116	Does the following chemical change
+117	represented by these symbols
+118	violate any of the ideas of Dalton ’s atomic theory ?
+119	If so ,
+120	which one ?
+121	ANSWER :
+122	The starting materials consist of four green spheres and two purple spheres .
+123	The products consist of four green spheres and two purple spheres .
+124	This does not violate any of Dalton ’s postulates :
+125	Atoms are neither created
+126	nor destroyed ,
+127	but are redistributed in small , whole - number ratios .

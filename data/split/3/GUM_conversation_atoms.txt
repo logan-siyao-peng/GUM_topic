@@ -1,0 +1,208 @@
+1	Cool .
+2	Alright folks .
+3	Well alreet , well alroot , well alright .
+Fillers{<3}ItemsOnTable
+4	By now I 'm sure
+5	you 're wondering about the different things
+6	that I have on the table here ,
+AcknowledgeItemsOnTable{<2}ThreeStatesOfMatter
+7	but first , I would like to talk to you about these three items .
+TurnToThreeItems{<3}ThreeStatesOfMatter
+8	I have here , some ice in a pan ,
+9	water in this glass ,
+10	and steam rising from this pot .
+11	Now , I would like to ask you , how these three things .
+12	Tell me please .
+13	How are they all alike .
+14	These three things .
+15	This ice here in this pan .
+16	This water in this glass , and the steam
+17	rising from this pot ,
+18	just yell it out ,
+19	we are informal here , yes .
+20	Correct .
+21	They are all forms of water .
+22	This ice here of course is water ,
+23	I told you
+24	there was water in this glass ,
+25	and you have all seen water boil at home ,
+26	so you are familiar with steam .
+27	But now let 's try to figure out how they 're different ,
+28	we 'll look at temperature , first .
+29	And the temperature of this water here , the ice , is , about uh twenty - four – woo- nineteen degrees .
+30	Very cold .
+31	The temperature of this w- water here , is sixty - four degrees ,
+32	the temperature of this steam , is ,
+33	I know
+34	it 's hotter than that .
+35	Yeah , it 's about a hundred and eleven degrees .
+36	Okay .
+37	Fahrenheit .
+38	Okay .
+39	Oh , and by the way guys , what do we call something that 's hard , like this ice here , or a table , or a rock ?
+40	We call it a ?
+41	Solid .
+42	Very good .
+43	You should g- — you should be a choir .
+44	You should go out on the road there , like , yeah .
+45	We are .
+46	Y- — Oh well ,
+47	I 'm glad to meet you .
+48	Please give me your itinerary after the show .
+49	Yes .
+50	Yes .
+51	Of course we call it a sholids .
+52	A solid .
+53	And a solid has one shape .
+54	The shape
+55	that it starts out with .
+56	And what do we call something
+57	that you — that you can splish splash ?
+58	Take a bath in .
+59	Anything wet like soda or milk .
+60	Liquid .
+61	You 're not gon na let me finish ,
+62	are you ?
+63	Yes , we call it a ?
+64	Liquid .
+65	Very good .
+66	And a liquid can change its shape ,
+67	to f- completely fill the bottom of whatever container
+68	you put it in .
+69	And finally , what do we call something
+70	that 's loose ,
+71	and floating around like this steam here ?
+72	Or a cloud , or the air
+73	we breathe ,
+74	we call it a ?
+75	Gas .
+76	Correct .
+77	A gas .
+78	And a gas completely fills whatever shape container
+79	you put it in .
+80	And so , how do you get water to change , from a solid , to a liquid , to a gas , and back and forth ?
+81	Add energy .
+82	Woo .
+83	I like the way
+84	he expressed that .
+85	Never before have I heard it ,
+86	add or subtract energy , or , heat ,
+87	change the temperature , basically .
+88	Correct ?
+ThreeStatesOfMatter{=1}Balloons
+89	Alright .
+90	Well folks , now I 'm going to show you something else
+91	that happens
+92	when you change the temperature ,
+ChangeTemperature{=3}Balloons
+93	and that 's where these balloons come in .
+94	I have here a number of balloons ,
+95	but , l- let 's see
+96	how many of these balloons , I can fit , into this little itty - bitty container here .
+97	Well , everybody count together .
+98	This would be ...
+99	There 's a- in there .
+100	You think , well , okay , w- th- th- ,
+101	I 'm glad
+102	I never saw d- Citizen Kane with you .
+103	Rosebud is a sled .
+104	Okay .
+ChangeTemperatureAddBalloons{=2}Count
+105	Well , let 's all count together folks ,
+106	that was ?
+107	One .
+108	One .
+109	Very good .
+110	One balloon going into the little container here .
+111	And this would be ...
+112	Two .
+113	Two .
+114	Very good counting there .
+115	Two .
+116	Excellent .
+117	Two balloons going into the little container here .
+118	Ah , they 're not fitting in so easily .
+119	Oh no .
+120	So hopefully I can fit all balloons into this little container here .
+121	Oh stop guessing at what this is .
+122	Let 's have some suspense here .
+123	Come on .
+124	Alright .
+125	And this would be ?
+126	Three .
+127	Three .
+128	Very good .
+129	Three balloons going onto the the little container there .
+130	Three balloons .
+131	Three , yes , the balloon trinity .
+132	And now , this would be ?
+133	Eight .
+134	Four .
+135	Four .
+136	Very good .
+137	At first he was confused ,
+138	but then he figured it out .
+139	Everybody tell him what this is ,
+140	it 's ...
+141	Seven .
+142	It 's four .
+143	Boy you people did n't watch enough Sesame Street as a child .
+144	This would be ?
+145	Five .
+146	Thank you very much , yes .
+147	Five swollen balloons .
+148	In .
+149	In .
+150	Down .
+151	Down .
+152	Ah , ah .
+153	Okay .
+154	And this would be ?
+155	Six .
+156	Six ,
+157	good .
+158	And let 's do this uh ,
+159	let 's add some complexities to this here ,
+160	let 's do it in another language .
+161	In Spanish it would be ?
+162	Ocho .
+163	Seis .
+164	S- seis .
+165	N- ocho .
+166	Oh my gosh .
+167	I 'm afraid for our nation .
+168	Okay , well , and this would be ?
+169	Siete .
+170	Thank you .
+171	Seven .
+172	Right ?
+173	Seven .
+174	Okay .
+175	And finally , this would be ?
+176	Eight .
+177	Ocho .
+178	Eight , or ocho in Spanish ,
+179	and uh huit in French ,
+180	thank you very much .
+181	I thought
+182	you were telling me your breakfast .
+183	What you had for b- —
+184	But no , huit .
+185	Very good .
+EightBalloons{<3}HowTheBalloonsFit
+186	Oh my gosh , eight balloons into this little container here ,
+187	I bet
+188	you 're wondering r-
+189	how that happened .
+190	You popped two .
+191	There 's a hole in it .
+192	Well , there 's a hole ,
+193	no ,
+194	if you 're thinking
+195	there 's a hole ,
+196	think again .
+197	Because , there 's no hole in the counter at all .
+198	Pull em out .
+199	You slowed down the molecules ,
+200	Well – la duh dah dih duh duh , you 're getting a little ahead of me son .
+201	Let 's all figure it out together .

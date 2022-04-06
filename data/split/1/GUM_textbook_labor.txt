@@ -1,0 +1,81 @@
+1	Why the Division of Labor Increases Production
+2	When we divide and subdivide the tasks
+3	involved with producing a good or service ,
+4	workers and businesses can produce a greater quantity of output .
+5	In his observations of pin factories , Smith noticed
+6	that one worker alone might make 20 pins in a day ,
+7	but that a small business of 10 workers
+8	( some of whom would need to complete two or three of the 18 tasks
+9	involved with pin - making ) ,
+10	could make 48,000 pins in a day .
+11	How can a group of workers ,
+12	each specializing in certain tasks ,
+13	produce so much more than the same number of workers
+14	who try to produce the entire good or service by themselves ?
+IntroScenarioAndQuestion{=1}ThreeReasonsAndConclusion
+15	Smith offered three reasons .
+16	First , specialization in a particular small job allows workers to focus on the parts of the production process
+17	where they have an advantage .
+18	( In later chapters , we will develop this idea
+19	by discussing comparative advantage . )
+20	People have different skills , talents , and interests ,
+21	so they will be better at some jobs than at others .
+22	The particular advantages may be based on educational choices ,
+23	which are in turn shaped by interests and talents .
+24	Only those with medical degrees qualify to become doctors , for instance .
+25	For some goods , geography affects specialization .
+26	For example , it is easier to be a wheat farmer in North Dakota
+27	than in Florida ,
+28	but easier to run a tourist hotel in Florida
+29	than in North Dakota .
+30	If you live in or near a big city ,
+31	it is easier to attract enough customers
+32	to operate a successful dry cleaning business or movie theater
+33	than if you live in a sparsely populated rural area .
+34	Whatever the reason ,
+35	if people specialize in the production
+36	of what they do best ,
+37	they will be more effective
+38	than if they produce a combination of things ,
+39	some of which they are good at
+40	and some of which they are not .
+41	Second , workers
+42	who specialize in certain tasks
+43	often learn to produce more quickly and with higher quality .
+44	This pattern holds true for many workers ,
+45	including assembly line laborers
+46	who build cars ,
+47	stylists
+48	who cut hair ,
+49	and doctors
+50	who perform heart surgery .
+51	In fact , specialized workers often know their jobs well enough
+52	to suggest innovative ways
+53	to do their work faster and better .
+54	A similar pattern often operates within businesses .
+55	In many cases , a business
+56	that focuses on one or a few products
+57	( sometimes called its “ core competency ” )
+58	is more successful than firms
+59	that try to make a wide range of products .
+60	Third , specialization allows businesses to take advantage of economies of scale ,
+61	which means that for many goods ,
+62	as the level of production increases ,
+63	the average cost
+64	of producing each individual unit
+65	declines .
+66	For example ,
+67	if a factory produces only 100 cars per year ,
+68	each car will be quite expensive to make on average .
+69	However ,
+70	if a factory produces 50,000 cars each year ,
+71	then it can set up an assembly line with huge machines and workers
+72	performing specialized tasks ,
+73	and the average cost of production per car will be lower .
+74	The ultimate result of workers
+75	who can focus on their preferences and talents ,
+76	learn to do their specialized jobs better ,
+77	and work in larger organizations
+78	is that society as a whole can produce and consume far more
+79	than if each person tried to produce all of his or her own goods and services .
+80	The division and specialization of labor has been a force against the problem of scarcity .

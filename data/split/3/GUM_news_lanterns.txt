@@ -1,0 +1,68 @@
+1	Lantern Festival in Taipei lights up the night
+2	Monday , March 5 , 2007
+3	Taipei , Taiwan
+4	— The Taipei City Lantern Festival was off to a bright start on Saturday Night
+5	as hundreds of thousands of people crowded onto the Chiang Kai Shek Memorial near downtown Taipei
+6	to witness city mayor Hau Lung - bin
+7	and other dignitaries ceremoniously flip the switch
+8	to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park .
+FestivalIntro{>3}PigThemeZodiac
+9	The centerpiece of this rock concert - like performance is a 15 meter high rotating pig
+10	equipped with a fog machine , laser light show and theme music .
+11	The theme of this year s lantern festival revolves around the 12 year Chinese zodiac cycle s year of the pig .
+12	Its round shape symbolizes wealth and good fortune
+13	and is believed to bring good luck .
+FestivalIntroAndPigTheme{>2}FestivalBackgroundAndAttendance
+14	Started in 1990 ,
+15	the Taipei lantern festival continues a 2000 year old tradition of light related festivals
+16	marking the end of the Chinese New Year celebrations .
+FestivalOriginsAndTradition{=3}EventGrowsInPopularity
+17	This particular event grows in popularity every year .
+18	Last Year over 4 million visitors attended the event
+19	and this year the city expects about 6 million visitors
+20	according to the event website .
+FestivalIntroHistoryAndAttendance{=1}FestivalDescriptionAndTransportation
+21	Colorful lantern scenes not only fill the central square
+22	but also the surrounding 2 km circumference of the memorial .
+23	Each section has a theme .
+24	One side of the memorial is scenes
+25	made by student groups
+26	while other areas represent the counties of Taiwan .
+27	There is even a section of lanterns
+28	sponsored by foreign countries .
+29	The Malaysia Tourism board was quite prominent at the main entrance to the grounds .
+DifferentSectionsAndThemes{=3}CrowdsAndDecorations
+30	As with all new year celebrations in Taiwan , the lantern festival is crowded .
+31	People flock
+32	to see the lantern scenes
+33	and enjoy the festival atmosphere
+34	as they carry lanterns ,
+35	given away by the city
+36	and bought from street vendors at the event .
+37	The many light toys such a swords , devil ears , and lanterns turn the milling crowd into a unique light show
+38	that can be observed
+39	by climbing the steps of the 70 meter memorial hall on the grounds .
+EventDescriptionAndThemes{>2}TransportationAndWeather
+40	Local public transportation hubs are often swamped by the event .
+41	The station staff at Chiang Kai Shek Memorial Hall Station do an excellent job of crowd control
+42	but lines for the subway can still be hours long and very exhausting .
+CrowdedTransportation{=3}RainStorm
+43	A sudden rain storm on Sunday night
+44	( March 4 )
+45	caused a mass exodus of people to head for the station prompting lines
+46	that backed up into the street .
+47	The commuting crowds can be avoided however
+48	by walking from NTU Hospital Station or Shandao Station .
+49	Both of these stops are only about a 20 minute walk from the event
+50	and have no crowds at all .
+51	If you really want to avoid the crowds ,
+52	definitely avoid the weekends .
+53	Wait until the fourth or fifth day of the festival
+54	when the crowds will have dwindled .
+55	I visited the festival on Saturday night , the opening night ,
+56	and there was a sea of people in the square .
+57	I went back the next Tuesday night
+58	and there was almost no one there ,
+59	just a few stray photographers
+60	taking advantage of the unimpeded views of the lanterns .
+61	The festival runs through March 11 this year .

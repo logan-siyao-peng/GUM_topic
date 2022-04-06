@@ -1,0 +1,104 @@
+1	I wish to make a ministerial statement about the first confirmed case of COVID - 19 in New Zealand .
+2	On Friday , 28 February , New Zealand recorded its first case of the COVID - 19 coronavirus ,
+3	becoming the 48th country
+4	to have a confirmed case .
+IntroFirstConfimedCase{>2}DetailsOfCase
+5	The individual had entered the country two days earlier
+6	after spending some weeks in Iran ,
+7	which is currently experiencing a sizable outbreak of the disease .
+8	I can report to the House
+9	that they are currently in a stable and improving condition at Auckland Hospital .
+DetailsOfIndividual{=3}LimitSpread
+10	The good news in this instance is that the individual had limited contact with people upon their return to the country ,
+11	and their family took all the appropriate measures
+12	when presenting at the emergency department .
+13	As you would expect ,
+14	our public health service is working hard
+15	to contain this first case
+16	and limit the risk of any spread of the disease .
+17	Contact tracing began immediately
+18	and has gone to plan .
+19	All 15 people
+20	who were seated nearby the individual on their flight into New Zealand
+21	have been traced
+22	and are being told to self - isolate .
+23	Public health staff will remain in touch with individuals
+24	to monitor the situation
+25	and give ongoing advice .
+26	All but 10 of the remaining passengers on the flight ,
+27	who are not considered to be close contacts ,
+28	have also been contacted
+29	to provide reassurance
+30	and answer any questions
+31	they might have ;
+32	those 10
+33	that have n't been contacted
+34	did not provide accurate contact information .
+35	I 'm advised
+36	that
+37	as a result of our decisive response ,
+38	the chance of an outbreak from our first case is low .
+FirstConfirmedCaseNZ{>1}NZGeneralStepsCovid
+39	Internationally , the situation with COVID - 19 continues to develop at pace .
+40	However , the Director - General of the World Health Organization said , this morning ,
+41	containment … is feasible
+42	and must remain the top priority for all countries .
+WHOStatement{<3}NZApproach
+43	This is exactly the approach
+44	that New Zealand is taking ,
+45	using three main tools :
+46	border controls ; self - isolation ; and good public health practices ,
+47	including highlighting the importance of basic hygiene .
+48	At every step , the Government has taken decisions in the interests of health and safety of the wider public ,
+49	and so far we have been among the best
+50	at keeping COVID - 19 at bay .
+51	Just yesterday , Cabinet decided to extend for another week the travel restrictions
+52	that have been in place for China since 3 February and for Iran since last Friday .
+53	These restrictions have played a key role
+54	in keeping COVID - 19 out of New Zealand for so long
+55	and have given us time
+56	to better understand the disease
+57	and ramp up our preparations .
+GeneralApproachAndTravelRestriction{=2}FurtherPrecaution
+58	Of course , members will be aware
+59	that there are outbreaks in other regions as well .
+60	So , as a further precaution , we have decided
+61	that anyone arriving in New Zealand
+62	who has been in northern Italy or South Korea
+63	who has been there in the last 14 days
+64	will be registered for self - isolation .
+65	This is based on an expert assessment of risk .
+66	It recognises
+67	that
+68	while there are outbreaks in both countries ,
+69	they also have well - developed health systems
+70	and the outbreaks are largely located in specific regions .
+71	We know
+72	self - isolation works .
+73	It is a longstanding and successful approach
+74	to managing infectious diseases
+75	and has proven its worth again in recent weeks .
+76	We have also stepped up the health presence at our airports .
+77	All airlines flying into New Zealand have been requested to read a health message
+78	upon landing ,
+79	and all arrivals into New Zealand will receive health information cards alongside the standard customs declaration form .
+80	As a result of decisions
+81	taken on Friday ,
+82	health staff are meeting all direct international flights
+83	landing in New Zealand airports from Hong Kong , Japan , South Korea , Singapore , and Thailand .
+84	Our border response is further ramping up
+85	to have health staff available for all international flights into New Zealand .
+FurtherPrecaution{>3}Acknowledgements
+86	All these decisions and actions are designed
+87	to limit the spread of any sporadic COVID - 19 cases
+88	that might arrive in New Zealand .
+89	At the same time , our health system continues its preparations in line with our comprehensive pandemic plan .
+90	I want to thank our DHBs , public health staff , and primary care and health officials for the work
+91	they are doing
+92	to protect the public .
+93	I have high confidence in our medical professionals .
+94	We have a strong public health system .
+95	We continue to work
+96	to keep COVID - 19 out ,
+97	but we are ready
+98	if it arrives in our community .

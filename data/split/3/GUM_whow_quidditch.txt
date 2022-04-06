@@ -1,0 +1,168 @@
+1	How to Play Muggle Quidditch
+2	In the Harry Potter series
+3	written by JK Rowling
+4	the main wizarding sport is Quidditch .
+5	However you do n't have to have magical powers
+6	to play .
+QuidditchFromHarryPotter{>2}VarietiesOfPlayAndPopularity
+7	There are many different ways of playing Quidditch ,
+8	but the most commonly used set of rules are those
+9	given by the International Quidditch Association
+10	( which can be found here ) .
+InternationalQuidditchAssociation{<3}GrowingPopularity
+11	In the past Muggle Quidditch has mainly been played at colleges in the US ,
+12	but over the last few years there has been a dramatic rise in the number of community teams .
+13	Quidditch has also spread outside of America
+14	and is now played on 5 continents .
+QuidditchIntro{=1}HowToPlay
+15	Steps
+StepsHeader{<3}Steps
+16	Gather all needed materials and players
+17	( see Things
+18	You 'll Need
+19	section below ) .
+20	Know
+21	that all players can play
+22	while riding a broom .
+23	Brooms can be a hindrance however ,
+24	so feel free to not use brooms .
+25	Place the quaffle and three bludgers in the middle of the field .
+26	Ideally the quaffle and bludgers should be slightly deflated
+27	so that they are easier to throw and catch .
+28	Start the game .
+29	Both teams start from the edges
+30	and attempt to obtain the quaffle and bludgers .
+31	Follow your duty
+32	depending what type of player you are :
+33	Chasers try to score
+34	by throwing the quaffle into one of the three goal hoops .
+35	Each score is worth 10 points .
+36	Beaters try to peg players with their bludger .
+37	If a player is pegged
+38	they have to stop what they 're doing and pay a penalty ;
+39	i.e. ( drop the quaffle in the case of a chaser )
+40	and run back to and touch their goal post
+41	or alternatively sit down for 10 seconds .
+42	Keepers guard the goal posts at each end
+43	and attempt to block chasers ' attempts
+44	at scoring .
+45	If Keeper is close to their hoops
+46	they are safe from being hit by bludgers .
+47	Seekers try to tackle the snitch
+48	( a person )
+49	or obtain an object
+50	attached to the snitch
+51	such as a sock or flag .
+52	You can establish you own rules
+53	as to how a player catches the snitch .
+54	A common way to play is to make the snitch a person ,
+55	and give the snitch a head start
+56	to run
+57	and hide in defined boundaries .
+58	Then the seekers search for the snitch ,
+59	and attempt to tag the player .
+60	Other methods , such as the method
+61	adopted in 2005 ,
+62	makes the snitch a tennis ball in a sock ,
+63	hanging out of the running shorts of the snitch runner .
+64	Regardless of method , the winning seeker wins 30 points for his or her team ,
+65	unlike the books ,
+66	in which the snitch is worth 150 points .
+67	The creators of Muggle Quidditch thought
+68	that it was worth too many points
+69	so changed the value of the snitch for muggle Quidditch .
+70	The snitch , generally a track runner , runs around
+71	( usually the boundaries )
+72	trying to evade the seekers .
+73	The referee should ensure that rules are being followed .
+74	They also keep track of the score .
+75	Play the game !
+76	The object of the game is to score the most points
+77	and the game ends
+78	when the seeker snatches the snitch .
+79	Feel free to alter the game rules .
+80	See the Tips section for suggestions .
+81	Video
+82	How to Play a Real - Life Game of Quidditch
+83	You do n't need flying broomsticks or magic balls
+84	to play this version of the game -
+85	it 's tailor-made for muggles like us .
+86	This video shows a more realistic approach
+87	to playing Quidditch .
+88	Tips
+89	Alternatively the snitch can be a small yellow ball
+90	( tennis balls work great )
+91	that is hidden
+92	before the game starts
+93	by a bystander or referee .
+94	Establish boundaries
+95	and have the seekers look for the snitch .
+96	Beaters can try hitting the bludgers around in the air with a shortened hockey sticks or a short bat .
+97	They could also use regular - length hockey sticks
+98	to hit bludgers
+99	( perhaps wiffle balls )
+100	on the ground .
+101	The simplest way is to just peg players
+102	by throwing dodge balls .
+103	It may be easier to play without brooms
+104	( but also less fun ! ) .
+105	Remember that the snitch runner ,
+106	if you choose to use one ,
+107	is not an actual player in the game ,
+108	therefore , not bound by any of the rules .
+109	If desired ,
+110	the snitch is able to do whatever he or she wants
+111	to avoid capture .
+112	See How to Be a Snitch in Quidditch for more information .
+113	You can play water quidditch in a pool .
+114	Almost all the same rules apply .
+115	Have someone throw something
+116	( the snitch )
+117	on a line into the pool at regular intervals .
+118	They can even use fake snitches .
+119	You can buy authentic looking brooms
+120	to make the game more realistic .
+121	There is a very large Quidditch community ,
+122	have a look at the IQA website
+123	to find teams near you .
+124	One variation is Quarter Snitch Quidditch .
+125	Find a quarter or another small coin .
+126	Have both of the teams turn around
+127	and have the referee throw it into the grass or pitch
+128	while the teams are n't looking .
+129	Play
+130	while the seekers look for the snitch .
+131	Another variation is where the referee places the snitch somewhere in the field
+132	( in this case it 's a small ball ) .
+133	The seeker has to find the snitch blindfolded ,
+134	relying only on the coach 's instructions ,
+135	while the game is still on .
+136	Warnings
+137	Stay hydrated
+138	and exercise wisely .
+139	A ball flying in the air can hurt .
+140	If you 're playing quidditch
+141	you 're probably just having fun
+142	so play nicely .
+Playing{>2}RequiredItems
+143	Things You 'll Need
+ThingsNeededHeader{<3}Items
+144	15 players
+145	14 brooms
+146	Field
+147	( or big backyard )
+148	3 goal hoops per team
+149	Referee
+150	( optional )
+151	Color coded shirts or capes for houses , black for referee
+152	3 Bludgers
+153	( dodge balls , water balloons , wiffle balls etc. )
+154	1 Quaffle
+155	( volleyball , Frisbee , soccer ball , etc . )
+156	1 Snitch
+157	( person )
+158	Each team is composed of :
+159	3 Chasers
+160	2 Beaters
+161	1 Keeper
+162	1 Seeker

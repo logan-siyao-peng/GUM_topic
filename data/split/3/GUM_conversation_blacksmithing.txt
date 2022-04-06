@@ -1,0 +1,249 @@
+1	So you do n't need to go borrow equipment from anybody ,
+2	to to do the feet ?
+3	Do the hooves ?
+4	Well , we 're gon na have to find somewhere ,
+5	to get , something
+BorrowEquipment{=3}WhenToDoFeet
+6	So , Mae -
+7	I 'm gon na
+8	Mae Lynne
+9	We 're not gon na do the feet today ,
+10	I 'm gon na wait till like , early in the morning ,
+11	to do those ,
+12	cause y-
+13	I mean
+14	you get so tired .
+DoHoovesTomorrow{<2}VaryingExperience
+15	N- you just ,
+16	it takes well ,
+17	it takes me longer
+18	than most people ,
+19	cause
+20	you know ,
+21	I 'm not as strong
+22	and , and I 'm not as good ,
+23	as like somebody
+24	that would do it all the time .
+25	You know .
+26	I mean ,
+27	oh I mean
+28	I trim horses , and stuff like that ,
+29	but
+30	I mean ,
+31	I 'm not like ,
+32	I 'm not uh , .
+33	I do n't know how to say it .
+34	But
+35	you know ,
+36	they do it for a living .
+37	You know ,
+38	most people
+39	that you would get to trim your horse
+40	do it all the time .
+41	And I 'm not that good or ,
+42	and I 'm not very strong .
+NarratorComparedToProfessionals{=3}TrainingAndObserveOthers
+43	Did they train you —
+44	Yeah .
+45	Did they train you that —
+46	Yeah .
+47	Yeah .
+48	So you have your own equipment , but —
+49	No .
+50	I do n't have my own equipment at all .
+51	Dad ,
+52	you know ,
+53	has done some of it .
+54	That 's another thing too ,
+55	is I kinda had a b- general idea ,
+56	of kinda how to do it ,
+57	just watching him .
+58	Or — and watching , people come to our place ,
+59	and doing it
+60	and stuff
+61	you know .
+62	And , I do n't know .
+TrimmingHorseNow{<1}SchoolTrimmingAndHorseshoes
+63	Then , down there , um , it 's mandatory .
+64	You have to —
+65	to graduate ,
+66	you know ,
+67	or well , to get the degree ,
+68	you know ,
+69	you have to take this class .
+70	And you can only take —
+71	if you want to ,
+72	you can only take it for eight weeks .
+73	And ,
+74	if you wan na go on in it ,
+75	you n- — then , you can go on .
+76	You know .
+77	And I decided to go ahead
+78	and go on in it .
+79	And the first part of it , is like ,
+80	well we have lecture ,
+81	then we have lab .
+82	And like , the first part of it , we just go into the classroom ,
+83	and he like ...
+84	In the beginning of the year there was a lot of classroom work .
+85	I mean ,
+86	it — that 's just kinda how it happens ,
+87	you know ,
+88	because he kinda has to tell you ...
+89	They go over the whole , the whole part of the horse .
+90	I mean ,
+91	all the skeleton part of it
+92	you know ,
+93	and — and they go through every kind a ligament .
+94	And
+95	I mean ,
+96	there 's , millions of ligaments , and millions of tendons ,
+97	you know ,
+98	well not millions ,
+99	but ,
+100	I mean ...
+101	Yeah , I bet .
+102	And then , so we had to know these tendons , and ligaments , and then , all the bones , and ,
+103	you know ,
+104	all the way up – from the shoulder down , and then from the hip down .
+105	You know ,
+106	all the way down to the hoof , and then , the bone in the hoof , and , then all the wall , and ,
+107	you know ,
+108	of the hoof , and , what everything was called there ,
+Classes{=3}Trimming
+109	and then , he went over on how to trim it , and where you —
+110	Th- there 's a white line ,
+111	that you go by ,
+112	and a horse has this little white line ,
+113	and you clean it out with the — with the hoof knife .
+114	You know ?
+115	And then there —
+116	and then you can see this little white line ?
+117	And that 's kinda where you go by , to —
+118	You know ,
+119	the horse kinda helps you out ,
+120	because it , has that little white line right there .
+121	Mhm .
+122	And that 's where you kinda — kinda need a little guide ,
+123	of where you trim .
+124	And , I am still scared to do it .
+125	Because ,
+126	you know ,
+127	I mean ,
+128	you can make a horse go lame ,
+129	by doing it .
+130	Really ?
+131	Well you can trim em too short .
+132	And make em ,
+133	you know ,
+134	and they 're just a little bit , for f- the first couple of days ,
+135	you know ,
+136	I mean
+137	they 're just sore .
+138	That 's not bad ,
+139	but sometimes you can get it really bad .
+140	You can really make a horse really bad .
+141	And they m-
+142	You know
+143	then , they have to , like , keep em , away from anything ,
+144	you know ,
+145	get em really in the soft ground , and , no hard pebbles , or hard clods of dirt or anything ?
+146	So , I do n't know .
+147	I 'm a little scared about doing it yet .
+148	You know ,
+149	I get em really long .
+150	I mean
+151	they 're still long ,
+152	when I get done with them .
+153	A lot of times , like , I 'll get done ,
+154	and I 'll think
+155	I 'm done ,
+156	and I 'll look at -
+157	look down at the horse 's hoof ,
+158	and it 's still ,
+159	it 's too long .
+ClassesAndTrimmingHorse{=2}MakingHorseshoes
+160	And then like , I would never , ever , ever , trust myself , to shoe a horse .
+161	See
+162	we did that too .
+163	We did —
+164	we did a lot of stuff .
+165	We did a lot of stuff with the —
+166	like we had the , um , the burners ?
+167	You know ,
+168	and you 'd put the —
+169	you 'd have —
+170	you started out with the straight iron ?
+171	You know ?
+172	And you 'd stick it into the , into the ,
+173	you know
+174	like , actual blacksmithing .
+175	And you 'd put it into the hot coals ,
+176	you know ?
+177	And then , we 'd —
+178	I I – straight bar .
+179	And we 'd make it a — a horseshoe out of it ,
+180	you know ?
+181	But , these shoes we never did put on a horse .
+182	We just put the shoes
+183	that were already made , on a horse .
+184	And that 's as far
+185	as we got .
+186	I mean ,
+187	if you would really get into it ,
+188	well as a matter of fact , this is really funny .
+MakingHorseshoes{>3}FarriersAndHorseshoesAgain
+189	You know ,
+190	there is n't really any girl farriers around anywhere .
+191	They 're really —
+192	Farrier ?
+193	Th – yeah .
+194	Farrier is what they 're called .
+195	And the m- — the reason
+196	they were showing us this at college ,
+197	was just , to get us ,
+198	to know
+199	if our trimmer , and shoer was doing it right ,
+200	and — plus the knowledge
+201	of knowing the bones and ligaments .
+202	Which we , we had it in another class too .
+203	We — that was kind of a double thing
+204	that , we had in — in another class ,
+205	so it was kinda review for us .
+206	Well it was a review for some people ,
+207	depending on what time of the year you took it .
+208	You know .
+209	If it was a review
+210	or not .
+211	But , anyway , um , what was I gon na say ?
+212	I forgot what I was think- —
+213	You said
+214	you never made the horseshoes .
+215	Gon na say .
+216	But .
+217	Well , w- um , when we put em on a horse 's hoof ,
+218	all
+219	we do ,
+220	they 're already made .
+221	They 're round .
+222	We pick out a size .
+223	You know
+224	we 'd like look at the horse 's hoof ,
+225	and say ,
+226	okay , this is a double - aught .
+227	This is an aught .
+228	This is ,
+229	you know .
+230	What s- — what size .
+231	And double - aught and aught , are the ones
+232	that are most popular .
+233	For ,
+234	you know ,
+235	the light horse .
+236	You know ,
+237	I mean ,
+238	you get into the big horses , the — like the Clydesdales , Shires ,
+239	that 's a d- — a whole different thing .
+240	Or ponies , that 's a whole different thing .
+241	But we 're talking just the regular , light horses
+242	you know .
