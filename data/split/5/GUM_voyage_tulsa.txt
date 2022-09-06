@@ -1,0 +1,145 @@
+1	Tulsa
+2	Tulsa is in the Green Country region of Oklahoma .
+3	It is also called “ T - town ” by the locals
+4	and has been called the " Oil Capital of the World " .
+Nicknames{=2}Population
+5	The city had about 391,000 people
+6	and the metro area had about 937,000 people as of 2010 from the US Census Bureau .
+7	The Tulsa Bartlesville Combined area had 988,000 in the 2010 census .
+TulsaIntro{=1}ClimateCultureAndTransportation
+8	Understand
+9	Tulsa lies in northeastern Oklahoma , at the convergence of the Great Plains and the Ozark Plateau ,
+Location{=4}Climate
+10	and receives an average of 40 inches of precipitation each year ,
+11	both of which account for its abundant beautiful rolling green terrain .
+12	As a result , Tulsa breaks the Oklahoma stereotype of being nothing but a flat , arid dust bowl .
+OverallGreenTerrain{>5}SeasonalWeatherDetails
+13	Summers can be very warm
+14	and with the cold wind across the plains it can get very cold in the winter ,
+15	but it does not last long .
+16	The winters are considered to be very mild .
+17	There is not much snow ,
+18	just a few inches each year , typically ,
+19	although in 2007 and again in 2008 there were rather large " ice storms " .
+20	Tulsa has over 225 days of sunshine annually .
+Climate{=3}Culture
+21	In Tulsa you will find old west charm as well as a cosmopolitan atmosphere .
+22	You will find the people of Tulsa love their city
+23	and they have that southern charm ,
+24	so they are willing to help you find your way around .
+Atmosphere{=4}Art
+25	Tulsa has one of the largest concentrations of Art Deco in the nation ,
+26	having been a booming city during the 1920s
+27	when the architecture was first built by rich oil barons
+28	who built stately mansions
+29	and turned the Downtown area into a treasure trove of art .
+ClimateAndCulture{=2}TulsaTransportationGettingAround
+30	Get in
+TransportationHeader{<4}GettingToTulsa
+31	By plane
+PlaneHeader{>5}Details
+32	Tulsa International Airport
+33	( IATA :
+34	TUL )
+35	in the northern part of Tulsa .
+36	It has major airlines with direct flights to major cities in the U.S.
+37	It is a small but nice airport with sofas and chairs all around and a very laid - back feel .
+38	The car rental area and parking is well integrated .
+39	The airport offers free short term parking
+40	( first half - hour free ) .
+41	Richard L. Jones , Jr. Airport
+42	( IATA :
+43	RVS )
+44	( often called the " Riverside Airport " )
+45	is south of downtown
+46	and is a general aviation airport .
+47	By train
+48	There is no passenger train service to Tulsa .
+49	By car
+50	Most Tulsans drive almost everywhere ,
+51	although bus , bike , and pedestrian routes are starting to catch on .
+52	From the North / Kansas - US - 75 South from Bartlesville , OK , or US - 169 South from Coffeyville , KS .
+53	From the Northeast / Missouri - I - 44 West ,
+54	aka the " Will Rogers Turnpike . "
+55	The world 's former largest McDonalds spans the roadway near Vinita , OK .
+56	From the East / Arkansas - US - 412 West ,
+57	aka the " Cherokee Turnpike . "
+58	From the Southeast / Arkansas - The " Muskogee Turnpike . "
+59	From the South - US - 75 from Okmulgee , OK ,
+60	aka the " Okmulgee Beeline . "
+61	From the Southwest / Oklahoma City - I - 44 East ,
+62	aka the " Turner Turnpike . "
+63	From the West - US - 412 East ,
+64	aka the " Cimarron Turnpike . "
+65	For the slow scenic route from Northeast or Southwest come in on old Route 66 .
+66	By bus
+67	Greyhound Bus Lines +1918584-4428 , 317 S Detroit Ave.
+68	( downtown ) .
+TransportationGetToTulsa{=3}TransportationWithinTulsa
+69	Get around
+GettingAroundHeader{<4}Details
+70	Thanks to urban planning , the major city streets are placed in a grid layout .
+71	Almost all major intersections are one mile from each other , and exactly in a straight line .
+72	That makes it much easier to find places than in cities
+73	where streets go every which way .
+74	The major exception is downtown ,
+75	which is slanted at almost a 45 degree angle to the rest of the grid .
+76	By car
+77	Several freeways and bypasses can be used
+78	to easily get around the Tulsa Metro area :
+79	I - 244 , I - 44 , US 169
+80	( Mingo Valley Expressway ,
+81	aka " Pearl Harbor Memorial Expressway " ) ,
+82	US 75 , Hwy 51
+83	( Broken Arrow Expressway , The " B.A. " ) ,
+84	Creek Turnpike .
+85	The streets and avenues are planned on a 1 mile by 1 mile grid system ,
+86	with the main arterials running on each mile .
+87	In the core of the city , named avenues run north / south
+88	and are named after US cities , generally in repeating alphabetical order
+89	( for example , Winston - Yale - Allegheny - Braden ) .
+90	In the mid-town area the names are taken from colleges and college towns .
+91	North / South is divided by Admiral Blvd .
+92	Name streets East of Main are cities east of the Mississippi River ,
+93	vice versa for name streets west of Main .
+94	In the parts of the city farther from downtown , north - south streets are numbered .
+95	It is important to recognize that the specific format of the north - south numbered street names is North / South 145th East / West Avenue .
+96	Numbered streets run East / West with Main Street and the Arkansas River as the dividing line .
+97	Watch out for Place , Street , Avenue designation , e.g. 47th Place , 47th Street , or Florence Place , Florence Avenue .
+98	It is important to recognize that the specific format of the east - west numbered street names is West / East 71st Street North / South .
+99	In some parts of the city , numbered streets intersect ,
+100	so the distinction is important .
+101	Although rare ,
+102	one east - west numbered street may even intersect with a street of the same number
+103	running north - south .
+104	Downtown streets were originally platted parallel to the Frisco railroad tracks .
+105	When Tulsa expanded beyond the bounds of its original plat ,
+106	the expanded areas were platted in alignment with the points of the compass .
+107	Thus the " twisted " area down - town represents the original extent of Tulsa ca 1907 .
+DrivingInTulsa{=5}BusAndCyclingTulsa
+108	By bus
+109	Tulsa Transit provides bus service for the Tulsa Metro area .
+110	Cities served are Tulsa , Sand Springs , Sapulpa , Jenks , and Broken Arrow .
+111	The central station is at 319 S. Denver
+112	( downtown ) .
+113	They do not run that often , especially to the outer towns like Broken Arrow .
+114	Unlike major cities in the Northeast , the city bus is not a major form of transportation in the city .
+115	It is usually a means of travel for those
+116	who are without their own motor vehicle .
+117	By bicycle
+118	Tulsa has an extensive interconnected paved bike trail system .
+119	Rivertrail follows the Arkansas River from downtown Tulsa south to the suburbs .
+120	The Katy Trail runs west to Sand Springs .
+121	The Osage Trail is a rails - to - trails route
+122	that begins at the OSU - Tulsa campus and travels north 15 miles to Skiatook .
+123	The Creek Trail connects Rivertrail
+124	and continues east through Broken Arrow to the NSU - Broken Arrow campus .
+125	Riders accustomed to flat terrain may find Tulsa 's rolling land to be a bit more challenging , particularly during the heat of summer .
+126	If you are looking for a good workout ,
+127	the Creek Turnpike Trail follows the land 's original contours .
+128	Rivertrail is probably be best choice for the rider
+129	seeking an easy route .
+130	Four bike loan depots ,
+131	located along Rivertrail ,
+132	allow riders to borrow a bike for free for up to twenty - four hours .
+133	Tulsa has an active bicycling community .

@@ -1,252 +1,252 @@
-1	We need a —
-2	Do you have any sharp objects on you ?
+EDU	We need a —
+EDU	Do you have any sharp objects on you ?
 AskSharpObjects{=5}NoAndExamples
-3	No .
+EDU	No .
 InitialNo{<6}Suggestions
-4	Keys ?
-5	No I need like a little pin or something .
-6	You have a pencil ?
-7	You have anything in your hair ?
-8	No .
+EDU	Keys ?
+EDU	No I need like a little pin or something .
+EDU	You have a pencil ?
+EDU	You have anything in your hair ?
+EDU	No .
 Suggestions{>7}Frustration
-9	Fuck .
+EDU	Fuck .
 NeedSharpObject{=4}GetStarted
-10	What do you have to hit ?
-11	See this is the little -
-12	Oh .
-13	Oh oh .
+EDU	What do you have to hit ?
+EDU	See this is the little -
+EDU	Oh .
+EDU	Oh oh .
 HitSomething{<5}WasSlow
-14	Cool ?
-15	Okay .
-16	Alright .
+EDU	Cool ?
+EDU	Okay .
+EDU	Alright .
 Settled{=6}JustSlow
-17	See ,
-18	it was just slow .
-19	Okay .
+EDU	See ,
+EDU	it was just slow .
+EDU	Okay .
 GettingStarted{=3}BickerAndPlayerThree
-20	This is me ?
-21	Is this me ?
-22	Yeah .
-23	Yeah .
+EDU	This is me ?
+EDU	Is this me ?
+EDU	Yeah .
+EDU	Yeah .
 IdentifySelf{=5}Bickering
-24	Jennifer .
-25	Oh .
-26	That 's right .
+EDU	Jennifer .
+EDU	Oh .
+EDU	That 's right .
 Jennifer{<6}Bickering
-27	There you go thinking again .
-28	Smart ass .
-29	Smart ass .
+EDU	There you go thinking again .
+EDU	Smart ass .
+EDU	Smart ass .
 Bickering{<4}PlayerThree
-30	Alright .
-31	Wow .
-32	Who took over uh ...
-33	Oh .
+EDU	Alright .
+EDU	Wow .
+EDU	Who took over uh ...
+EDU	Oh .
 Surprise{<6}NorthAmerica
-34	They got North America .
-35	But not for long .
+EDU	They got North America .
+EDU	But not for long .
 TakeOverNorthAmerica{=5}PlayerThree
-36	Oh , my God .
-37	Oh my God , did you see that ?
-38	Because player thr- player three is aggressive ,
-39	so he 's gon na like go for everything .
+EDU	Oh , my God .
+EDU	Oh my God , did you see that ?
+EDU	Because player thr- player three is aggressive ,
+EDU	so he 's gon na like go for everything .
 IntroAggressivePlayerThree{>7}Elaboration
-40	How do you know ?
-41	Did I make him aggressive ?
-42	Yeah , you made him aggressive ,
+EDU	How do you know ?
+EDU	Did I make him aggressive ?
+EDU	Yeah , you made him aggressive ,
 MadePlayerThreeAggressive{<8}TryToTearEverythingUp
-43	so , he 's gon na like , try to tear everything up now .
-44	Um , that 's pretty well , like secure right there ,
-45	so maybe —
+EDU	so , he 's gon na like , try to tear everything up now .
+EDU	Um , that 's pretty well , like secure right there ,
+EDU	so maybe —
 PlayerThreeAggressive{=6}PlayerWipedOut
-46	That 's me .
-47	Oh fuck .
-48	Wow , he wiped my ass out .
+EDU	That 's me .
+EDU	Oh fuck .
+EDU	Wow , he wiped my ass out .
 Lose{>7}Bickering
-49	Ah , you suck .
-50	Watch this .
-51	Loser .
+EDU	Ah , you suck .
+EDU	Watch this .
+EDU	Loser .
 SharpAndPlayerThreeAggressive{=2}MorePlayingAndChatter
-52	What else can we do tomorrow ?
-53	Besides go to the movies , t- ?
-54	Go out to dinner ?
-55	I 'm so not hungry right now ,
-56	it 's hard for me to think about food .
+EDU	What else can we do tomorrow ?
+EDU	Besides go to the movies , t- ?
+EDU	Go out to dinner ?
+EDU	I 'm so not hungry right now ,
+EDU	it 's hard for me to think about food .
 PossibleDinnerTomorrow{=5}Hotdog
-57	Alright .
-58	I 'd like to go out to dinner though .
-59	Think we can find a hot dog ?
-60	Yeah , that 's a good idea .
-61	That 's an excellent idea .
+EDU	Alright .
+EDU	I 'd like to go out to dinner though .
+EDU	Think we can find a hot dog ?
+EDU	Yeah , that 's a good idea .
+EDU	That 's an excellent idea .
 DinnerPlansTomorrow{>4}Bickering
-62	There you go thinking again again .
-63	There you go thinking again .
+EDU	There you go thinking again again .
+EDU	There you go thinking again .
 Thinking{=5}Bickering
-64	I 'm gon na whip your butt .
-65	You think so , hunh ?
-66	Yeah .
-67	Un-unh .
+EDU	I 'm gon na whip your butt .
+EDU	You think so , hunh ?
+EDU	Yeah .
+EDU	Un-unh .
 PlansForTomorrow{<3}MorePlayingAndChatter
-68	That 's all I get ?
-69	That 's me ,
-70	right ?
+EDU	That 's all I get ?
+EDU	That 's me ,
+EDU	right ?
 QuestionReceiveCardsAmount{<6}QuantityPercentage
-71	Yeah you get a percentage of the amount of countries
-72	you own ,
-73	and then , for continents you get another set amount .
+EDU	Yeah you get a percentage of the amount of countries
+EDU	you own ,
+EDU	and then , for continents you get another set amount .
 ReceiveCardsPercentage{>5}CardUsesMoreCards
-74	So can I get something on this bad boy ?
-75	Yeah .
+EDU	So can I get something on this bad boy ?
+EDU	Yeah .
 UseCardsBuyThings{>7}HitOkay
-76	See ?
-77	So I hit okay ?
-78	Yeah .
-79	Hit okay .
-80	See you got one of each kind of card .
+EDU	See ?
+EDU	So I hit okay ?
+EDU	Yeah .
+EDU	Hit okay .
+EDU	See you got one of each kind of card .
 UseCardsBuyThings{=6}MoreCards
-81	Excellent .
-82	Oh okay .
+EDU	Excellent .
+EDU	Oh okay .
 Understanding{<8}ReceiveSixteenCards
-83	So I get ...
-84	So you got ten ,
-85	looks like sixteen .
-86	Sixteen ?
+EDU	So I get ...
+EDU	So you got ten ,
+EDU	looks like sixteen .
+EDU	Sixteen ?
 SixteenCards{<7}TakeOverPeopleReceiveCards
-87	Who you gon na trounce on ?
-88	That 's you up there , too , right there ,
-89	you know .
-90	That 's me right there , too .
-91	Oh yeah .
+EDU	Who you gon na trounce on ?
+EDU	That 's you up there , too , right there ,
+EDU	you know .
+EDU	That 's me right there , too .
+EDU	Oh yeah .
 IdentifyCharacters{<8}TakeOverPersonReceiveCards
-92	Um ...
-93	When w- you take over another person ,
-94	you take a —
-95	you get , their cards .
+EDU	Um ...
+EDU	When w- you take over another person ,
+EDU	you take a —
+EDU	you get , their cards .
 GettingCards{>4}MSGChatter
-96	The MSG in that Chinese food really got me high for a little bit .
+EDU	The MSG in that Chinese food really got me high for a little bit .
 MSGHigh{=5}MSHHeadaches
-97	Does MSG affect you ?
-98	No .
-99	Not really .
-100	It affects my mother .
-101	Gives her headaches .
+EDU	Does MSG affect you ?
+EDU	No .
+EDU	Not really .
+EDU	It affects my mother .
+EDU	Gives her headaches .
 PlayingGameAndChatting{=1}ConqueringAndAttacking
-102	Are you gon na attack over there ?
-103	I do n't know .
+EDU	Are you gon na attack over there ?
+EDU	I do n't know .
 PossibleAttack{=5}Fortify
-104	Thirteen .
-105	That leaves me with thirteen .
-106	I wan na fortify .
+EDU	Thirteen .
+EDU	That leaves me with thirteen .
+EDU	I wan na fortify .
 TryToFortify{>6}GameRestrictions
-107	You ca n't move those to there ,
-108	because they 're not touching .
+EDU	You ca n't move those to there ,
+EDU	because they 're not touching .
 GameRestrictions{>7}Bickering
-109	W- w- well that 's kind of bogus .
-110	Nun-unh .
-111	Maybe I 'll move em right there .
-112	Done .
-113	Done .
+EDU	W- w- well that 's kind of bogus .
+EDU	Nun-unh .
+EDU	Maybe I 'll move em right there .
+EDU	Done .
+EDU	Done .
 PossibleAttackAndFortify{=4}PlayerSixAndCards
-114	Oh fuck .
-115	Oh .
-116	Who 's this guy ?
-117	Player six .
-118	Yakutsk .
+EDU	Oh fuck .
+EDU	Oh .
+EDU	Who 's this guy ?
+EDU	Player six .
+EDU	Yakutsk .
 PlayerSix{=5}Cards
-119	Look at that .
-120	See if I have any cards .
-121	Oh , I got a set .
+EDU	Look at that .
+EDU	See if I have any cards .
+EDU	Oh , I got a set .
 HasCards{<6}ObservationDelay
-122	You know
-123	what I think ,
-124	I think
+EDU	You know
+EDU	what I think ,
+EDU	I think
 PrefaceObservation{<8}Observation
-125	the first time
-126	that it does the card mode ,
-127	it takes a long time .
+EDU	the first time
+EDU	that it does the card mode ,
+EDU	it takes a long time .
 ObservationDelay{>7}Agreement
-128	Yeah .
-129	Yeah .
+EDU	Yeah .
+EDU	Yeah .
 PossibleAttackPlayerSixCards{>3}LastTimeAndBickering
-130	You remember the last time ,
-131	that 's what happened .
-132	Yeah .
-133	You remember ?
-134	Yeah .
+EDU	You remember the last time ,
+EDU	that 's what happened .
+EDU	Yeah .
+EDU	You remember ?
+EDU	Yeah .
 LastTime{>4}Bickering
-135	Look at you being smart .
-136	I 'm not smart ?
+EDU	Look at you being smart .
+EDU	I 'm not smart ?
 SmartBickering{=6}StupidBickering
-137	You 're stupid .
-138	Do n't call me stupid .
-139	Mm .
-140	Alright .
+EDU	You 're stupid .
+EDU	Do n't call me stupid .
+EDU	Mm .
+EDU	Alright .
 SmartStupidBickering{=5}ArmiesConqueringBickering
-141	Look at you with the uh little armies down here .
-142	Big armies .
-143	Trying to —
-144	trying to win .
-145	I got big armies , buddy .
+EDU	Look at you with the uh little armies down here .
+EDU	Big armies .
+EDU	Trying to —
+EDU	trying to win .
+EDU	I got big armies , buddy .
 ArmiesBickering{=6}ConquerBickering
-146	Trying to conquer the world .
-147	I 'm gon na conquer —
-148	I 'm gon na conquer you .
-149	Probably .
+EDU	Trying to conquer the world .
+EDU	I 'm gon na conquer —
+EDU	I 'm gon na conquer you .
+EDU	Probably .
 ConsideringAttacking{=2}Attacking
-150	Ooh .
-151	He 's giving you some problems over there .
-152	He is indeed .
+EDU	Ooh .
+EDU	He 's giving you some problems over there .
+EDU	He is indeed .
 IssuesFromAnotherPlayer{=4}TryToConquerEurope
-153	Go for that one .
-154	Go into Europe .
-155	Get Europe .
+EDU	Go for that one .
+EDU	Go into Europe .
+EDU	Get Europe .
 Europe{=5}PossibleAttack
-156	Oops .
-157	You wo n't attack me yet .
-158	I think
-159	I 'll stop there .
-160	Hmm .
+EDU	Oops .
+EDU	You wo n't attack me yet .
+EDU	I think
+EDU	I 'll stop there .
+EDU	Hmm .
 PossibleAttack{=3}CardsExplanationAndMoreAttack
-161	I only have uh , that many cards , so ...
-162	How many cards you have ?
-163	You only have two .
-164	Just two .
-165	So you ca n't have a set .
+EDU	I only have uh , that many cards , so ...
+EDU	How many cards you have ?
+EDU	You only have two .
+EDU	Just two .
+EDU	So you ca n't have a set .
 NotEnoughCards{<5}ExplainGetCardsAgain
-166	When do you get — h- —
-167	when do you get cards though ?
-168	I do n't understand that .
-169	Every time you take over a country
-170	you get cards .
+EDU	When do you get — h- —
+EDU	when do you get cards though ?
+EDU	I do n't understand that .
+EDU	Every time you take over a country
+EDU	you get cards .
 MoreCardsExplanation{=4}MoreAttack
-171	What row ?
-172	Attack with the twenty-two .
-173	Press twenty-two ,
-174	attack .
+EDU	What row ?
+EDU	Attack with the twenty-two .
+EDU	Press twenty-two ,
+EDU	attack .
 Attack{<6}GetCards
-175	Wow .
-176	Look at that .
-177	Oh , see
-178	look ,
-179	you just got all of his cards .
+EDU	Wow .
+EDU	Look at that .
+EDU	Oh , see
+EDU	look ,
+EDU	you just got all of his cards .
 GetCards{>7}PressOkay
-180	Press okay .
+EDU	Press okay .
 AttackGetCards{=5}BonusPanic
-181	Bonus ?
+EDU	Bonus ?
 Bonus{<6}Panic
-182	Oh my God .
-183	Fuck .
-184	Fuck .
-185	Fuck fuck fuck .
-186	Oh man .
+EDU	Oh my God .
+EDU	Fuck .
+EDU	Fuck .
+EDU	Fuck fuck fuck .
+EDU	Oh man .
 Panic{<7}NumbersAndAttack
-187	Look at that .
-188	Twenty-seven .
-189	Twenty-nine .
-190	Th – twenty-one two three four five six seven eight .
-191	Twenty-eight .
+EDU	Look at that .
+EDU	Twenty-seven .
+EDU	Twenty-nine .
+EDU	Th – twenty-one two three four five six seven eight .
+EDU	Twenty-eight .
 Numbers{=8}Attack
-192	Do n't you fucking attack me .
-193	You ass .
-194	You asshole .
-195	Two — hmm .
-196	I 'm tired .
+EDU	Do n't you fucking attack me .
+EDU	You ass .
+EDU	You asshole .
+EDU	Two — hmm .
+EDU	I 'm tired .

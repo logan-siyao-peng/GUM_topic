@@ -1,0 +1,102 @@
+1	4. Discussion .
+DiscussionTitle{<3}Content
+2	We hypothesized
+3	that the children ,
+4	who were over the age of six at the time of collection ,
+5	would have adult - like SI interpretations .
+6	We expected
+7	that the use of a training session and then the format of the question would guide participants towards evaluating pragmatic felicity
+8	over providing truth value judgments ,
+9	and would result in adult - like interpretations .
+10	Further , we posited
+11	that
+12	if our initial hypothesis was not supported ,
+13	and in fact there was some non - adult - like performance ,
+14	that there would be significant variability among the conditions ,
+15	with cardinal numbers having the highest performance
+16	and some the weakest .
+Hypothesis{=4}Findings
+17	On the surface , it does seem as if there is variability
+18	and perhaps a larger sample size or more items could lead to a significant finding
+19	( see limitations below ) ,
+20	but at least for this study , the only significant finding was the difference between cardinal numbers and some .
+21	Significant differences were not observed between all and cardinal numbers or all and some .
+IntroDiscussion{=2}LimitationsAndFutureDirections
+22	4.1. LIMITATIONS AND FUTURE DIRECTIONS .
+LimitationsAndFutureDirectionsTitle{<3}Content
+23	This study is limited in its power and generalizability .
+24	It serves as a reminder of the work
+25	that needs to be completed for the cross-linguistic study of SI in particular and acquisition more generally .
+26	Bantu languages are not included in studies of acquisition often enough
+27	despite the numerous languages in this linguistic grouping and the millions of people
+28	using them .
+IntroLimitationAndValue{<4}FutureStudiesAndLimitations
+29	Future studies need to include more participants and more items
+30	to increase power .
+31	Future studies should also include a larger age range of children
+32	to document the age
+33	at which adult - like performance emerges .
+34	Related cross-cultural studies have resulted in insufficient statistical power ,
+35	but interesting trends
+36	( e.g. , Nedwick , 2014 ) .
+37	Follow - up studies with increased stimuli and participants are needed .
+38	In a future study , it is also important to consider
+39	if additional training in the difference
+40	between reporting on felicity and truth value judgments
+41	would impact results ,
+42	or if more naturalistic experimental conditions
+43	( e.g. , demonstrating actions
+44	using real objects instead of two - dimensional depictions )
+45	would be beneficial .
+46	Previous studies in this region of sub-Saharan Africa have found evidence of cultural differences in testing behavior
+47	( Hein , Reich , Marks , Thuma , & Grigorenko , 2016 ) .
+48	The current study is too small
+49	to make strong conclusions with regard to cultural differences and experimental methods ;
+50	however , in the study by Hein and colleagues it was found
+51	that children responded more or less frequently
+52	based on factors such as stimuli type .
+53	In the current study , the responses from two children were not included
+54	because they responded the same way to every item through the training and all test items .
+55	More specifically , they answered “ yes ”
+56	that the puppet described the pictures well .
+57	It is possible that these two children understood the task
+58	and really did believe
+59	that the puppet did not produce any poor descriptions ,
+60	and in this regard , are not yet adult - like in their SI interpretations .
+61	This is unlikely
+62	as they said
+63	that even the first training item was said well .
+64	It is also possible though that these two children were attempting to please the data collectors , or be polite ,
+65	and that “ yes ” was in some ways a default answer
+66	to be provided
+67	when having to respond verbally in a test context .
+68	Additional training with the methodology could improve outcomes .
+69	The puppets
+70	used
+71	were picked specifically for this task with careful attention to their appearance .
+72	Upon arrival at the school , however , it became clear that the children were not accustomed to playing with puppets
+73	and that the data collection would be a novel experience for them .
+74	Further exploration with greater cardinal number ranges could also prove interesting .
+75	Numbers through five in the participating communities are most often expressed with native Chitonga words
+76	while numbers greater than five are typically indicated
+77	using English borrowings .
+78	The cardinal numbers
+79	included in this study
+80	were only one through five
+81	in order to avoid additional item variability ,
+82	but larger numbers should be included in future research .
+Discussion{=1}Conclusion
+83	5. Conclusion .
+ConclusionTitle{<2}Content
+84	Albeit limited ,
+LimitedFindings{<4}MainFindings
+85	these results provide valuable insight into SI interpretation by Chitonga - speaking children
+86	and demonstrate
+87	that pragmatic inference acquisition likely follows the order
+88	identified in previous research ,
+89	but appears to be completed at a later age in this language .
+MainFindings{>3}SituateFindingsInExistingKnowledge
+90	This interesting combination of findings
+91	– expected hierarchy of difficulty , but differing age of acquisition –
+92	is an important addition to our growing cross-linguistic knowledge of SI
+93	and could be the result of language - specific differences in the use of SI lexical items or methodological differences .

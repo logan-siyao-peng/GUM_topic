@@ -1,192 +1,192 @@
-1	Keep your eyes peeled for cosmic debris :
-2	Andrew Westphal about Stardust @ home
-3	Sunday , May 28 , 2006
+EDU	Keep your eyes peeled for cosmic debris :
+EDU	Andrew Westphal about Stardust @ home
+EDU	Sunday , May 28 , 2006
 ~
-4	Stardust is a NASA space capsule
-5	that collected samples from comet 81P/Wild
-6	( also known as " Wild 2 )
-7	in deep space
-8	and landed back on Earth on January 15 , 2006 .
+EDU	Stardust is a NASA space capsule
+EDU	that collected samples from comet 81P/Wild
+EDU	( also known as " Wild 2 )
+EDU	in deep space
+EDU	and landed back on Earth on January 15 , 2006 .
 WhatIsStardust{=3}StardustAtHomeProject
-9	It was decided that a collaborative online review process would be used
-10	to " discover " the microscopically small samples
-11	the capsule collected .
+EDU	It was decided that a collaborative online review process would be used
+EDU	to " discover " the microscopically small samples
+EDU	the capsule collected .
 CollaborativeReviewProcess{=4}HumanIntelligenceAndDirectorIntro
-12	The project is called Stardust @ home .
-13	Unlike distributed computing projects like SETI @ home , Stardust @ home relies entirely on human intelligence .
-14	Andrew Westphal is the director of Stardust @ home .
+EDU	The project is called Stardust @ home .
+EDU	Unlike distributed computing projects like SETI @ home , Stardust @ home relies entirely on human intelligence .
+EDU	Andrew Westphal is the director of Stardust @ home .
 IntroStardust{>2}WikinewsInterviewLogistics
-15	Wikinews interviewed him for May 's Interview of the Month
-16	( IOTM )
-17	on May 18 , 2006 .
-18	As always , the interview was conducted on IRC ,
-19	with multiple people asking questions .
+EDU	Wikinews interviewed him for May 's Interview of the Month
+EDU	( IOTM )
+EDU	on May 18 , 2006 .
+EDU	As always , the interview was conducted on IRC ,
+EDU	with multiple people asking questions .
 Intro{<1}Interview
-20	Some may not know exactly
-21	what Stardust or Stardust @ home is .
-22	Can you explain more about it for us ?
+EDU	Some may not know exactly
+EDU	what Stardust or Stardust @ home is .
+EDU	Can you explain more about it for us ?
 Question{>4}ImageCaption
-23	Artist 's rendering of Spacecraft Stardust
-24	Image :
-25	NASA
+EDU	Artist 's rendering of Spacecraft Stardust
+EDU	Image :
+EDU	NASA
 QuestionAndPhotoCaption{<3}Response
-26	Stardust is a NASA Discovery mission
-27	that was launched in 1999 .
+EDU	Stardust is a NASA Discovery mission
+EDU	that was launched in 1999 .
 StardustDiscoveryMissionAndYear{=7}Purpose
-28	It is really two missions in one .
-29	The primary science goal of the mission was to collect a sample from a known primitive solar-system body , a comet
-30	called Wild 2
+EDU	It is really two missions in one .
+EDU	The primary science goal of the mission was to collect a sample from a known primitive solar-system body , a comet
+EDU	called Wild 2
 Purpose{>8}Pronunciation
-31	( pronounced " Vilt-two "
-32	— the discoverer was German ,
-33	I believe ) .
+EDU	( pronounced " Vilt-two "
+EDU	— the discoverer was German ,
+EDU	I believe ) .
 StardustDiscoveryMission{>6}RelativeImportanceContext
-34	This is the first US " sample return " mission since Apollo , and the first ever from beyond the moon .
-35	This gives a little context .
+EDU	This is the first US " sample return " mission since Apollo , and the first ever from beyond the moon .
+EDU	This gives a little context .
 StardustDiscoveryMissionContext{=5}SampleReturnUnprecedentedVideo
-36	By " sample return " of course I mean a mission
-37	that brings back extraterrestrial material .
+EDU	By " sample return " of course I mean a mission
+EDU	that brings back extraterrestrial material .
 WhatIsSampleReturn{=7}FirstSampleReturnUnprecedence
-38	I should have said above
-39	that this is the first " solid " sample return mission —
-40	Genesis brought back a sample from the Sun almost two years ago ,
-41	but Stardust is also bringing back the first solid samples from the local interstellar medium —
-42	basically this is a sample of the Galaxy .
+EDU	I should have said above
+EDU	that this is the first " solid " sample return mission —
+EDU	Genesis brought back a sample from the Sun almost two years ago ,
+EDU	but Stardust is also bringing back the first solid samples from the local interstellar medium —
+EDU	basically this is a sample of the Galaxy .
 RelativeContext{>8}Unprecedented
-43	This is absolutely unprecedented ,
-44	and we 're obviously incredibly excited .
+EDU	This is absolutely unprecedented ,
+EDU	and we 're obviously incredibly excited .
 SampleReturnUnprecedented{>6}Video
-45	I should mention parenthetically
-46	that there is a fantastic launch video
+EDU	I should mention parenthetically
+EDU	that there is a fantastic launch video
 IntroLaunchVideo{<8}VideoDetails
-47	— taken from the POV of the rocket on the JPL Stardust website —
-48	highly recommended
-49	— best I 've ever seen —
-50	all the way from the launch pad , too .
-51	Basically interplanetary trajectory .
+EDU	— taken from the POV of the rocket on the JPL Stardust website —
+EDU	highly recommended
+EDU	— best I 've ever seen —
+EDU	all the way from the launch pad , too .
+EDU	Basically interplanetary trajectory .
 VideoDetails{>9}GoodVideo
-52	Absolutely great .
+EDU	Absolutely great .
 IntroVideo{>7}AvailableToPublic
-53	Is the video available to the public ?
-54	Yes
-55	[ see below ] .
+EDU	Is the video available to the public ?
+EDU	Yes
+EDU	[ see below ] .
 IntroStardustContext{=4}HowProjectCarriedOut
-56	OK , I digress .
-57	The first challenge
-58	that we have
-59	before can do any kind of analysis of these interstellar dust particles
-60	is simply to find them .
+EDU	OK , I digress .
+EDU	The first challenge
+EDU	that we have
+EDU	before can do any kind of analysis of these interstellar dust particles
+EDU	is simply to find them .
 ChallengeOfFindingParticles{>6}Reasons
-61	This is a big challenge
-62	because they are very small
-63	( order of micron in size )
+EDU	This is a big challenge
+EDU	because they are very small
+EDU	( order of micron in size )
 SmallSize{=7}UnspecificLocation
-64	and are somewhere
-65	( we do n't know where )
-66	on a HUGE collector
-67	— at least on the scale of the particle size —
-68	about a tenth of a square meter .
+EDU	and are somewhere
+EDU	( we do n't know where )
+EDU	on a HUGE collector
+EDU	— at least on the scale of the particle size —
+EDU	about a tenth of a square meter .
 Challenge{=5}HowProjectCarriedOut
-69	So ...
-70	We 're right now using an automated microscope
+EDU	So ...
+EDU	We 're right now using an automated microscope
 IntroUseAutomatedMicroscope{>8}AutomatedMicroscopeOrigin
-71	that we developed several years ago for nuclear astrophysics work
-72	to scan the collector in the Cosmic Dust Lab in Building 31 at Johnson Space Center .
+EDU	that we developed several years ago for nuclear astrophysics work
+EDU	to scan the collector in the Cosmic Dust Lab in Building 31 at Johnson Space Center .
 WhyDevelopedTheMicroscope{>9}ARESGroupBackground
-73	This is the ARES group
-74	that handles returned samples
-75	( Moon Rocks , Genesis chips , Meteorites , and Interplanetary Dust Particles
-76	collected by U2 in the stratosphere ) .
+EDU	This is the ARES group
+EDU	that handles returned samples
+EDU	( Moon Rocks , Genesis chips , Meteorites , and Interplanetary Dust Particles
+EDU	collected by U2 in the stratosphere ) .
 AutomatedMicroscope{=7}Images
-77	The microscope collects stacks of digital images of the aerogel collectors in the array .
-78	These images are sent to us
-79	— we compress them
-80	and convert them into a format appropriate for Stardust @ home .
+EDU	The microscope collects stacks of digital images of the aerogel collectors in the array .
+EDU	These images are sent to us
+EDU	— we compress them
+EDU	and convert them into a format appropriate for Stardust @ home .
 AutomatedMicroscope{=6}VolunteersAtHome
-81	Stardust @ home is a highly distributed project
-82	using a " Virtual Microscope "
-83	that is written in html and javascript
-84	and runs on most browsers
-85	— no downloads are required .
+EDU	Stardust @ home is a highly distributed project
+EDU	using a " Virtual Microscope "
+EDU	that is written in html and javascript
+EDU	and runs on most browsers
+EDU	— no downloads are required .
 VirtualMicroscopeDetails{=7}WhatVolunteersDo
-86	Using the Virtual Microscope
-87	volunteers can search over the collector for the tracks of the interstellar dust particles .
+EDU	Using the Virtual Microscope
+EDU	volunteers can search over the collector for the tracks of the interstellar dust particles .
 StardustProjectBackgroundAndProcess{=2}CollectingSamples
-88	Aerogel slice removed with an ultrasonic blade ,
-89	showing particle tracks .
-90	Image :
-91	NASA
+EDU	Aerogel slice removed with an ultrasonic blade ,
+EDU	showing particle tracks .
+EDU	Image :
+EDU	NASA
 ImageCaption{<5}Question
-92	How many samples do you anticipate
-93	being found during the course of the project ?
+EDU	How many samples do you anticipate
+EDU	being found during the course of the project ?
 ImageCaptionAndQuestion{<4}Response
-94	Great question .
-95	The short answer is that we do n't know .
+EDU	Great question .
+EDU	The short answer is that we do n't know .
 ShortAnswer{<6}LongAnswer
-96	The long answer is a bit more complicated .
-97	Here 's what we know .
+EDU	The long answer is a bit more complicated .
+EDU	Here 's what we know .
 Complicated{<8}Context
-98	The Galileo and Ulysses spacecraft carried dust detectors onboard
-99	that Eberhard Gruen and his colleagues used
-100	to first detect
-101	and them measure the flux of interstellar dust particles
-102	streaming into the solar system .
+EDU	The Galileo and Ulysses spacecraft carried dust detectors onboard
+EDU	that Eberhard Gruen and his colleagues used
+EDU	to first detect
+EDU	and them measure the flux of interstellar dust particles
+EDU	streaming into the solar system .
 EarlierSpacecrafts{>9}WindOfInterstellarDust
-103	( This is a kind of " wind " of interstellar dust ,
-104	caused by the fact
-105	that our solar system is moving with respect to the local interstellar medium . )
+EDU	( This is a kind of " wind " of interstellar dust ,
+EDU	caused by the fact
+EDU	that our solar system is moving with respect to the local interstellar medium . )
 Context{<7}EstimatedAnswer
-106	Markus Landgraf has estimated the number of interstellar dust particles
-107	that should have been captured by Stardust during two periods of the " cruise " phase of the interplanetary orbit
-108	in which the spacecraft was moving with this wind .
-109	He estimated
-110	that there should be around 45 particles ,
+EDU	Markus Landgraf has estimated the number of interstellar dust particles
+EDU	that should have been captured by Stardust during two periods of the " cruise " phase of the interplanetary orbit
+EDU	in which the spacecraft was moving with this wind .
+EDU	He estimated
+EDU	that there should be around 45 particles ,
 EstimatedAnswer{>8}Uncertain
-111	but this number is very uncertain
-112	— I would n't be surprised
-113	if it is quite different from that .
-114	That was the long answer !
+EDU	but this number is very uncertain
+EDU	— I would n't be surprised
+EDU	if it is quite different from that .
+EDU	That was the long answer !
 AnswerQuestion{>5}UncertaintyOfOutcome
-115	One thing
-116	that I should say ...
-117	is that like all research , the outcome of what we are doing is highly uncertain .
+EDU	One thing
+EDU	that I should say ...
+EDU	is that like all research , the outcome of what we are doing is highly uncertain .
 UncertaintyOfOutcome{>6}EinsteinQuote
-118	There is a wonderful quote
-119	attributed to Einstein —
+EDU	There is a wonderful quote
+EDU	attributed to Einstein —
 IntroEinsteinQuote{<7}Quote
-120	" If we knew
-121	what we were doing ,
-122	it would n't be called " research " ,
-123	would it ? "
+EDU	" If we knew
+EDU	what we were doing ,
+EDU	it would n't be called " research " ,
+EDU	would it ? "
 HowManySamples{=3}SampleSize
-124	How big would the samples be ?
+EDU	How big would the samples be ?
 Question{<4}Response
-125	We expect
-126	that the particles will be of order a micron in size .
-127	( A millionth of a meter . )
+EDU	We expect
+EDU	that the particles will be of order a micron in size .
+EDU	( A millionth of a meter . )
 ParticleSize{<6}WhatPeopleSearchFor
-128	When people are searching
-129	using the virtual microscope ,
+EDU	When people are searching
+EDU	using the virtual microscope ,
 UsingVirtualMicroscope{<7}LookForTracksNotParticles
-130	they will be looking not for the particles , but for the tracks
-131	that the particles make ,
-132	which are much larger
-133	— several microns in diameter .
+EDU	they will be looking not for the particles , but for the tracks
+EDU	that the particles make ,
+EDU	which are much larger
+EDU	— several microns in diameter .
 SampleSize{=5}NewSite
-134	Just yesterday we switched over to a new site
-135	which has a demo of the VM
-136	( virtual microscope )
-137	I invite you to check it out .
+EDU	Just yesterday we switched over to a new site
+EDU	which has a demo of the VM
+EDU	( virtual microscope )
+EDU	I invite you to check it out .
 IntroNewSite{>7}SiteDetails
-138	The tracks in the demo are from submicron carbonyl iron particles
-139	that were shot into aerogel
-140	using a particle accelerator
+EDU	The tracks in the demo are from submicron carbonyl iron particles
+EDU	that were shot into aerogel
+EDU	using a particle accelerator
 TracksShotInDemo{=8}ModifiedToSimulateDustImpacts
-141	modified
-142	to accelerate dust particles to very high speeds ,
-143	to simulate the interstellar dust impacts
-144	that we 're looking for .
+EDU	modified
+EDU	to accelerate dust particles to very high speeds ,
+EDU	to simulate the interstellar dust impacts
+EDU	that we 're looking for .
 NewSiteDescription{>6}AvailableOnMainWebsite
-145	And that 's on the main Stardust @ home website
-146	[ see below ] ?
-147	Yes .
+EDU	And that 's on the main Stardust @ home website
+EDU	[ see below ] ?
+EDU	Yes .

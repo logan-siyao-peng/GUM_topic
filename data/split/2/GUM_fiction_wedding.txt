@@ -48,82 +48,86 @@ Introduction{<1}Story
 46	to eat with my beloved Paschal Lamb .
 47	All of a sudden a terrible wind blew up , so strong
 48	that I thought
-49	the hill my little house was built on would be blown apart –
-50	but I ’d seen the Devil do things as bad as this before
-51	( the Devil had often tried to harm me ) ,
-52	so I took heart
-53	and went on meditating .
-54	Till I felt somebody touch me on the back .
-55	This frightened me
-56	so that I did n’t dare turn .
-57	I tried to stay as brave and calm
-58	as a human being could under the circumstances .
-59	I felt
-60	my coat tugged at ,
-61	and tugged again ,
-62	and at last I looked around .
-63	A woman stood there , so bright and beautiful , in a sky - colored robe – a heavens covered with
-64	1 Christian ’s story begins just before Easter , like Dante ’s Divine Comedy .
-65	It can be seen as an allegory of Christ ’s death and resurrection ,
-66	though this idea produces some puzzles .
-67	The birds sang so beautifully ,
-68	the young deer skipped so happily ,
-69	that it gladdened my old heart ,
-70	and I could n't help singing too ...
+49	the hill
+50	my little house was built on
+51	would be blown apart –
+52	but I ’d seen the Devil do things as bad as this before
+53	( the Devil had often tried to harm me ) ,
+54	so I took heart
+55	and went on meditating .
+56	Till I felt somebody touch me on the back .
+57	This frightened me
+58	so that I did n’t dare turn .
+59	I tried to stay as brave and calm
+60	as a human being could under the circumstances .
+61	I felt
+62	my coat tugged at ,
+63	and tugged again ,
+64	and at last I looked around .
+65	A woman stood there , so bright and beautiful , in a sky - colored robe – a heavens covered with
+66	1 Christian ’s story begins just before Easter , like Dante ’s Divine Comedy .
+67	It can be seen as an allegory of Christ ’s death and resurrection ,
+68	though this idea produces some puzzles .
+69	The birds sang so beautifully ,
+70	the young deer skipped so happily ,
+71	that it gladdened my old heart ,
+72	and I could n't help singing too ...
 DayOne{=2}DayFour
-71	THE FOURTH DAY
-72	I was awake and lying in bed next morning ,
-73	looking idly at the wonderful images and inscriptions all around my room ,
-74	when suddenly I heard the sound of trumpets ,
-75	as if a procession were already underway .
-76	My page jumped out of bed
-77	as if crazed ,
-78	looking more dead than alive ,
-79	and you can imagine
-80	how I felt
-81	when he cried ,
-82	“ They 're already being presented to the king ! "
-83	I could only groan in frustration and curse my lazy bones .
-84	I got dressed ,
-85	but my page was quicker
-86	than I was
-87	and ran out of the chamber
-88	to see what was what .
-89	He soon came back
-90	and gave me the good news
-91	that I actually had n’t overslept ;
-92	all I ’d done was miss breakfast :
-93	they had n’t wanted to wake an old man
-94	who needed his rest .
-95	But now I had to get ready
-96	to go with him to the lion fountain ,
-97	where most of the others were gathered .
-98	Such a relief !
-99	My spirits recovered ,
-100	and
-101	as soon as I had got into my habit ,
-102	I followed him to the garden
-103	I have already told about .
-104	I found that the lion , in place of his sword , now held a rather large plaque .
-105	Examining this ,
-106	I could tell
-107	that it had been taken from those ancient monuments
-108	I ’d seen
-109	and put here for some special reason .
-110	The inscription on it was fading away ,
-111	so I should set it down here
-112	as it was then ,
-113	and ask my readers to ponder it :
-114	Prince Hermes :
-115	Now after humankind has suffered so much harm here
-116	I flow
-117	having by god ’s counsel and with the help of art become a healing balm .
-118	Drink from me
-119	if you can ;
-120	wash ,
-121	if you like ;
-122	trouble my waters
-123	if you dare .
-124	Drink , Brethren !
-125	Drink
-126	and live !
+73	THE FOURTH DAY
+74	I was awake and lying in bed next morning ,
+75	looking idly at the wonderful images and inscriptions all around my room ,
+76	when suddenly I heard the sound of trumpets ,
+77	as if a procession were already underway .
+78	My page jumped out of bed
+79	as if crazed ,
+80	looking more dead than alive ,
+81	and you can imagine
+82	how I felt
+83	when he cried ,
+84	“ They 're already being presented to the king ! "
+85	I could only groan in frustration and curse my lazy bones .
+86	I got dressed ,
+87	but my page was quicker
+88	than I was
+89	and ran out of the chamber
+90	to see what was what .
+91	He soon came back
+92	and gave me the good news
+93	that I actually had n’t overslept ;
+94	all
+95	I ’d done
+96	was miss breakfast :
+97	they had n’t wanted to wake an old man
+98	who needed his rest .
+99	But now I had to get ready
+100	to go with him to the lion fountain ,
+101	where most of the others were gathered .
+102	Such a relief !
+103	My spirits recovered ,
+104	and
+105	as soon as I had got into my habit ,
+106	I followed him to the garden
+107	I have already told about .
+108	I found that the lion , in place of his sword , now held a rather large plaque .
+109	Examining this ,
+110	I could tell
+111	that it had been taken from those ancient monuments
+112	I ’d seen
+113	and put here for some special reason .
+114	The inscription on it was fading away ,
+115	so I should set it down here
+116	as it was then ,
+117	and ask my readers to ponder it :
+118	Prince Hermes :
+119	Now after humankind has suffered so much harm here
+120	I flow
+121	having by god ’s counsel and with the help of art become a healing balm .
+122	Drink from me
+123	if you can ;
+124	wash ,
+125	if you like ;
+126	trouble my waters
+127	if you dare .
+128	Drink , Brethren !
+129	Drink
+130	and live !

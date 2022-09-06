@@ -1,5 +1,5 @@
 1	Aesthetic Appreciation and Spanish Art :
-2	Insights from Eye-Tracking
+2	Insights from Eye - Tracking
 3	Claire Bailey - Ross claire.bailey-ross@port.ac.uk University of Portsmouth , United Kingdom
 4	Andrew Beresford a.m.beresford@durham.ac.uk Durham University , United Kingdom
 5	Daniel Smith daniel.smith2@durham.ac.uk Durham University , United Kingdom
@@ -22,14 +22,14 @@ IntroFocusOnArtExperience{<2}StudyDetails
 21	While studies of the psychology of art have focused on individual works and distinctions between representative / non-representative topics ,
 22	no work has been completed on the aesthetic appreciation of collections or of devotional themes .
 23	In this paper , we report upon the novel insights
-24	eye-tracking techniques have provided
+24	eye - tracking techniques have provided
 25	into the unconscious processes
 26	of viewing the unique collection of Zurbarán artworks .
 27	The purpose of this pilot study was to assess the effects of different written interpretation on the visual exploration of artworks .
 28	We will discuss the potential implications of these techniques and our understanding of visual behaviours on museum and gallery practice .
 29	The project brings together established research strengths in Spanish art history , experimental psychology , digital humanities , and museum studies
 30	to explore ,
-31	using eye-tracking techniques ,
+31	using eye - tracking techniques ,
 32	aesthetic reactions to digital representations of the individual Zurbarán artworks as well as the significance of the collection as a whole .
 33	Our experience of art develops from the interaction of several cognitive and affective processes ;
 34	the beginning of which is a visual scan of the artwork .
@@ -56,7 +56,7 @@ IntroFocusOnArtExperience{<2}StudyDetails
 55	( Baron & Beresford 2014 ) ,
 56	but many key aspects of its production and significance have not yet been fully understood .
 Introduction{<1}DetailedSummaryOfStudy
-57	In this study we used eye-tracking in the first stage
+57	In this study we used eye - tracking in the first stage
 58	of exploring audience experience of the extensive Spanish art collections of County Durham ,
 59	of which the 13 Zurbarán artworks
 60	( there are actually only 12 Zurbarán artworks ,
@@ -69,7 +69,7 @@ Introduction{<1}DetailedSummaryOfStudy
 Eye-trackingExploreExperienceSpanishArt{>2}Elaboration
 67	This pilot project primarily investigated how participants visually explore artworks
 68	and provides new insights into the potential
-69	eye-tracking has
+69	eye - tracking has
 70	to transform the ways
 71	we understand visual processing in arts and culture
 72	and at the same time offer a direct way

@@ -1,10 +1,14 @@
 import io
 import os
 import re
+import math
 from glob import glob
 import json
 import argparse
 from statistics import mean
+import matplotlib.pyplot as plt
+import numpy as np
+from collections import Counter
 
 
 def validate_topic_line(topicpath, rsdpath):
@@ -25,10 +29,11 @@ def validate_topic_line(topicpath, rsdpath):
 		rsd_edu_line_nospace = re.sub(r'\s+', '', rsd_edus[line_id][1])
 		assert topic_edu_line_nospace == rsd_edu_line_nospace
 	
+	# seperate indexes to differentiate {<2} topic lines
 	rsd_edu_id = 0
 	for topic_line_id in range(len(topic_lines)):
 		if len(topic_lines[topic_line_id]) == 2:
-			assert topic_lines[topic_line_id][0] == rsd_edus[rsd_edu_id][0]
+			topic_lines[topic_line_id][0] = rsd_edus[rsd_edu_id][0]
 			topic_lines[topic_line_id][1] = rsd_edus[rsd_edu_id][1]
 			rsd_edu_id += 1
 	assert rsd_edu_id == len(rsd_edus)
@@ -37,6 +42,7 @@ def validate_topic_line(topicpath, rsdpath):
 	return topic_lines
 
 def write_split_files(topic_lines, basename_no_ext, topic_split_dir, deepest_split_level):
+	split_level_dict = {}
 	for curr_split_level in range(1, deepest_split_level+1):
 		kept_lines = []
 		for line in topic_lines:
@@ -60,6 +66,10 @@ def write_split_files(topic_lines, basename_no_ext, topic_split_dir, deepest_spl
 			os.makedirs(curr_split_dir)
 		with io.open(curr_split_dir + basename_no_ext + ".txt", "w", encoding="utf8") as f:
 			f.write("\n".join(kept_lines))
+			
+		split_level_dict[curr_split_level] = len(kept_break_lines)
+		
+	return split_level_dict
 		
 		
 			
@@ -156,14 +166,33 @@ def write_json_file(seg_anno_dict, jsonpath):
 		f.write(json.dumps(seg_anno_dict, indent=4, ensure_ascii=False))
 
 
+def save_number_splits_plot(deepest_split_level, num_splits, plot_file_name):
+	labels, values = zip(*Counter(num_splits).items())
+	indexes = np.arange(len(labels))
+	
+	# Creating a figure with some fig size
+	fig, ax = plt.subplots(figsize=(10, 5))
+	ax.bar(labels, values, width=1.0)
+	# Now the trick is here.
+	# plt.text() , you need to give (x,y) location , where you want to put the numbers,
+	# So here index will give you x pos and data+1 will provide a little gap in y axis.
+	for index, data in enumerate(values):
+		plt.text(x=labels[index], y=data + 0.2, s=f"{data}", fontdict=dict(fontsize=20))
+	
+	xticks_range = range(math.floor(min(labels)), math.ceil(max(labels)) + 1)
+	plt.xticks(xticks_range)
+	plt.title("Frequency of different number of splits when max split depth is %d" % deepest_split_level,
+	          y=-0.12)
+	plt.tight_layout()
+	plt.savefig(plot_file_name)
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--topic_line_dir", default="../data/line/")
-	parser.add_argument("--rsd_dir", default="../../gum-dev-cloned20211007/_build/target/rst/dependencies/")
+	parser.add_argument("--rsd_dir", default="../../gum/_build/target/rst/dependencies/")
 	parser.add_argument("--topic_json_dir", default="../data/json/")
 	parser.add_argument("--topic_split_dir", default="../data/split/")
-	parser.add_argument("--deepest_split_level", default=3)
+	parser.add_argument("--deepest_split_level", default=5)
 	args = parser.parse_args()
 	
 	topic_docs = sorted(glob(args.topic_line_dir + "*.txt"))
@@ -171,13 +200,22 @@ if __name__ == '__main__':
 	if not os.path.isdir(args.topic_line_dir):
 		os.makedirs(args.topic_line_dir)
 	
+	total_split_dict = {x:[] for x in range(1,args.deepest_split_level+1)}
 	for topic_doc in topic_docs:
 		basename_no_ext = os.path.splitext(os.path.basename(topic_doc))[0]
 		topic_lines = validate_topic_line(topic_doc,
 		              args.rsd_dir + basename_no_ext + ".rsd",
 		              )
-		write_split_files(topic_lines, basename_no_ext, args.topic_split_dir, args.deepest_split_level)
+		individual_split_dict = write_split_files(topic_lines, basename_no_ext, args.topic_split_dir, args.deepest_split_level)
+		
+		# add number of splits to dict
+		for k in individual_split_dict.keys():
+			total_split_dict[k].append(individual_split_dict[k])
+		
 		seg_anno_dict = convert_line_to_json(topic_lines)
 		write_json_file(seg_anno_dict, args.topic_json_dir + basename_no_ext + ".json")
 		print('o Done converting line to json: ', topic_doc)
 
+	# Save split frequency bar plots
+	for k in total_split_dict.keys():
+		save_number_splits_plot(k, total_split_dict[k], args.topic_split_dir + "split_level_%d.png" % k)

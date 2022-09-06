@@ -123,7 +123,7 @@ IntroHuhAndClaims{=2}ExamplesAndMethodology
 120	is by examining cases of actual use .
 121	Therefore we collected data from recordings of naturally occurring informal conversations in a sample of 10 languages from 5 continents ,
 122	varying fundamentally in terms of phonology , word structure , and grammar
-123	( languages 1–10 in Figure 1 ) .
+123	( languages 1 – 10 in Figure 1 ) .
 124	For optimal comparability , we studied the exact same conversational environment across languages :
 125	that of other - initiated repair
 126	( OIR ) ,

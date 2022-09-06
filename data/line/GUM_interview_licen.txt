@@ -1,97 +1,97 @@
-1	Wikinews interviews academic Simon Ličen about attitudes towards US Paralympics
-2	Saturday , November 16 , 2013
-3	A Russian stamp for Paralympic Games in Sochi in 2014
+EDU	Wikinews interviews academic Simon Ličen about attitudes towards US Paralympics
+EDU	Saturday , November 16 , 2013
+EDU	A Russian stamp for Paralympic Games in Sochi in 2014
 ~
-4	On Thursday , with 110 days until the start of the 2014 Winter Paralympics in Sochi , Russia , Wikinews interviewed Assistant Professor in Educational Leadership , Sport Studies and Educational / Counseling Psychology at Washington State University Simon Ličen about attitudes in United States towards the Paralympics .
+EDU	On Thursday , with 110 days until the start of the 2014 Winter Paralympics in Sochi , Russia , Wikinews interviewed Assistant Professor in Educational Leadership , Sport Studies and Educational / Counseling Psychology at Washington State University Simon Ličen about attitudes in United States towards the Paralympics .
 IntroInterview{<2}LicenBackground
-5	Ličen has recently joined the Sport Management Program at Washington State University
-6	to develop its sport media and communication research and teaching contents .
-7	Originally from Slovenia , he served as the Director of Media and Communications of a WTA Tour event
-8	and was a member of the UNESCO Slovenian National Commission .
-9	He was also the Team Manager of the Slovenian wheelchair basketball national team .
+EDU	Ličen has recently joined the Sport Management Program at Washington State University
+EDU	to develop its sport media and communication research and teaching contents .
+EDU	Originally from Slovenia , he served as the Director of Media and Communications of a WTA Tour event
+EDU	and was a member of the UNESCO Slovenian National Commission .
+EDU	He was also the Team Manager of the Slovenian wheelchair basketball national team .
 Intro{<1}Interview
-10	Why do you think
-11	the Paralympic movement has so little visibility in the US
-12	compared to other countries like Australia , the United Kingdom and even Canada ?
+EDU	Why do you think
+EDU	the Paralympic movement has so little visibility in the US
+EDU	compared to other countries like Australia , the United Kingdom and even Canada ?
 Question{<3}Response
-13	Sports in the United States largely reaffirm existing relations of power in society .
-14	It emphasizes consumerism , the belief
-15	that success always goes to people
-16	who merit it due to their abilities , dedication and qualifications ,
+EDU	Sports in the United States largely reaffirm existing relations of power in society .
+EDU	It emphasizes consumerism , the belief
+EDU	that success always goes to people
+EDU	who merit it due to their abilities , dedication and qualifications ,
 SportsReaffirmExistingPowerRelations{=5}SameForGenderEthnicityNationality
-17	and reinforces ,
-18	rather than changes ,
-19	existing ideas
-20	related to gender , ethnicity and nationality .
+EDU	and reinforces ,
+EDU	rather than changes ,
+EDU	existing ideas
+EDU	related to gender , ethnicity and nationality .
 ReaffirmExistingPowerRelations{<4}ParalympicsGoesAgainstThat
-21	Paralympic sport brings attention to athletes
-22	who are typically overlooked in American society
-23	because the majority of the population does not want to identify with people
-24	who are disabled .
+EDU	Paralympic sport brings attention to athletes
+EDU	who are typically overlooked in American society
+EDU	because the majority of the population does not want to identify with people
+EDU	who are disabled .
 AvoidIdentifyWithDisabled{>6}QuestionMasculinity
-25	Although disability is not contagious ,
-26	interest in disabled sports might put into question the masculinity of the males
-27	following it .
+EDU	Although disability is not contagious ,
+EDU	interest in disabled sports might put into question the masculinity of the males
+EDU	following it .
 AvoidIdentifyWithDisabled{=5}ChallengeExistingPowerRelations
-28	Disabled athletes also challenge existing relations of power
-29	by displaying dedication , hard work and perseverance in different contexts
-30	than those most sports fans are accustomed to .
+EDU	Disabled athletes also challenge existing relations of power
+EDU	by displaying dedication , hard work and perseverance in different contexts
+EDU	than those most sports fans are accustomed to .
 ParalympicLittleVisibilityUS{=2}FirstTimeTelevisedUS
-31	Other countries ,
-32	including the ones
-33	you mention ,
-34	have stronger social orientations in all aspects of society .
+EDU	Other countries ,
+EDU	including the ones
+EDU	you mention ,
+EDU	have stronger social orientations in all aspects of society .
 OtherCountries{=5}US
-35	Even though legislative support may be less strong
-36	than the one
-37	provided by the Americans with Disabilities Act ,
+EDU	Even though legislative support may be less strong
+EDU	than the one
+EDU	provided by the Americans with Disabilities Act ,
 LegislativeSupport{=6}SocialInstitutions
-38	many social institutions
-39	including the media
-40	are more receptive to this form of diversity .
+EDU	many social institutions
+EDU	including the media
+EDU	are more receptive to this form of diversity .
 QuestionBackground{<4}Question
-41	What do you think
-42	the impact will be for the Paralympic movement will be
-43	with the Games being televised live in the United States for first time ?
+EDU	What do you think
+EDU	the impact will be for the Paralympic movement will be
+EDU	with the Games being televised live in the United States for first time ?
 Question{<3}Response
-44	The impact depends on a number of aspects .
+EDU	The impact depends on a number of aspects .
 MultipleAspects{<4}Factors
-45	One of them is the channels
-46	that NBC as the broadcasting rights owner for the United States will use
-47	to air the Paralympic Games on .
-48	Will they be shown nationally or regionally , on NBC or on any of the company ’s multiple cable networks ?
+EDU	One of them is the channels
+EDU	that NBC as the broadcasting rights owner for the United States will use
+EDU	to air the Paralympic Games on .
+EDU	Will they be shown nationally or regionally , on NBC or on any of the company ’s multiple cable networks ?
 Channels{=6}TimeOfDay
-49	A second aspect is the parts or hours of the day
-50	the Paralympics will be shown .
-51	Remember
-52	that there is a nine-hour difference between Sochi and New York , and a 12-hour difference between Sochi and the US West Coast .
+EDU	A second aspect is the parts or hours of the day
+EDU	the Paralympics will be shown .
+EDU	Remember
+EDU	that there is a nine-hour difference between Sochi and New York , and a 12-hour difference between Sochi and the US West Coast .
 TimeDifference{<7}LiveBroadcastTimeDiscrepancy
-53	So daytime events will be shown live in the United States in the middle of the night ,
-54	and evening prime-time events will be shown
-55	— indeed live —
-56	in the morning U.S. time .
+EDU	So daytime events will be shown live in the United States in the middle of the night ,
+EDU	and evening prime-time events will be shown
+EDU	— indeed live —
+EDU	in the morning U.S. time .
 Discrepancy{>8}LessGlamarous
-57	So showing the Paralympics live on United States television might turn out to be less glamorous
-58	than it appears .
+EDU	So showing the Paralympics live on United States television might turn out to be less glamorous
+EDU	than it appears .
 ChannelAndTimeBroadcast{=5}EventMediation
-59	A third important factor is the way
-60	the event will be mediated :
+EDU	A third important factor is the way
+EDU	the event will be mediated :
 WayEventIsMediated{>7}MediatedAndEducated
-61	will NBC have its best sports broadcasters
-62	following the event
-63	after having worked the Winter Olympics ?
+EDU	will NBC have its best sports broadcasters
+EDU	following the event
+EDU	after having worked the Winter Olympics ?
 Casters{=9}TreatCompetition
-64	Will they treat and announce the competitions
-65	as they do all others
-66	— for better and worse ?
+EDU	Will they treat and announce the competitions
+EDU	as they do all others
+EDU	— for better and worse ?
 HowTreatCompetition{=8}OpportunityToEducate
-67	Will they take it as an opportunity
-68	to educate viewers about disability and diversity
-69	while showing superb athletic performances
-70	without engaging in a discourse of pity ?
+EDU	Will they take it as an opportunity
+EDU	to educate viewers about disability and diversity
+EDU	while showing superb athletic performances
+EDU	without engaging in a discourse of pity ?
 EventMediation{>6}WaitToEvaluateMeetExpectations
-71	All in all , I think
-72	this is a terrific opportunity
-73	to improve sports coverage in a multitude of aspects ;
-74	but we will have to wait until after the event
-75	to assess to what extent the broadcasters will meet these expectations .
+EDU	All in all , I think
+EDU	this is a terrific opportunity
+EDU	to improve sports coverage in a multitude of aspects ;
+EDU	but we will have to wait until after the event
+EDU	to assess to what extent the broadcasters will meet these expectations .

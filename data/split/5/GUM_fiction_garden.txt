@@ -1,0 +1,175 @@
+1	The day
+2	it rained in the garden
+3	The first drops of rain fell onto the parched stones from a cloudless blue sky .
+4	They disappeared immediately ,
+5	drunk down into the mineral silence .
+FirstSignsItWillRain{<2}EveryoneWaiting
+6	The garden paused ,
+7	and everything held its breath
+8	and waited .
+EveryoneWaiting{<4}EveryoneKnowsRainWillCome
+9	More rain would come .
+10	Everyone knew , beyond belief or necessity
+11	that the time had come .
+12	And with it , the rain .
+EveryoneWaiting{=3}DescriptionsAndWaiting
+13	Heavy oily drops bounced from leaf to grass to dusty ground ,
+14	gathering in stems and folds on the way .
+15	Yet still the sky was a hard polished blue with not a cloud in sight .
+DescriptionOfDropsAndSky{<4}MoreWaiting
+16	Still the garden held its breath .
+17	It would not be long now .
+18	A spattering of drops plucked memories from deep in the roots ,
+19	shivering through shoots and tendrils , humus and stone .
+20	Wispy vapour trails marbled the blue surface above .
+AnticipatingRain{=1}RainAndWater
+21	And then it rained for good .
+AnnounceStartsToRain{>5}DescriptionRain
+22	We sat on the porch
+23	watching ,
+24	no longer daring to dart out and leap around in the downfall
+25	as drops turned to torrents
+26	and the staccato tapping on the roof climaxed to a thunderous roar .
+StartsToRain{<4}WaterAndMovement
+27	Pools erupted
+28	and overflowed along the edges of the lawn ,
+29	cascading around the raspberry canes and over the flower beds .
+30	Earthworms rose up from the water - laden earth
+31	where they could no longer breath
+32	and wriggled
+33	and struggled fro air on the surface ,
+34	writhing
+35	and swimming for a safe haven .
+WaterOnTheLawn{=5}WaterFromTheBarrels
+36	Water burst over the barrels and cans
+37	standing under the eaves and gutters ,
+38	flooding the pathways ,
+39	carrying away all
+40	that was n’t fixed solid
+41	and licking at the stairs to the back porch
+42	before climbing each step
+43	and lapping against the planks
+44	we were sitting on ,
+45	a wooden raft
+46	surrounded by angry water and martial beat
+47	drum , drum , drumming on the roof above .
+EruptionOfWater{=3}WaterAndFish
+48	We slipped out feet over the sides
+49	and
+50	when we felt the fish ,
+51	some as big as logs ,
+52	some as small as leaves ,
+IntroFishAndSizes{>5}FishInteractWithNarrator
+53	nibble at our feet ,
+54	we leant over
+55	to watch them fraying and frolicking under the choppy surface .
+Fish{<4}WavesInfiltratingTheHouse
+56	Waves lapped at the porch ,
+57	washing away the boxes , and bowls , and the dog ’s basket .
+58	The rocking chair , the watering can , boxes of cuttings , and tied - up newspapers , all floated away
+WavesWashAwayBelongings{<5}GoInsideAndSeekShelter
+59	as we slammed the kitchen door shut
+60	and retreated to the front room
+61	we gazed out at the river
+62	that the street had become .
+63	The sky was pewter
+64	smeared with charcoal now ,
+65	and pressed down hard on the rooftops ,
+66	slowly dissolving everything below .
+67	When the water rippled into the hallway ,
+68	we splashed our way to the staircase and then up
+69	as it nipped at our heels .
+TransformationOfGarden{=2}AnticipateCaptain'sArrival
+70	Outside the other houses were rocks
+71	surrounded by sea
+72	with mermaids swimming all around ,
+73	flapping their scaly tails
+74	and hauling themselves up ,
+75	to fall backwards into the crest of the oncoming waves .
+76	And as they swam
+77	they sang ,
+78	their voices born on the winds and the salt and the rain ,
+79	and we could hear them singing ,
+80	He is coming ,
+81	He is coming .
+82	And they combed their long hair in preparation .
+83	We waved
+84	and called ,
+85	and they laughed
+86	and played ,
+87	tantalising ,
+88	their seaweed locks just out of reach .
+89	With a flick of the tail they were off ,
+90	still singing ,
+91	He is coming ,
+92	He is coming ,
+93	until their voices were lost in the noise of the rain and the water .
+Mermaids'Announcement{=5}ClimbHigher
+94	A great whiskered head arose ,
+95	then a belly ,
+96	wet
+97	and sleek ,
+98	long enough
+99	to wrap itself twice around the world .
+100	“ Is it him ? ”
+101	we asked each other ,
+102	nudging elbows
+103	and climbing onto the chairs .
+104	We pulled off wet socks and shoes ,
+105	letting them float away on the tide ,
+106	before the great worm turned
+107	and the wake engulfed the creaking , cracking house .
+108	We clambered up onto the roof ,
+109	sliding on the tiles
+110	and clinging to chimney stacks ,
+111	sheltering our eyes from the driving downpour .
+112	The sky was black ,
+113	and the stormy sea all the deepest , darkest blues and greens and greys
+114	and flecked with white
+115	where the sea - horses galloped .
+116	The waters broke
+117	making way for the gnarled head of a whale ,
+118	spouting water high against the clouds
+119	before opening its whiskered maw
+120	and in a looming , booming voice called :
+121	He is coming ,
+122	He is coming .
+123	The chimneys washed away ,
+124	so we scrambled onto the blue - black back
+125	encrusted with barnacles and cockles like stars in a night sky
+126	and held on tight
+127	as he rode the waves ,
+128	dipping
+129	and blowing ,
+130	dipping
+131	and blowing .
+132	The wind and the rain tugged at our hair .
+133	And still it rained .
+AnticipationAndAvoidDrowning{=4}ArrivalOfShip
+134	We heard a fearsome creaking and cracking
+135	and before our eyes a great patch of sky peeled away ,
+136	deeping down in the troughs
+137	and riding the crests
+138	with torn sails set against the wind .
+IntroShip{<5}Ship
+139	It was a galleon with masts like a dead man ’s fingers ,
+140	tarred timbers groaning
+141	and a mermaid sat on the bow
+142	as he ship dipped
+143	and passed .
+144	He is coming ,
+145	He is coming ,
+146	she sang out .
+147	And just as the wash hit us ,
+148	prising us from the whale ’s speckled back and down into the sea ,
+149	someone threw down a knotted rope
+150	and we hung on for dear life .
+151	The singing sailors hauled us aboard
+152	chanting ,
+153	He ’s a coming - ha !
+154	He ’s a coming - ha !
+155	And we fell onto the deck
+156	like fish bursting from a net .
+AnticipateMysteriousArrival{=3}ArrivalOfCaptain
+157	The Captain stood above us
+158	dressed in jewels and finery from a thousand pillagings .

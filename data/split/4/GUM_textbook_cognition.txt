@@ -1,0 +1,153 @@
+1	Learning Objectives
+2	By the end of this section , you will be able to :
+3	Describe cognition
+4	Distinguish concepts and prototypes
+5	Explain the difference between natural and artificial concepts
+6	Imagine all of your thoughts
+7	as if they were physical entities ,
+8	swirling rapidly inside your mind .
+9	How is it possible that the brain is able to move from one thought to the next in an organized , orderly fashion ?
+RhetoricalQuestion{<4}Brain'sActivity
+10	The brain is endlessly perceiving ,
+11	processing ,
+12	planning ,
+13	organizing ,
+14	and remembering —
+15	it is always active .
+16	Yet , you do n’t notice most of your brain ’s activity
+17	as you move throughout your daily routine .
+18	This is only one facet of the complex processes
+19	involved in cognition .
+IntroScenarios{<3}IntroCognition
+20	Simply put , cognition is thinking ,
+21	and it encompasses the processes
+22	associated with perception , knowledge , problem solving , judgment , language , and memory .
+CognitionIsThinking{=4}ScientistsWhoStudyCognition
+23	Scientists
+24	who study cognition
+25	are searching for ways
+26	to understand how we integrate , organize , and utilize our conscious cognitive experiences
+27	without being aware of all of the unconscious work
+28	that our brains are doing
+29	( for example , Kahneman , 2011 ) .
+IntroCognition{=2}CognitivePsychology
+30	Cognition
+CognitionHeading{<3}CognitivePsychology
+31	Upon waking each morning ,
+32	you begin thinking
+33	— contemplating the tasks
+34	that you must complete that day .
+35	In what order should you run your errands ?
+36	Should you go to the bank , the cleaners , or the grocery store first ?
+37	Can you get these things done
+38	before you head to class
+39	or will they need to wait
+40	until school is done ?
+41	These thoughts are one example of cognition at work .
+Hypothetical{<4}CognitivePsychology
+42	Exceptionally complex , cognition is an essential feature of human consciousness ,
+43	yet not all aspects of cognition are consciously experienced .
+44	Cognitive psychology is the field of psychology
+45	dedicated to examining how people think .
+46	It attempts to explain how and why we think the way
+47	we do
+48	by studying the interactions among human thinking , emotion , creativity , language , and problem solving , in addition to other cognitive processes .
+49	Cognitive psychologists strive to determine and measure different types of intelligence , why some people are better at problem solving than others , and how emotional intelligence affects success in the workplace , among countless other topics .
+50	They also sometimes focus on how we organize thoughts and information
+51	gathered from our environments
+52	into meaningful categories of thought ,
+53	which will be discussed later .
+IntroCognition{=1}ConceptsAndPrototypes
+54	Concepts and Prototypes
+ConceptsAndPrototypesHeader{<2}Content
+55	The human nervous system is capable
+56	of handling endless streams of information .
+57	The senses serve as the interface between the mind and the external environment ,
+58	receiving stimuli
+59	and translating it into nervous impulses
+60	that are transmitted to the brain .
+ExternalStimuliAndSenses{<4}BrainFunctions
+61	The brain then processes this information
+62	and uses the relevant pieces
+63	to create thoughts ,
+64	which can then be expressed through language
+65	or stored in memory for future use .
+66	To make this process more complex ,
+67	the brain does not gather information from external environments only .
+68	When thoughts are formed ,
+69	the brain also pulls information from emotions and memories
+70	( Figure 7.2 ) .
+71	Emotion and memory are powerful influences on both our thoughts and behaviors .
+72	Figure 7.2
+73	Sensations and information are received by our brains ,
+74	filtered through emotions and memories ,
+75	and processed
+76	to become thoughts .
+NeurobiologicalContent{<3}ConceptsAndPrototypes
+77	In order to organize this staggering amount of information ,
+78	the brain has developed a file cabinet of sorts in the mind .
+79	The different files
+80	stored in the file cabinet
+81	are called concepts .
+82	Concepts are categories or groupings of linguistic information , images , ideas , or memories , such as life experiences .
+83	Concepts are , in many ways , big ideas
+84	that are generated
+85	by observing details ,
+86	and categorizing and combining these details into cognitive structures .
+87	You use concepts
+88	to see the relationships among the different elements of your experiences
+89	and to keep the information in your mind organized and accessible .
+90	Concepts are informed by our semantic memory
+91	( you will learn more about semantic memory in a later chapter )
+92	and are present in every aspect of our lives ;
+93	however , one of the easiest places
+94	to notice concepts
+95	is inside a classroom ,
+96	where they are discussed explicitly .
+97	When you study United States history , for example ,
+98	you learn about more than just individual events
+99	that have happened in America ’s past .
+100	You absorb a large quantity of information
+101	by listening to and participating in discussions ,
+102	examining maps ,
+103	and reading first - hand accounts of people ’s lives .
+104	Your brain analyzes these details
+105	and develops an overall understanding of American history .
+106	In the process , your brain gathers details
+107	that inform and refine your understanding of related concepts like democracy , power , and freedom .
+108	Concepts can be complex and abstract , like justice , or more concrete , like types of birds .
+109	In psychology , for example , Piaget ’s stages of development are abstract concepts .
+110	Some concepts , like tolerance , are agreed upon by many people ,
+111	because they have been used in various ways over many years .
+112	Other concepts , like the characteristics of your ideal friend or your family ’s birthday traditions , are personal and individualized .
+113	In this way , concepts touch every aspect of our lives ,
+114	from our many daily routines to the guiding principles behind the way
+115	governments function .
+Concepts{=4}Prototypes
+116	Another technique
+117	used by your brain
+118	to organize information
+119	is the identification of prototypes for the concepts
+120	you have developed .
+121	A prototype is the best example or representation of a concept .
+122	For example , for the category of civil disobedience , your prototype could be Rosa Parks .
+123	Her peaceful resistance to segregation on a city bus in Montgomery , Alabama , is a recognizable example of civil disobedience .
+124	Or your prototype could be Mohandas Gandhi ,
+125	sometimes called Mahatma Gandhi
+126	( “ Mahatma ” is an honorific title )
+127	( Figure 7.3 ) .
+128	Figure 7.3
+129	In 1930 , Mohandas Gandhi led a group in peaceful protest against a British tax on salt in India .
+130	Mohandas Gandhi served as a nonviolent force for independence for India
+131	while simultaneously demanding that Buddhist , Hindu , Muslim , and Christian leaders
+132	— both Indian and British —
+133	collaborate peacefully .
+134	Although he was not always successful
+135	in preventing violence around him ,
+136	his life provides a steadfast example of the civil disobedience prototype
+137	( Constitutional Rights Foundation , 2013 ) .
+138	Just as concepts can be abstract or concrete ,
+139	we can make a distinction between concepts
+140	that are functions of our direct experience with the world
+141	and those
+142	that are more artificial in nature .

@@ -1,0 +1,72 @@
+1	Wikinews interviews President of the International Brotherhood of Magicians
+2	Wednesday , October 9 , 2013
+3	October is National Magic Month in the United States .
+4	Wikinews spoke with William Evans , president of the International Brotherhood of Magicians , about the current state of magic and what its future looks like in the world of entertainment .
+5	For how long have you been involved
+6	in performing / studying magic ?
+Question{<3}Response
+7	Over 50 years .
+8	I am 61 now
+DirectResponse50Years{=4}BackgroundAndStory
+9	so I really started
+10	when I was about 10 years old
+11	even though I had seen and worked with some basic tricks a few years earlier .
+12	I remember
+13	going into Hollywood Magic
+14	and wanting that big red box with the dragons on it
+15	and I did n't even know
+16	what it did .
+17	The magician behind the counter was wise enough
+18	not to sell it to me ,
+19	but instead sold me two books
+20	which I still own today -
+21	" Scarne on Card Tricks " and " Scarne on Magic Tricks " .
+22	That started me out on books
+23	and I have amassed quite a few since then .
+24	My major influences on performance are Eugene Burger and Michael Skinner .
+PersonalIntroductionToMagic{=2}MagicTodayAndTravel
+25	October is National Magic Month in the US .
+26	Do you think
+27	magic is alive as a viable form of entertainment today ?
+28	Absolutely .
+29	There are more magicians
+30	working today
+31	than ever before .
+32	There will always be an audience for good magicians
+33	doing good magic .
+MagicStillPopularToday{=4}InfluenceOfInternet
+34	Has the internet helped or hurt magic ?
+35	Both .
+36	I think
+37	it has helped draw younger people to magic as a hobby ,
+38	but I think
+39	it has hurt the ability of young magicians
+40	to think
+41	because so many rely on the internet for everything
+42	and they are n't reading the books .
+43	We have to have knowledge of the history of magic and what has been done before .
+44	Moreover , seeing someone perform on the internet takes away the use of our senses , originality and imagination
+45	that reading and thinking about magic can produce .
+46	Anyone can become a monkey ;
+47	it takes serious study
+48	to become a magician .
+MagicToday{=3}TravelForWork
+49	Do you travel much in your current role ?
+Question{<4}Response
+50	Yes , I am traveling quite a bit .
+51	After I was inducted as International President in Phoenix in July ,
+52	I have been to the Jeff McBride Experience in Eureka Springs , Arkansas , Magic Live in Las Vegas , The Midwest Magic Jubilee in St. Louis , the TAOM in Dallas , the British Ring Convention in Buxton , England and the Magic Circle in London .
+53	I am going to Las Vegas and Los Angeles next month ,
+54	Italy in November ,
+55	back to Las Vegas in December ,
+56	Mexico in January ,
+57	Magi - Fest in February ,
+58	the Winter Carnival of Magic in Tennessee in March ,
+59	Eureka Springs Cavalcade of Magic in March ,
+60	and the FFFF in April .
+61	That 's as of now .
+Interview{>1}PhotoCaption
+62	File photo of magician David Gish
+63	displaying magic props for a young child .
+64	Image :
+65	Paul Budd .

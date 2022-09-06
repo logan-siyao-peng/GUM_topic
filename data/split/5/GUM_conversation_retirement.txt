@@ -1,0 +1,189 @@
+1	Sam has been , has taken such an interest in this retirement bit
+2	that it — it really surprises me .
+NewInterestInRetirement{>4}StartedToListen
+3	Well she 's begun to listen .
+4	Yes she has .
+5	You know .
+6	She has .
+NewInterestInRetirement{>3}PastResistenceAndOpinions
+7	Uh , she used to go over
+8	and read a book or something .
+PreferReadBook{=5}TurnDeafEar
+9	Yeah ,
+10	or turn a deaf ear .
+11	That was for sure .
+PastResistance{<4}Opinions
+12	But uh , once you understand it ,
+13	you know ,
+14	you , you 're interested in getting right in , and going after it .
+15	Yeah .
+SamRetirement{=2}RegBarrAndDuvall
+16	I really ought a call , at least Reg Barr ,
+17	and ask
+18	if uh , he 's still speaking to me .
+CallRegBarr{>5}CloseFriendship
+19	Well now , he was the one
+20	that was up on the left , up there .
+21	Yeah .
+22	Yeah .
+23	Yes .
+24	Well , he came over to you all smiles ,
+25	I noticed .
+26	Yes .
+27	Well , we 've known each other for thirty - some years ,
+28	why would n't he ?
+29	But a- anyway , um , I was so glad
+30	that he opened up on this disclosure bit .
+RegBarr{=4}Burns
+31	Because it was Burns that 's been objecting to our having it .
+32	Oh ?
+33	And I knew this .
+BurnsObjecting{>5}Elaboration
+34	So when he opened up on that ,
+35	and she followed through ,
+36	and told about her husband ,
+37	you know ?
+38	Not necessarily that she would approve of it ,
+39	but at least she was n't disapproving .
+40	Yeah .
+41	Of it .
+42	Yeah .
+RegBarrAndBurns{=3}Duvall
+43	And uh , course Duvall might –
+44	And I – I can not get over this .
+45	That man .
+46	I really can not .
+DuvallIntro{>5}Details
+47	And you know ,
+48	he must have been thinking ,
+49	when he said
+50	he was n't a political appointee ,
+51	he must have been associating his relationship with Steitler .
+52	Oh .
+53	I really do believe that .
+54	Mhm .
+55	In his thinking .
+56	I do n't know
+57	how else he could have done it .
+58	That topples over .
+DuvallIntroAndSteitler{=4}Story
+59	Um , but he did n't say that .
+60	Oh ?
+61	He said ,
+62	I loved your hum- humor , uh ,
+63	and I love you ,
+64	but , I am not a political appointee .
+65	And his eyes were just snapping .
+66	And I said ,
+67	Oh ?
+68	How did you get on the board ?
+69	Well he said ,
+70	I got a letter from the governor ,
+71	asking .
+FirstPartDialogueStory{=5}ExplanationAndContinuedStory
+72	Everybody on there is an app- political appointee ,
+73	that was n't the point .
+74	The point was ,
+75	I could have mentioned what was in the paper about him ,
+76	that he was related
+77	and ,
+78	you know ,
+79	had business with Steitler ,
+80	and I just said ,
+81	and there 's Doctor Duvall ,
+82	you know ?
+83	And then I went to Rotus ,
+84	who 's a seasoned politician ,
+85	if there ever was one .
+86	Yeah .
+87	He just would flare .
+88	And I said ,
+89	well , I –
+90	alright .
+91	I said ,
+92	I 'll apologize next time ,
+93	and I 'm gon na make hay out of it ,
+94	do n't you worry .
+95	I wan na know
+96	how you birds got on that board ,
+97	if you 're not political appointees .
+98	Mm .
+99	Oh my .
+RetirementRegBarrAndDuvall{=1}BasilAndCigarette
+100	Can I grow some basil ?
+101	From seed ?
+102	Yes ,
+103	that 's how I 've –
+AskForBasilSeeds{=5}Doesn'tHaveAny
+104	I do n't have any this year ,
+105	but I 've grown it other years .
+106	Well –
+107	There 's no proble- .
+AskGrowBasil{>4}FrostAndBarbara
+108	It will not take any frost .
+109	Soon as the b-
+110	Yeah I –
+111	A little bit of frost ,
+112	it 's gone .
+113	I l- I learned that one time
+114	the –
+115	I learned
+116	it just went down .
+117	The hard way .
+118	Hm ?
+119	Uh-huh .
+120	Yes ?
+Frost{<5}BarbaraHasSeeds
+121	Well , I think
+122	it was Barbara that has some seeds .
+123	Just –
+124	No problem .
+125	It comes right up .
+126	Yeah .
+127	Yeah .
+AskGrowBasil{=3}OtherHerbs
+128	I –
+129	Is n't that what you gave the neighbor one time ?
+130	You gave him some kind of herb .
+MentionGiveHerbToNeighbor{>5}WhichHerb
+131	Did I give him some ?
+132	I gave him a red pepper .
+133	I think
+134	you –
+135	I think
+136	you gave him some herb of some kind .
+137	I may have given – given him some basil , yes .
+138	Yeah .
+GiveHerbToNeighbor{=4}Oregano
+139	I do n't have any this year ,
+140	I forgot to plant it .
+ForgotToPlantOregano{<5}OfferOregano
+141	I have oregano .
+142	Yeah .
+143	A good stand of it ,
+144	if you want any .
+145	Yeah .
+146	I have a lot of dried or- oregano .
+147	Mm .
+BasilAndHerbs{>2}Cigarette
+148	Is your cigarette out , everybody 's ?
+149	Yeah , it 's out .
+MentionCigarette{<3}SmokedDownIntoTheCork
+150	You smoked it down into the cork ,
+151	did n't you ?
+152	Pardon ?
+153	You smoked it down into the cork .
+AskSmokeDownToCork{=5}Yes
+154	Well , yeah ,
+155	you do n't like that ,
+156	do you ,
+157	but –
+SmokedDownIntoTheCork{=4}Dislike
+158	No ,
+159	it chokes me to death .
+Chokes{=5}MightAsWell
+160	It 's – it 's there ,
+161	might as well smoke it .
+162	Oh .
+163	No good .
+164	No good .

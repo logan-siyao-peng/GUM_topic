@@ -1,168 +1,168 @@
-1	How to Flirt Through Instant Messaging
+EDU	How to Flirt Through Instant Messaging
 ~
-2	So you want to flirt with a guy or gal on MSN , AIM , Facebook Chat , or any other instant messaging service
-3	and you do n't want to look like a creep ?
-4	Congratulations —
-5	by seeking help ,
-6	you 've already demonstrated more self-awareness than the vast majority of online flirts .
+EDU	So you want to flirt with a guy or gal on MSN , AIM , Facebook Chat , or any other instant messaging service
+EDU	and you do n't want to look like a creep ?
+EDU	Congratulations —
+EDU	by seeking help ,
+EDU	you 've already demonstrated more self-awareness than the vast majority of online flirts .
 Intro{>2}GetStartedBelow
-7	See Step 1 below
-8	to start flirting smartly and respectfully .
+EDU	See Step 1 below
+EDU	to start flirting smartly and respectfully .
 Intro{<1}Do'sAndDon't's
-9	Part 1 of 2 :
-10	Flirting Dos
+EDU	Part 1 of 2 :
+EDU	Flirting Dos
 Part1Do'sTitle{<3}Content
-11	Start the conversation casually .
-12	As in the real world , the first step
-13	to flirting
-14	is to get over your cold feet
-15	and jump right in !
+EDU	Start the conversation casually .
+EDU	As in the real world , the first step
+EDU	to flirting
+EDU	is to get over your cold feet
+EDU	and jump right in !
 JumpIn{>6}WhatToSayAndAnxiety
-16	Text the other person a brief message
-17	asking them about their day ,
-18	asking them a specific question about work or school ,
-19	or simply saying " Hi ! " .
+EDU	Text the other person a brief message
+EDU	asking them about their day ,
+EDU	asking them a specific question about work or school ,
+EDU	or simply saying " Hi ! " .
 FirstMessages{>7}GetOverFear
-20	The hardest part of flirting is to break through your initial reluctance ,
-21	so
-22	if you 're having a hard time
-23	taking the plunge
+EDU	The hardest part of flirting is to break through your initial reluctance ,
+EDU	so
+EDU	if you 're having a hard time
+EDU	taking the plunge
 StrugglingToStart{<9}RememberLessStressful
-24	, just remind yourself that no matter how badly it goes ,
-25	it 'll be less stressful than an equivalent real-world encounter .
+EDU	, just remind yourself that no matter how badly it goes ,
+EDU	it 'll be less stressful than an equivalent real-world encounter .
 IMFlirtingLessStressful{>8}NoNeedToBeNervous
-26	There 's no reason
-27	to be nervous
-28	when it comes to IM flirting —
+EDU	There 's no reason
+EDU	to be nervous
+EDU	when it comes to IM flirting —
 NoNeedToBeNervous{<9}NoRealConsequences
-29	if the person
-30	you want to talk to
-31	does n't want to talk to you ,
-32	s/he always has the option
-33	of simply not responding to your message ,
+EDU	if the person
+EDU	you want to talk to
+EDU	does n't want to talk to you ,
+EDU	s/he always has the option
+EDU	of simply not responding to your message ,
 IgnoreMessage{=10}OrAwayFromComputer
-34	as , from your point of view , this is indistinguishable from him or her simply being away from the computer .
+EDU	as , from your point of view , this is indistinguishable from him or her simply being away from the computer .
 GettingStarted{>5}ReasonForConversing
-35	This being said ,
-36	if you barely know someone ,
-37	it can be a good idea to have an excuse
-38	for starting a conversation
-39	to avoid awkwardness .
+EDU	This being said ,
+EDU	if you barely know someone ,
+EDU	it can be a good idea to have an excuse
+EDU	for starting a conversation
+EDU	to avoid awkwardness .
 HaveExcuseForConvo{>6}Examples
-40	Asking for help with a work or school-related problem is almost always a good bet ,
-41	as is asking a question about something striking about the person .
+EDU	Asking for help with a work or school-related problem is almost always a good bet ,
+EDU	as is asking a question about something striking about the person .
 ExampleTopics{>7}DetailedBandExample
-42	For instance ,
-43	if the person has a band-related username
-44	, you might say :
+EDU	For instance ,
+EDU	if the person has a band-related username
+EDU	, you might say :
 BandUsername{<8}HypotheticalMessage
-45	" Hey , cool name .
-46	Did you see those guys
-47	when they last came to town ? "
+EDU	" Hey , cool name .
+EDU	Did you see those guys
+EDU	when they last came to town ? "
 GettingStarted{=4}ConvoContent
-48	Start small talk .
-49	After your initial greeting and exchange of pleasantries , you 'll probably want to ask how the person 's doing
-50	( just like you might in the real world ) .
-51	Ask him or her about work or school , his / her interests , or any recent trips , for instance .
+EDU	Start small talk .
+EDU	After your initial greeting and exchange of pleasantries , you 'll probably want to ask how the person 's doing
+EDU	( just like you might in the real world ) .
+EDU	Ask him or her about work or school , his / her interests , or any recent trips , for instance .
 SomeTopicsToDiscuss{>7}OrOfferComments
-52	Rather than asking a question ,
-53	you can also simply offer your comments on these things .
+EDU	Rather than asking a question ,
+EDU	you can also simply offer your comments on these things .
 OfferComments{>8}VolleyBackAndForth
-54	When s/he responds ,
-55	add your own comments
-56	or ask follow-up questions
-57	and proceed from there !
+EDU	When s/he responds ,
+EDU	add your own comments
+EDU	or ask follow-up questions
+EDU	and proceed from there !
 SmallTalkFirstSteps{=6}NoPryingAndDon'tDwell
-58	Do n't pry into his or her personal life —
-59	keep things light , fun , and focused on worry-free subjects .
+EDU	Do n't pry into his or her personal life —
+EDU	keep things light , fun , and focused on worry-free subjects .
 NoPrying{=7}Don'tDwell
-60	Do n't dwell too long on small talk .
-61	A minute or two is great
-62	for breaking the ice ,
-63	but much more can get boring fast .
+EDU	Do n't dwell too long on small talk .
+EDU	A minute or two is great
+EDU	for breaking the ice ,
+EDU	but much more can get boring fast .
 Don'tDwell{>8}Example
-64	For example ,
-65	after we 've opened up
-66	by asking about this person 's interest in the band in his / her username ,
-67	it 's logical and reasonable to ask about this person 's musical likes and dislikes .
-68	You can even offer your own opinions and suggestions .
+EDU	For example ,
+EDU	after we 've opened up
+EDU	by asking about this person 's interest in the band in his / her username ,
+EDU	it 's logical and reasonable to ask about this person 's musical likes and dislikes .
+EDU	You can even offer your own opinions and suggestions .
 MoveOnToNextTopic{>9}Example
-69	For instance , you might say something like :
+EDU	For instance , you might say something like :
 Example{<10}HypotheticalMessage
-70	" If you like those guys ,
-71	you might want to check out this band
-72	called Manic Albatross -
-73	they 're like the Beatles , only darker .
-74	What sorts of other bands do you like ? "
+EDU	" If you like those guys ,
+EDU	you might want to check out this band
+EDU	called Manic Albatross -
+EDU	they 're like the Beatles , only darker .
+EDU	What sorts of other bands do you like ? "
 SmallTalk{=5}Joke
-75	Joke .
-76	Everyone likes a good sense of humor .
+EDU	Joke .
+EDU	Everyone likes a good sense of humor .
 IntroJoke{>8}MonroeQuote
-77	In the immortal words of Marilyn Monroe ,
-78	" If you can make a woman laugh ,
-79	you can make her do anything "
-80	( do n't worry , ladies —
-81	the same is true for men ! )
+EDU	In the immortal words of Marilyn Monroe ,
+EDU	" If you can make a woman laugh ,
+EDU	you can make her do anything "
+EDU	( do n't worry , ladies —
+EDU	the same is true for men ! )
 EveryoneLikesHumor{<7}TryJoking
-82	Try to be playful and even slightly sarcastic
-83	as you respond to the statements of the person
-84	you 're talking to .
+EDU	Try to be playful and even slightly sarcastic
+EDU	as you respond to the statements of the person
+EDU	you 're talking to .
 TryJokes{>6}Examples
-85	For instance ,
-86	if you 're asked what you 're up to ,
-87	rather than saying , " looking for people to hit on on Facebook "
-88	you might find that it 's a better idea to give a sarcastic answer like " writing the great American novel " or " drowning my sorrows " .
+EDU	For instance ,
+EDU	if you 're asked what you 're up to ,
+EDU	rather than saying , " looking for people to hit on on Facebook "
+EDU	you might find that it 's a better idea to give a sarcastic answer like " writing the great American novel " or " drowning my sorrows " .
 SampleJokeToSay{<8}JokeLeadToMoreDiscussion
-89	These responses have the added benefit of being natural launching points for conversations about your hobbies , like the writing
-90	you 're doing on the side
-91	and the great bourbon
-92	you tasted the other day .
+EDU	These responses have the added benefit of being natural launching points for conversations about your hobbies , like the writing
+EDU	you 're doing on the side
+EDU	and the great bourbon
+EDU	you tasted the other day .
 FirstExampleJoke{=7}MusicExampleJoke
-93	In our example conversation , you might work a joke or two into your music-related small talk .
-94	For instance , you might say something like ,
+EDU	In our example conversation , you might work a joke or two into your music-related small talk .
+EDU	For instance , you might say something like ,
 MusicExampleJoke{<8}HypotheticalMessage
-95	" I do n't know
-96	why every song on the radio nowadays has a Texas Flynn feature .
-97	Does he even have time
-98	to record
-99	between rehab stints ? "
+EDU	" I do n't know
+EDU	why every song on the radio nowadays has a Texas Flynn feature .
+EDU	Does he even have time
+EDU	to record
+EDU	between rehab stints ? "
 Do's{=2}Dont's
-100	Part 2 of 2 :
-101	Flirting Don'ts
+EDU	Part 2 of 2 :
+EDU	Flirting Don'ts
 Part2Don'tsHeader{<3}Content
-102	Do n't be too self-deprecating .
-103	Simply put , confidence is sexy .
-104	This is more true for real-life situations
-105	than it is online ,
-106	but this mantra has some truth in the world of IM flirting as well .
+EDU	Do n't be too self-deprecating .
+EDU	Simply put , confidence is sexy .
+EDU	This is more true for real-life situations
+EDU	than it is online ,
+EDU	but this mantra has some truth in the world of IM flirting as well .
 ConfidenceIsMoreAttractive{<6}TooMuchSelf-DeprecatingCons
-107	For instance , you 'll want to avoid making lots of jokes at your own expense .
-108	Just one is plenty —
-109	it should n't be a recurring theme throughout your conversation .
-110	Doing this too often can quickly turn an otherwise flirtatious conversation into one
-111	in which you appear needy and self-loathing .
+EDU	For instance , you 'll want to avoid making lots of jokes at your own expense .
+EDU	Just one is plenty —
+EDU	it should n't be a recurring theme throughout your conversation .
+EDU	Doing this too often can quickly turn an otherwise flirtatious conversation into one
+EDU	in which you appear needy and self-loathing .
 NotTooSelf-Deprecating{>5}Don'tMakeFunOfOthers
-112	On the other hand , this is n't to say that you should necessarily make jokes at other people 's expense ,
-113	as this can make you seem mean and petty .
-114	Any sort of pointed or caustic remarks about yourself or someone else do n't have a place in flirtatious conversations .
+EDU	On the other hand , this is n't to say that you should necessarily make jokes at other people 's expense ,
+EDU	as this can make you seem mean and petty .
+EDU	Any sort of pointed or caustic remarks about yourself or someone else do n't have a place in flirtatious conversations .
 Don'tBeTooSelf-Deprecating{=4}Don'tBeTooSappy
-115	Do n't be too sappy .
-116	People like flirting to be fun .
-117	For most people , receiving compliments is only fun up to a point —
-118	getting more than one or two can make someone feel embarrassed and self-conscious .
+EDU	Do n't be too sappy .
+EDU	People like flirting to be fun .
+EDU	For most people , receiving compliments is only fun up to a point —
+EDU	getting more than one or two can make someone feel embarrassed and self-conscious .
 TooManyComplimentsEmbarrassment{=6}QuestionMotives
-119	It can also make him or her question your motives ,
-120	leading the person to believe
-121	that you may be trying to get something out of him or her .
+EDU	It can also make him or her question your motives ,
+EDU	leading the person to believe
+EDU	that you may be trying to get something out of him or her .
 QuestionMotives{>7}ComplimentsLessEffectiveOnText
-122	Besides , the wooing power of flowery , gushing compliments is diminished
-123	( to say the least )
-124	when the compliments are displayed in a tiny box at the bottom of the screen alongside cartoon smiley faces .
+EDU	Besides , the wooing power of flowery , gushing compliments is diminished
+EDU	( to say the least )
+EDU	when the compliments are displayed in a tiny box at the bottom of the screen alongside cartoon smiley faces .
 Don'tBeTooSappy{=5}Alternatives
-125	Instead of relying too heavily on compliments ,
-126	instead , focus on having an engaging , genuine conversation .
+EDU	Instead of relying too heavily on compliments ,
+EDU	instead , focus on having an engaging , genuine conversation .
 FocusOnGenuineConvo{=6}ShowDon'tTell
-127	Follow the mantra " show , do n't tell . "
-128	In other words , show that you 're attracted to this person
-129	by giving him or her a great conversation ,
-130	not by stating it outright .
+EDU	Follow the mantra " show , do n't tell . "
+EDU	In other words , show that you 're attracted to this person
+EDU	by giving him or her a great conversation ,
+EDU	not by stating it outright .

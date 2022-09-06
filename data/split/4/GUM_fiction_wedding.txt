@@ -1,0 +1,140 @@
+1	The Chemical Wedding by Christian Rosencreutz
+2	A ROMANCE IN EIGHT DAYS by JOHANN VALENTIN ANDREAE in a new version by JOHN CROWLEY
+3	illustrated by THEO FADEL
+4	SMALL BEER PRESS EASTHAMPTON , MASS .
+5	Introduction
+6	I
+IntroductionHeader{<2}Content
+7	The Chemical Wedding by Christian Rosencreutz is the way
+8	I ’ve decided to present the title of this book .
+9	Most versions in English are called The Chemical Wedding of Christian Rosencreutz ,
+10	which suggests
+11	( and most people
+12	who ’ve heard of it suppose )
+13	that the wedding is Christian ’s .
+14	It ’s not ;
+15	Christian Rosencreutz is the purported author of a book called The Chemical Wedding .
+ChristianRosencreutzRole{=4}RealAuthor
+16	The actual author is Johann Valentin Andreae ,
+17	whose name did n’t appear on the book originally ,
+18	thus ensuring the confusion .
+19	I ’ll call it herein
+20	( as everyone mostly does )
+21	simply The Chemical Wedding .
+TitleBackground{>3}MoreInfoFromAuthor
+22	Though its original readers would have had a certain amount of context for the truly bizarre and surprising events
+23	it tells of ,
+24	it ’s possible that The Chemical Wedding is now more enjoyable
+25	without knowing that context ,
+26	and experiencing the book unmediated .
+27	You might therefore wish to start right in on the first page of text
+28	that follows
+29	and only then return to this introduction .
+Author'sSuggestion{>4}Comparison
+30	Consider a similar case :
+31	a little book
+32	published in 1934 by the Surrealist artist Max Ernst
+33	called Une Semaine de Bonté .
+34	It was made entirely of collaged illustrations
+35	cut out of old books
+Introduction{<1}Story
+36	The First Day
+FirstDayHeader{<3}Story
+37	It was just before Easter Sunday , 1
+38	and I was sitting at my table .
+39	I ’d said my prayers ,
+40	talking a long time as usual with my Maker
+41	and thinking about some of the great mysteries
+42	the Father of Lights had revealed to me .
+43	Now I was ready to make and to bake
+44	– only in my heart , actually –
+45	a small , perfect unleavened wafer
+46	to eat with my beloved Paschal Lamb .
+SittingAtTable{<4}Disturbances
+47	All of a sudden a terrible wind blew up , so strong
+48	that I thought
+49	the hill
+50	my little house was built on
+51	would be blown apart –
+52	but I ’d seen the Devil do things as bad as this before
+53	( the Devil had often tried to harm me ) ,
+54	so I took heart
+55	and went on meditating .
+56	Till I felt somebody touch me on the back .
+57	This frightened me
+58	so that I did n’t dare turn .
+59	I tried to stay as brave and calm
+60	as a human being could under the circumstances .
+61	I felt
+62	my coat tugged at ,
+63	and tugged again ,
+64	and at last I looked around .
+65	A woman stood there , so bright and beautiful , in a sky - colored robe – a heavens covered with
+66	1 Christian ’s story begins just before Easter , like Dante ’s Divine Comedy .
+67	It can be seen as an allegory of Christ ’s death and resurrection ,
+68	though this idea produces some puzzles .
+69	The birds sang so beautifully ,
+70	the young deer skipped so happily ,
+71	that it gladdened my old heart ,
+72	and I could n't help singing too ...
+DayOne{=2}DayFour
+73	THE FOURTH DAY
+FourthDayHeader{<3}Story
+74	I was awake and lying in bed next morning ,
+75	looking idly at the wonderful images and inscriptions all around my room ,
+76	when suddenly I heard the sound of trumpets ,
+77	as if a procession were already underway .
+78	My page jumped out of bed
+79	as if crazed ,
+80	looking more dead than alive ,
+81	and you can imagine
+82	how I felt
+83	when he cried ,
+84	“ They 're already being presented to the king ! "
+85	I could only groan in frustration and curse my lazy bones .
+86	I got dressed ,
+87	but my page was quicker
+88	than I was
+89	and ran out of the chamber
+90	to see what was what .
+91	He soon came back
+92	and gave me the good news
+93	that I actually had n’t overslept ;
+94	all
+95	I ’d done
+96	was miss breakfast :
+97	they had n’t wanted to wake an old man
+98	who needed his rest .
+99	But now I had to get ready
+100	to go with him to the lion fountain ,
+101	where most of the others were gathered .
+FearOverslept{=4}ReliefAndInscription
+102	Such a relief !
+103	My spirits recovered ,
+104	and
+105	as soon as I had got into my habit ,
+106	I followed him to the garden
+107	I have already told about .
+108	I found that the lion , in place of his sword , now held a rather large plaque .
+109	Examining this ,
+110	I could tell
+111	that it had been taken from those ancient monuments
+112	I ’d seen
+113	and put here for some special reason .
+114	The inscription on it was fading away ,
+115	so I should set it down here
+116	as it was then ,
+117	and ask my readers to ponder it :
+118	Prince Hermes :
+119	Now after humankind has suffered so much harm here
+120	I flow
+121	having by god ’s counsel and with the help of art become a healing balm .
+122	Drink from me
+123	if you can ;
+124	wash ,
+125	if you like ;
+126	trouble my waters
+127	if you dare .
+128	Drink , Brethren !
+129	Drink
+130	and live !

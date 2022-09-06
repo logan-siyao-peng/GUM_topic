@@ -1,0 +1,149 @@
+1	Does n’t it make you just want to sneeze ?
+2	Pete was leaning against the wall ,
+3	watching the street go by .
+4	I pulled the bike to a halt ,
+5	the front wheel pointing in his direction .
+6	“ I think
+7	I ’ve got a fairy stuck up my nose . ”
+IntroConflict{>5}PeteDoesn'tBelieveNarrator
+8	“ S’ not true ! ”
+9	came a voice from inside the nose in question .
+10	“ Hey ! Not bad that ! ”
+11	Pete said .
+12	“ I did n’t see your lips move at all . ”
+13	“ It ’s not a joke . ”
+14	The itching was getting worse .
+15	I pulled out a paper tissue .
+16	“ Stop that now ! ”
+17	came the voice again .
+18	“ You know
+19	I do n’t like it . ”
+20	“ S’ not my fault .
+21	You make me want to sneeze ! ”
+BeforeSneeze{>4}Sneeze
+22	And I did .
+23	I inspected the crumpled paper .
+24	Lots of yellow goo ,
+25	but no fairy .
+26	Pete looked at me with mild disgust
+27	as I eyed the handkerchief more closely .
+28	“ You know that ’s pretty gross … ”
+29	he said .
+30	“ Got any other brilliant remarks ? ”
+31	I said .
+32	I held a finger up to my lips ,
+33	and waved a hand
+34	to silence Pete ’s reply .
+35	“ Are you still there ? ”
+36	I called .
+37	“ No thanks to you ! ”
+38	came the little voice .
+Sneeze{=5}HowItHappened
+39	Pete looked at me sort of sideways .
+40	“ Look , the first time was OK ,
+41	but — ”
+42	“ It ’s not a joke .
+43	I ’ve really got something stuck up there .
+44	I was riding on me bike
+45	and I thought
+46	I ’d swallowed an insect or something .
+47	And then it started insulting me . ”
+IntroConflict{=3}PeteBelievesNarrator
+48	“ You ’re having me on , right ? ”
+49	“ Pete !
+50	Look at me .
+51	If it ’s a trick ,
+52	how do I do it then ? ”
+53	Pete thought for a moment .
+PeteBelievesNarrator{>5}LeprechaunAndAttack
+54	“ If it ’s real …
+55	Are n’t they supposed to have a pot of gold or something ?
+56	And they have to tell you where it is
+57	if you catch them ? ”
+58	“ That ’s leprechauns , idiot ! ”
+59	said the voice from my noise .
+60	“ So what ’s the difference ?
+61	Just give us the gold
+62	and we ’ll let you go … ”
+63	“ We — ? ”
+64	I started .
+65	He winked at me .
+66	“ Oh , I ’m happy to stick around , ”
+67	came the voice .
+68	“ It ’s noggins here who wants to get rid of me … ”
+69	Suddenly I felt a violent pain in my nose ,
+70	my eyes watered .
+71	“ Owwww ! ”
+72	I howled .
+73	“ See what I mean ? ”
+74	the voice shouted over my moans .
+PeteBelievesNarrator{=4}FairyUsesAndRemovalIdeas
+75	“ Perhaps you can use it in exams … ”
+76	Pete said ,
+77	scratching his head .
+78	“ You know ,
+79	it could tell us all the answers . ”
+80	“ Idiot !
+81	If it yacks on like that in an exam ,
+82	I ’ll get thrown out .
+83	And probably locked up too . ”
+84	“ Ca n’t it whisper ? ”
+85	“ Perhaps I do n’t know the answers anyway ? ”
+86	said the voice .
+87	“ Have you thought of that ? ”
+88	“ Anyway , I do n’t want it in exams .
+89	I just want it to go .
+90	Out of my nose . ”
+UseFairyToCheat{=5}FairyRemovalIdeas
+91	“ Ca n’t you just poke it out ? ”
+92	“ With what ? ”
+93	“ S’pose you ’ve already tried your finger … ”
+94	“ Yes he has , ”
+95	the voice said .
+96	“ And it was n’t pleasant
+97	I can tell you . ”
+98	“ You see what it ’s like .
+99	He ’s already making sarcastic remarks like that … ”
+100	“ What if we put something in your nose
+101	to catch it ,
+102	then ?
+103	I do n’t know …
+104	A spider ? ”
+105	“ No ! ”
+106	we both said at once .
+FairyInNose{=2}ClimaxGettingFairyOut
+107	“ Snap ! ”
+108	Pete said .
+109	“ You both said the same thing at the same time ,
+110	you ’ve got to make a — ”
+111	He hit his forehead with his palm .
+PeteRealization{<4}ThreeWishes
+112	“ That ’s it !
+113	Three wishes !
+114	When you catch a fairy ,
+115	you get three wishes .
+ThreeWishes{<3}GettingFairyOut
+116	Hey you in there !
+117	Is that right ? ”
+118	“ You could see things like that … ”
+119	said the voice with resignation .
+AskFairyClarification{<4}WishFairyLeavesAndEnd
+120	“ I wish you ’d get out of my nose , then ! ”
+121	I cried .
+122	In a flash the fairy was out of my nose and gone .
+123	And I ’m still waiting for my two other wishes .
+124	THE END
+Story{>1}MessageFromAuthor
+125	Something a little lighter this week ,
+126	I hope you enjoy it .
+LighterStory{<3}Inspiration
+127	Once it got started ,
+128	I realised
+129	that the idea must have been inspired by the title of Justine Larbalestier ’s How to Ditch Your Fairy ,
+130	although it has nothing at all to do with that story at all .
+LighterStoryAndInspiration{<2}ClosingRemarks
+131	All in all , my story feels very light .
+132	But I think
+133	I needed something a little less dark ,
+134	and there are some quite sombre tales coming up in the coming weeks .
+135	See you then .

@@ -97,11 +97,12 @@ ClimateHeader{<3}Content
 90	Winter is definitely low season , with the occasional rainy or snowy day ,
 91	but also an ideal time
 92	to save money
-93	while enjoying the city without countless other travelers and tourists .
-94	Whilst peak traffic hour can be a bit smoggy on the main roads ,
-95	on most sunny days the skies are azure blue .
-96	The main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin
-97	which does not let the smog leave .
-98	The government 's ban on diesel vehicles within Athens and the early 1990s initiatives
-99	to improve car emissions
-100	have greatly contributed to better atmospheric conditions in the basin .
+93	while enjoying the city
+94	without countless other travelers and tourists .
+95	Whilst peak traffic hour can be a bit smoggy on the main roads ,
+96	on most sunny days the skies are azure blue .
+97	The main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin
+98	which does not let the smog leave .
+99	The government 's ban on diesel vehicles within Athens and the early 1990s initiatives
+100	to improve car emissions
+101	have greatly contributed to better atmospheric conditions in the basin .

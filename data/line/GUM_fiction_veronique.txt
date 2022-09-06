@@ -1,154 +1,154 @@
-1	The Cost
-2	to Be Wise
+EDU	The Cost
+EDU	to Be Wise
 ~
-3	Veronique stayed with me that night ,
-4	lying next to me in my blankets and furs .
-5	She did n't sleep ,
-6	I do n't think .
-7	I was listening to her breath .
+EDU	Veronique stayed with me that night ,
+EDU	lying next to me in my blankets and furs .
+EDU	She did n't sleep ,
+EDU	I do n't think .
+EDU	I was listening to her breath .
 NarratorSleepNextToVeronique{<4}UnsureComfortHer
-8	I felt
-9	as if I should help her sleep .
+EDU	I felt
+EDU	as if I should help her sleep .
 WantsToHelpHerSleep{>6}PutArmAround
-10	I lay there
-11	and tried to think
-12	if I should put my arm around her ,
-13	but I did n't know .
+EDU	I lay there
+EDU	and tried to think
+EDU	if I should put my arm around her ,
+EDU	but I did n't know .
 NarratorUnsureToTouchHer{<5}RespectsHerSpace
-14	Maybe she did n't want to be touched .
-15	And she had been a stupid girl , anyway .
-16	She lay tense in the dark .
+EDU	Maybe she did n't want to be touched .
+EDU	And she had been a stupid girl , anyway .
+EDU	She lay tense in the dark .
 PhysicalPositioningDescription{<3}BeingATeacher
-17	" Are you going to be a teacher ? "
-18	I asked .
-19	She laughed .
-20	" If I get out of here . "
+EDU	" Are you going to be a teacher ? "
+EDU	I asked .
+EDU	She laughed .
+EDU	" If I get out of here . "
 VeroniqueMaybeWantsToLeave{>5}NarratorDoesn'tUnderstand
-21	I waited for her to say more ,
-22	but she did n't .
-23	" Get out of here " meant to make someone leave .
-24	Maybe she meant
-25	if she made herself .
+EDU	I waited for her to say more ,
+EDU	but she did n't .
+EDU	" Get out of here " meant to make someone leave .
+EDU	Maybe she meant
+EDU	if she made herself .
 VeroniqueMaybeWantsToLeave{=4}VeroniqueFromEarth
-26	" You come here from Earth ? "
-27	I asked .
-28	To get her to talk ,
-29	although I was tired of lingua
-30	and I did n't really want to think about anything .
+EDU	" You come here from Earth ? "
+EDU	I asked .
+EDU	To get her to talk ,
+EDU	although I was tired of lingua
+EDU	and I did n't really want to think about anything .
 IntroSettingAndCharactersPositions{<2}WhyVeroniqueCame
-31	" My family came here from Earth , "
-32	she said .
-33	" Why ? "
-34	" My father , he 's an anthropologist , "
-35	she said .
+EDU	" My family came here from Earth , "
+EDU	she said .
+EDU	" Why ? "
+EDU	" My father , he 's an anthropologist , "
+EDU	she said .
 Veronique'sFatherIsAnthropologist{>5}DefineAnthropologist
-36	" Do you know anthropologist ? "
-37	" No , "
-38	I said .
+EDU	" Do you know anthropologist ? "
+EDU	" No , "
+EDU	I said .
 NarratorUnfamiliarWithTerm{<6}VeroniqueDefinesAnthropologist
-39	" He is a person
-40	who studies the way
-41	people live .
-42	And he is a teacher . "
+EDU	" He is a person
+EDU	who studies the way
+EDU	people live .
+EDU	And he is a teacher . "
 ExplainVeronique'sFatherAsAnthropologist{>4}WhatHeStudies
-43	All the offworlders
-44	I had ever met
-45	were teachers .
-46	I wondered
-47	who did all the work on Earth .
+EDU	All the offworlders
+EDU	I had ever met
+EDU	were teachers .
+EDU	I wondered
+EDU	who did all the work on Earth .
 ManyTeachersFromEarth{<5}WhatFatherStudies
-48	" Because Earth had lost touch with your world ,
-49	the people here are very interesting to my father , "
-50	she said .
+EDU	" Because Earth had lost touch with your world ,
+EDU	the people here are very interesting to my father , "
+EDU	she said .
 FatherInterestedInThesePeople{>6}Narrator'sThoughts
-51	Her voice was listless in the dark
-52	and she was even harder to understand
-53	when I could n't see her properly .
+EDU	Her voice was listless in the dark
+EDU	and she was even harder to understand
+EDU	when I could n't see her properly .
 VeroniqueSeemsSad{>7}NarratorDoesn'tUnderstandHer
-54	I did n't understand
-55	so I did n't say anything .
-56	I was sorry I 'd started her talking .
+EDU	I did n't understand
+EDU	so I did n't say anything .
+EDU	I was sorry I 'd started her talking .
 Veronique'sFatherAndAnthropology{=3}HistoryAndColonies
-57	" History , do you know the word ' history ' ? "
-58	she asked .
+EDU	" History , do you know the word ' history ' ? "
+EDU	she asked .
 VeroniqueAskNarratorKnowsHistory{=7}NarratorStudiedHistory
-59	Of course I knew the word " history . "
-60	" I study history in school , "
-61	I said .
-62	Anneal and Kumar taught it .
+EDU	Of course I knew the word " history . "
+EDU	" I study history in school , "
+EDU	I said .
+EDU	Anneal and Kumar taught it .
 HistoryTerm{<6}HistoryOfTheWorld
-63	" Do you know the history of this world ? "
-64	It took my tired head a long time
-65	to sort that out .
+EDU	" Do you know the history of this world ? "
+EDU	It took my tired head a long time
+EDU	to sort that out .
 AsksNarratorHistoryOfWorld{<7}StoryOfColonies
-66	" Yes , "
-67	I said .
-68	" We are a colony .
-69	People from Earth come here
-70	to live .
+EDU	" Yes , "
+EDU	I said .
+EDU	" We are a colony .
+EDU	People from Earth come here
+EDU	to live .
 ColonialsComeFromEarth{<8}EstrangedRelationship
-71	Then there is a big problem on Earth ,
-72	and the people of Earth forget
-73	we are here .
-74	We forget
-75	we are from Earth .
+EDU	Then there is a big problem on Earth ,
+EDU	and the people of Earth forget
+EDU	we are here .
+EDU	We forget
+EDU	we are from Earth .
 TheTwoForgetEachOther{>9}ThenEarthComesBack
-76	Then Earth finds us again . "
+EDU	Then Earth finds us again . "
 HistoryAndColonies{=5}StoriesOfColonials
-77	" Some people have stories
-78	about coming from the Earth , "
-79	Veronique said .
-80	" My father is collecting those stories from different peoples .
-81	I 'm a graduate student . "
+EDU	" Some people have stories
+EDU	about coming from the Earth , "
+EDU	Veronique said .
+EDU	" My father is collecting those stories from different peoples .
+EDU	I 'm a graduate student . "
 Veronique'sFatherCollectsStories{>6}Narrator'sThoughts
-82	The clans did n't have any stories
-83	about coming from Earth .
-84	We said the first people came out of the sun .
-85	This somehow seemed embarrassing .
+EDU	The clans did n't have any stories
+EDU	about coming from Earth .
+EDU	We said the first people came out of the sun .
+EDU	This somehow seemed embarrassing .
 NarratorWasToldOtherwise{>7}NarratorDoesn'tUnderstandVeronique
-86	I did n't understand
-87	what kind of student she was .
+EDU	I did n't understand
+EDU	what kind of student she was .
 WhyFatherIsThere{=4}WhyVeroniqueIsThere
-88	" Are you here for stories ? "
-89	I asked .
-90	" No , "
-91	she said .
+EDU	" Are you here for stories ? "
+EDU	I asked .
+EDU	" No , "
+EDU	she said .
 VeroniqueNotHereForStories{<5}HereForVisit
-92	" Ian is old friends with your teacher ,
-93	from back when they were both with the survey .
-94	We just came to visit . "
+EDU	" Ian is old friends with your teacher ,
+EDU	from back when they were both with the survey .
+EDU	We just came to visit . "
 WhyVeroniqueIsHere{>6}NarratorDoesn'tUnderstand
-95	I did n't understand
-96	what she 'd said
-97	except that they were visiting .
+EDU	I did n't understand
+EDU	what she 'd said
+EDU	except that they were visiting .
 Conversation{=1}ThoughtsDreamsAndWishes
-98	We were quiet after that .
-99	I pretended to sleep .
-100	Sometimes there was gunfire outside
-101	and we jumped ,
-102	even Mam on the bed .
+EDU	We were quiet after that .
+EDU	I pretended to sleep .
+EDU	Sometimes there was gunfire outside
+EDU	and we jumped ,
+EDU	even Mam on the bed .
 WentToSleepGunfireOutside{>3}BetSleeps
-103	Everyone but Bet .
-104	Once Bet was asleep
-105	it was impossible to wake her up .
+EDU	Everyone but Bet .
+EDU	Once Bet was asleep
+EDU	it was impossible to wake her up .
 GoToSleep{<2}Thoughts
-106	I fell asleep
-107	thinking
-108	about how I wished that the Scathalos outrunners were gone .
+EDU	I fell asleep
+EDU	thinking
+EDU	about how I wished that the Scathalos outrunners were gone .
 WishScatholosOutrunnersGone{<4}DreamOfBetterPlace
-109	I dreamed
-110	that I was at the offworlder 's home ,
-111	where it was summer
-112	but no one was taking care of the stabros ,
+EDU	I dreamed
+EDU	that I was at the offworlder 's home ,
+EDU	where it was summer
+EDU	but no one was taking care of the stabros ,
 DreamOfOffworlder'sHome{<5}DreamEveryoneGlad
-113	and they were all glad ,
-114	and so I was a hero -
+EDU	and they were all glad ,
+EDU	and so I was a hero -
 ThoughtsAndDreams{=3}WokenByGunfireAndWish
-115	and I was startled awake by gunfire .
-116	Just more drinking
-117	and shooting .
+EDU	and I was startled awake by gunfire .
+EDU	Just more drinking
+EDU	and shooting .
 WokenByGunfire{<4}WishFatherWouldComeHome
-118	I wished my da would come home .
-119	It did n't seem fair that we should lie here and be afraid
-120	while the men were getting drunk
-121	and singing .
+EDU	I wished my da would come home .
+EDU	It did n't seem fair that we should lie here and be afraid
+EDU	while the men were getting drunk
+EDU	and singing .

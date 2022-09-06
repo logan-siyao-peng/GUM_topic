@@ -1,160 +1,160 @@
-1	How to Prepare Quinoa
+EDU	How to Prepare Quinoa
 ~
-2	Quinoa is known as the little rice of Peru .
+EDU	Quinoa is known as the little rice of Peru .
 PeruRice{<3}Incas
-3	The Incas treated the crop as sacred
-4	and referred to quinoa as " chisaya mama " or " mother of all grains . "
-5	[ 1 ]
-6	By tradition , the Inca emperor would sow the first seeds of the season
-7	using " golden implements . "
+EDU	The Incas treated the crop as sacred
+EDU	and referred to quinoa as " chisaya mama " or " mother of all grains . "
+EDU	[ 1 ]
+EDU	By tradition , the Inca emperor would sow the first seeds of the season
+EDU	using " golden implements . "
 HistoryPeru{<2}WhatIsQuinoa
-8	Quinoa is rich in protein and much lighter than other grains .
-9	It is much easier to prepare than rice
-10	and is rapidly gaining in popularity , especially among vegetarians who value its high protein levels .
+EDU	Quinoa is rich in protein and much lighter than other grains .
+EDU	It is much easier to prepare than rice
+EDU	and is rapidly gaining in popularity , especially among vegetarians who value its high protein levels .
 QuinoaIntroduction{<1}Recipe
-11	Ingredients
+EDU	Ingredients
 IngredientsHeader{<3}Content
-12	1 cup quinoa
-13	2 cups water
-14	( or broth )
+EDU	1 cup quinoa
+EDU	2 cups water
+EDU	( or broth )
 Ingredients{>4}OptionalIngredients
-15	Olive oil to taste
-16	( Optional )
-17	1/2 teaspoon salt
-18	( Optional )
+EDU	Olive oil to taste
+EDU	( Optional )
+EDU	1/2 teaspoon salt
+EDU	( Optional )
 Ingredients{=2}ThreeMethods
-19	Method 1
-20	Cooking On A Stove Top
+EDU	Method 1
+EDU	Cooking On A Stove Top
 MethodOneHeader{<4}Steps
-21	Rinse the grains of quinoa in water .
-22	You can skip this step
-23	if you have purchased pre-rinsed quinoa in a box .
+EDU	Rinse the grains of quinoa in water .
+EDU	You can skip this step
+EDU	if you have purchased pre-rinsed quinoa in a box .
 FirstStepRinseIfNeeded{>7}HowToRinse
-24	To rinse ,
-25	place the measured grain in a strainer under running water for a few minutes .
+EDU	To rinse ,
+EDU	place the measured grain in a strainer under running water for a few minutes .
 HowToRinse{>8}WhyRinsingNecessary
-26	This is necessary
-27	to remove the excess saponins on the outside of the grains
-28	which impart a bitter flavor to quinoa
-29	if not removed .
+EDU	This is necessary
+EDU	to remove the excess saponins on the outside of the grains
+EDU	which impart a bitter flavor to quinoa
+EDU	if not removed .
 RinsingQuinoa{=6}Toasting
-30	Toast quinoa in a saucepan
-31	( optional ) .
-32	Drizzle a bit of olive oil in a pan over medium-high heat .
-33	Add the quinoa
-34	and cook for about 1 minute .
+EDU	Toast quinoa in a saucepan
+EDU	( optional ) .
+EDU	Drizzle a bit of olive oil in a pan over medium-high heat .
+EDU	Add the quinoa
+EDU	and cook for about 1 minute .
 HowToToast{>7}ReasonForToasting
-35	This brings out quinoa 's nutty flavor .
+EDU	This brings out quinoa 's nutty flavor .
 Preparation{=5}Cooking
-36	Cook the quinoa .
-37	Place two parts water or stock to one part of quinoa in a saucepan over medium-high heat
-38	and bring to a boil .
+EDU	Cook the quinoa .
+EDU	Place two parts water or stock to one part of quinoa in a saucepan over medium-high heat
+EDU	and bring to a boil .
 Boil{=8}ReduceHeatToLow
-39	Cover
-40	and reduce heat to low .
-41	Simmer the quinoa for about 15 minutes
+EDU	Cover
+EDU	and reduce heat to low .
+EDU	Simmer the quinoa for about 15 minutes
 Simmer{>9}HowToKnowWhenDone
-42	or until the grain becomes translucent
-43	and the white germ forms a visible spiral on the exterior of the quinoa grain .
-44	Try to ensure there is an al dente bite to the germ , in the same way as pasta .
-45	Quinoa will continue cooking for a bit
-46	even after you take it off the heat .
+EDU	or until the grain becomes translucent
+EDU	and the white germ forms a visible spiral on the exterior of the quinoa grain .
+EDU	Try to ensure there is an al dente bite to the germ , in the same way as pasta .
+EDU	Quinoa will continue cooking for a bit
+EDU	even after you take it off the heat .
 Cooking{=7}LetSit
-47	Take the quinoa off the heat
-48	and let stand ,
-49	covered ,
-50	for 5 minutes .
+EDU	Take the quinoa off the heat
+EDU	and let stand ,
+EDU	covered ,
+EDU	for 5 minutes .
 StandCovered{>9}Reason
-51	This will give it time
-52	to absorb any moisture
-53	that might still be in the pan .
+EDU	This will give it time
+EDU	to absorb any moisture
+EDU	that might still be in the pan .
 LetSitCovered{=8}Uncover
-54	Uncover
-55	and fluff with a fork .
-56	The quinoa should look light and fluffy ,
-57	and you should be able to see the germ
-58	separating from the seed .
+EDU	Uncover
+EDU	and fluff with a fork .
+EDU	The quinoa should look light and fluffy ,
+EDU	and you should be able to see the germ
+EDU	separating from the seed .
 HowToCook{=6}HowToServe
-59	Serve .
-60	Freshly cooked quinoa should be served immediately
-61	to retain nutritional value and a good flavor .
+EDU	Serve .
+EDU	Freshly cooked quinoa should be served immediately
+EDU	to retain nutritional value and a good flavor .
 ServeImmediately{<7}SuggestionsServeWith
-62	Serve with :
+EDU	Serve with :
 ServeWithIntro{<8}Suggestions
-63	Stir-fry ,
-64	using the quinoa as a substitute for rice .
-65	Curry .
-66	Braised meat .
-67	In a salad .
+EDU	Stir-fry ,
+EDU	using the quinoa as a substitute for rice .
+EDU	Curry .
+EDU	Braised meat .
+EDU	In a salad .
 SpecificSuggestions{>9}AnyCombo
-68	Virtually any other combination
-69	you can think of !
+EDU	Virtually any other combination
+EDU	you can think of !
 Method1{=3}Method2And3
-70	Method 2
-71	Cooking In a Rice Cooker
+EDU	Method 2
+EDU	Cooking In a Rice Cooker
 MethodTwoHeader{<5}Steps
-72	Rinse 1 cup of quinoa in a fine mesh sieve under cold water .
-73	If you bought packaged quinoa ,
-74	this step is n't always necessary ,
-75	but it 's better to be safe
-76	than sorry .
+EDU	Rinse 1 cup of quinoa in a fine mesh sieve under cold water .
+EDU	If you bought packaged quinoa ,
+EDU	this step is n't always necessary ,
+EDU	but it 's better to be safe
+EDU	than sorry .
 Rinse{<6}Cook
-77	Pour quinoa into rice cooker .
-78	One option is to toast the quinoa
-79	before placing in the rice cooker .
-80	See Step # 2 in Method One above for directions .
+EDU	Pour quinoa into rice cooker .
+EDU	One option is to toast the quinoa
+EDU	before placing in the rice cooker .
+EDU	See Step # 2 in Method One above for directions .
 OptionalToastStep{<7}Cook
-81	Add 2 cups of liquid and 1/2 teaspoon of salt into the rice cooker .
-82	Water , chicken stock or broth , or vegetable stock all work .
+EDU	Add 2 cups of liquid and 1/2 teaspoon of salt into the rice cooker .
+EDU	Water , chicken stock or broth , or vegetable stock all work .
 WhatToAdd{=8}CookDuration
-83	Cook for approximately 15 minutes .
-84	Some rice cooker will have different settings instead of a simple " cook " option .
-85	Try the " white rice " option
-86	if your rice cooker gives you several options .
+EDU	Cook for approximately 15 minutes .
+EDU	Some rice cooker will have different settings instead of a simple " cook " option .
+EDU	Try the " white rice " option
+EDU	if your rice cooker gives you several options .
 CookDuration{=9}LetSitAndServe
-87	Let stand for about 5 minutes .
-88	Fluff with a fork
-89	and serve .
+EDU	Let stand for about 5 minutes .
+EDU	Fluff with a fork
+EDU	and serve .
 Method2{=4}Method3
-90	Method 3
-91	Cooking In the Oven
+EDU	Method 3
+EDU	Cooking In the Oven
 MethodThreeHeader{<5}Steps
-92	Preheat oven to 350 ° F
-93	( 177 ° C ) .
-94	Arrange rack in the middle of the oven .
-95	Rinse quinoa thoroughly in a fine mesh seive under cold water .
+EDU	Preheat oven to 350 ° F
+EDU	( 177 ° C ) .
+EDU	Arrange rack in the middle of the oven .
+EDU	Rinse quinoa thoroughly in a fine mesh seive under cold water .
 Preparation{=6}Cook
-96	In a medium saucepan , heat up 2 tablespoons vegetable oil over medium-low heat .
-97	Add onions , peppers , mushrooms , or any other type of desired vegetable or herb into the saucepan
-98	( optional ) .
+EDU	In a medium saucepan , heat up 2 tablespoons vegetable oil over medium-low heat .
+EDU	Add onions , peppers , mushrooms , or any other type of desired vegetable or herb into the saucepan
+EDU	( optional ) .
 IngredientsToAdd{=8}Cook
-99	Cook onions
-100	until they are translucent ,
-101	but not burned .
-102	Sweat the peppers or vegetables along with the onions .
+EDU	Cook onions
+EDU	until they are translucent ,
+EDU	but not burned .
+EDU	Sweat the peppers or vegetables along with the onions .
 CookVegetablesFirst{=9}AddQuinoa
-103	Add the quinoa and salt to the saucepan ,
-104	stirring
-105	until completely incorporated .
-106	This should take no longer than 30 seconds .
+EDU	Add the quinoa and salt to the saucepan ,
+EDU	stirring
+EDU	until completely incorporated .
+EDU	This should take no longer than 30 seconds .
 AddQuinoaAndStir{=10}AddLiquidAndBoil
-107	Add one cup of broth and one cup of water to the saucepan
-108	and bring to a boil over medium high heat .
+EDU	Add one cup of broth and one cup of water to the saucepan
+EDU	and bring to a boil over medium high heat .
 CookingInSaucepan{=7}SwitchToOven
-109	Once a boil is reached ,
-110	transfer quinoa to a 8-by-8-inch baking dish .
-111	[ 2 ]
+EDU	Once a boil is reached ,
+EDU	transfer quinoa to a 8-by-8-inch baking dish .
+EDU	[ 2 ]
 WhenTransferToOven{=9}Bake
-112	Spread out quinoa evenly
-113	and cover baking dish completely with aluminum foil .
-114	Cook the quinoa in the oven for roughly 20 minutes ,
-115	or until most of the liquid is gone .
+EDU	Spread out quinoa evenly
+EDU	and cover baking dish completely with aluminum foil .
+EDU	Cook the quinoa in the oven for roughly 20 minutes ,
+EDU	or until most of the liquid is gone .
 Bake20Minutes{=10}AddToppings
-116	Remove the aluminum foil from the baking dish ,
-117	add cheese or other seasonings ,
-118	and bake for an additional 5 minutes .
+EDU	Remove the aluminum foil from the baking dish ,
+EDU	add cheese or other seasonings ,
+EDU	and bake for an additional 5 minutes .
 Bake{>8}Serve
-119	After 5 minutes ,
-120	the quinoa should be fully cooked .
-121	Serve
-122	and enjoy !
+EDU	After 5 minutes ,
+EDU	the quinoa should be fully cooked .
+EDU	Serve
+EDU	and enjoy !

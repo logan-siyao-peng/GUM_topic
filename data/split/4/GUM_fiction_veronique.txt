@@ -1,0 +1,134 @@
+1	The Cost
+2	to Be Wise
+3	Veronique stayed with me that night ,
+4	lying next to me in my blankets and furs .
+5	She did n't sleep ,
+6	I do n't think .
+7	I was listening to her breath .
+NarratorSleepNextToVeronique{<4}UnsureComfortHer
+8	I felt
+9	as if I should help her sleep .
+10	I lay there
+11	and tried to think
+12	if I should put my arm around her ,
+13	but I did n't know .
+14	Maybe she did n't want to be touched .
+15	And she had been a stupid girl , anyway .
+16	She lay tense in the dark .
+PhysicalPositioningDescription{<3}BeingATeacher
+17	" Are you going to be a teacher ? "
+18	I asked .
+19	She laughed .
+20	" If I get out of here . "
+21	I waited for her to say more ,
+22	but she did n't .
+23	" Get out of here " meant to make someone leave .
+24	Maybe she meant
+25	if she made herself .
+VeroniqueMaybeWantsToLeave{=4}VeroniqueFromEarth
+26	" You come here from Earth ? "
+27	I asked .
+28	To get her to talk ,
+29	although I was tired of lingua
+30	and I did n't really want to think about anything .
+IntroSettingAndCharactersPositions{<2}WhyVeroniqueCame
+31	" My family came here from Earth , "
+32	she said .
+33	" Why ? "
+34	" My father , he 's an anthropologist , "
+35	she said .
+36	" Do you know anthropologist ? "
+37	" No , "
+38	I said .
+39	" He is a person
+40	who studies the way
+41	people live .
+42	And he is a teacher . "
+ExplainVeronique'sFatherAsAnthropologist{>4}WhatHeStudies
+43	All the offworlders
+44	I had ever met
+45	were teachers .
+46	I wondered
+47	who did all the work on Earth .
+48	" Because Earth had lost touch with your world ,
+49	the people here are very interesting to my father , "
+50	she said .
+51	Her voice was listless in the dark
+52	and she was even harder to understand
+53	when I could n't see her properly .
+54	I did n't understand
+55	so I did n't say anything .
+56	I was sorry I 'd started her talking .
+Veronique'sFatherAndAnthropology{=3}HistoryAndColonies
+57	" History , do you know the word ' history ' ? "
+58	she asked .
+59	Of course I knew the word " history . "
+60	" I study history in school , "
+61	I said .
+62	Anneal and Kumar taught it .
+63	" Do you know the history of this world ? "
+64	It took my tired head a long time
+65	to sort that out .
+66	" Yes , "
+67	I said .
+68	" We are a colony .
+69	People from Earth come here
+70	to live .
+71	Then there is a big problem on Earth ,
+72	and the people of Earth forget
+73	we are here .
+74	We forget
+75	we are from Earth .
+76	Then Earth finds us again . "
+77	" Some people have stories
+78	about coming from the Earth , "
+79	Veronique said .
+80	" My father is collecting those stories from different peoples .
+81	I 'm a graduate student . "
+82	The clans did n't have any stories
+83	about coming from Earth .
+84	We said the first people came out of the sun .
+85	This somehow seemed embarrassing .
+86	I did n't understand
+87	what kind of student she was .
+WhyFatherIsThere{=4}WhyVeroniqueIsThere
+88	" Are you here for stories ? "
+89	I asked .
+90	" No , "
+91	she said .
+92	" Ian is old friends with your teacher ,
+93	from back when they were both with the survey .
+94	We just came to visit . "
+95	I did n't understand
+96	what she 'd said
+97	except that they were visiting .
+Conversation{=1}ThoughtsDreamsAndWishes
+98	We were quiet after that .
+99	I pretended to sleep .
+100	Sometimes there was gunfire outside
+101	and we jumped ,
+102	even Mam on the bed .
+WentToSleepGunfireOutside{>3}BetSleeps
+103	Everyone but Bet .
+104	Once Bet was asleep
+105	it was impossible to wake her up .
+GoToSleep{<2}Thoughts
+106	I fell asleep
+107	thinking
+108	about how I wished that the Scathalos outrunners were gone .
+WishScatholosOutrunnersGone{<4}DreamOfBetterPlace
+109	I dreamed
+110	that I was at the offworlder 's home ,
+111	where it was summer
+112	but no one was taking care of the stabros ,
+113	and they were all glad ,
+114	and so I was a hero -
+ThoughtsAndDreams{=3}WokenByGunfireAndWish
+115	and I was startled awake by gunfire .
+116	Just more drinking
+117	and shooting .
+WokenByGunfire{<4}WishFatherWouldComeHome
+118	I wished my da would come home .
+119	It did n't seem fair that we should lie here and be afraid
+120	while the men were getting drunk
+121	and singing .

@@ -47,28 +47,27 @@ EarlyLifeAndEducationHeader{<2}Content
 44	L'Enfant was promoted by brevet to Major in the Corps of Engineers on May 2 , 1783 , in recognition of his service to the cause of American liberty .
 45	He was discharged
 46	when the Continental Army was disbanded in December 1783 .
-47	After the war ,
-48	L'Enfant designed the badge of the Society of the Cincinnati , an organization of former officers of the Continental Army ,
-49	shaped as an eagle ,
-50	at the request of Washington .
-51	He was sent to France
-52	to have insignias made for members of the Society , a group of veterans of the war .
-53	Career
-54	Post–Revolutionary War
-55	Following the American Revolutionary War ,
-56	L'Enfant established a successful and highly profitable civil engineering firm in New York City .
-57	He achieved some fame as an architect
-58	by redesigning the City Hall in New York for the First Congress of the United States
-59	( See :
-60	Federal Hall ) .
-61	He also designed furniture and houses for the wealthy as well as coins and medals ,
-62	including the insignia of the Society of the Cincinnati .
-63	He was also a friend of Alexander Hamilton ,
-64	and some of their correspondances from 1790 to 1801 now reside in the National Archives .
-65	While L'Enfant was in New York City ,
-66	he was initiated into Freemasonry .
-67	His initiation took place on April 17 , 1789 , at Holland Lodge No. 8 , F&AM ,
-68	which the Grand Lodge of New York F&AM had chartered in 1787 .
-69	L'Enfant took only the first of three degrees
-70	offered by the Lodge
-71	and did not progress further in Freemasonry .
+47	After the war , L'Enfant designed the badge of the Society of the Cincinnati , an organization of former officers of the Continental Army ,
+48	shaped as an eagle ,
+49	at the request of Washington .
+50	He was sent to France
+51	to have insignias made for members of the Society , a group of veterans of the war .
+52	Career
+53	Post–Revolutionary War
+54	Following the American Revolutionary War ,
+55	L'Enfant established a successful and highly profitable civil engineering firm in New York City .
+56	He achieved some fame as an architect
+57	by redesigning the City Hall in New York for the First Congress of the United States
+58	( See :
+59	Federal Hall ) .
+60	He also designed furniture and houses for the wealthy as well as coins and medals ,
+61	including the insignia of the Society of the Cincinnati .
+62	He was also a friend of Alexander Hamilton ,
+63	and some of their correspondances from 1790 to 1801 now reside in the National Archives .
+64	While L'Enfant was in New York City ,
+65	he was initiated into Freemasonry .
+66	His initiation took place on April 17 , 1789 , at Holland Lodge No. 8 , F&AM ,
+67	which the Grand Lodge of New York F&AM had chartered in 1787 .
+68	L'Enfant took only the first of three degrees
+69	offered by the Lodge
+70	and did not progress further in Freemasonry .

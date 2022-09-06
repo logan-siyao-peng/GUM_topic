@@ -1,0 +1,87 @@
+1	Wikinews interviews academic Simon Ličen about attitudes towards US Paralympics
+2	Saturday , November 16 , 2013
+3	A Russian stamp for Paralympic Games in Sochi in 2014
+4	On Thursday , with 110 days until the start of the 2014 Winter Paralympics in Sochi , Russia , Wikinews interviewed Assistant Professor in Educational Leadership , Sport Studies and Educational / Counseling Psychology at Washington State University Simon Ličen about attitudes in United States towards the Paralympics .
+IntroInterview{<2}LicenBackground
+5	Ličen has recently joined the Sport Management Program at Washington State University
+6	to develop its sport media and communication research and teaching contents .
+7	Originally from Slovenia , he served as the Director of Media and Communications of a WTA Tour event
+8	and was a member of the UNESCO Slovenian National Commission .
+9	He was also the Team Manager of the Slovenian wheelchair basketball national team .
+Intro{<1}Interview
+10	Why do you think
+11	the Paralympic movement has so little visibility in the US
+12	compared to other countries like Australia , the United Kingdom and even Canada ?
+Question{<3}Response
+13	Sports in the United States largely reaffirm existing relations of power in society .
+14	It emphasizes consumerism , the belief
+15	that success always goes to people
+16	who merit it due to their abilities , dedication and qualifications ,
+SportsReaffirmExistingPowerRelations{=5}SameForGenderEthnicityNationality
+17	and reinforces ,
+18	rather than changes ,
+19	existing ideas
+20	related to gender , ethnicity and nationality .
+ReaffirmExistingPowerRelations{<4}ParalympicsGoesAgainstThat
+21	Paralympic sport brings attention to athletes
+22	who are typically overlooked in American society
+23	because the majority of the population does not want to identify with people
+24	who are disabled .
+25	Although disability is not contagious ,
+26	interest in disabled sports might put into question the masculinity of the males
+27	following it .
+AvoidIdentifyWithDisabled{=5}ChallengeExistingPowerRelations
+28	Disabled athletes also challenge existing relations of power
+29	by displaying dedication , hard work and perseverance in different contexts
+30	than those most sports fans are accustomed to .
+ParalympicLittleVisibilityUS{=2}FirstTimeTelevisedUS
+31	Other countries ,
+32	including the ones
+33	you mention ,
+34	have stronger social orientations in all aspects of society .
+OtherCountries{=5}US
+35	Even though legislative support may be less strong
+36	than the one
+37	provided by the Americans with Disabilities Act ,
+38	many social institutions
+39	including the media
+40	are more receptive to this form of diversity .
+QuestionBackground{<4}Question
+41	What do you think
+42	the impact will be for the Paralympic movement will be
+43	with the Games being televised live in the United States for first time ?
+Question{<3}Response
+44	The impact depends on a number of aspects .
+MultipleAspects{<4}Factors
+45	One of them is the channels
+46	that NBC as the broadcasting rights owner for the United States will use
+47	to air the Paralympic Games on .
+48	Will they be shown nationally or regionally , on NBC or on any of the company ’s multiple cable networks ?
+49	A second aspect is the parts or hours of the day
+50	the Paralympics will be shown .
+51	Remember
+52	that there is a nine - hour difference between Sochi and New York , and a 12 - hour difference between Sochi and the US West Coast .
+53	So daytime events will be shown live in the United States in the middle of the night ,
+54	and evening prime - time events will be shown
+55	— indeed live —
+56	in the morning U.S. time .
+57	So showing the Paralympics live on United States television might turn out to be less glamorous
+58	than it appears .
+ChannelAndTimeBroadcast{=5}EventMediation
+59	A third important factor is the way
+60	the event will be mediated :
+61	will NBC have its best sports broadcasters
+62	following the event
+63	after having worked the Winter Olympics ?
+64	Will they treat and announce the competitions
+65	as they do all others
+66	— for better and worse ?
+67	Will they take it as an opportunity
+68	to educate viewers about disability and diversity
+69	while showing superb athletic performances
+70	without engaging in a discourse of pity ?
+71	All in all , I think
+72	this is a terrific opportunity
+73	to improve sports coverage in a multitude of aspects ;
+74	but we will have to wait until after the event
+75	to assess to what extent the broadcasters will meet these expectations .

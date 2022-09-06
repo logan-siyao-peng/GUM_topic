@@ -139,15 +139,17 @@ WhatTheHouseDid{>2}TrialAndTruth
 136	because that was their understanding
 137	of what a trial is ,
 138	not just argument at the beginning and argument at the end ,
-139	but evidence for jurors
-140	who have pledged to be impartial to consider .
-141	Any judge in this country would agree
-142	that opening and closing statements alone are not a trial .
-143	Nevertheless , the House managers proved their case .
-144	The truth is clear .
-145	The American people know
-146	what that truth is
-147	and know
-148	what this President has done .
-149	And they will remember
-150	who on this day abided by the truth , the whole truth , and nothing but the truth .
+139	but evidence
+140	for jurors
+141	who have pledged to be impartial
+142	to consider .
+143	Any judge in this country would agree
+144	that opening and closing statements alone are not a trial .
+145	Nevertheless , the House managers proved their case .
+146	The truth is clear .
+147	The American people know
+148	what that truth is
+149	and know
+150	what this President has done .
+151	And they will remember
+152	who on this day abided by the truth , the whole truth , and nothing but the truth .

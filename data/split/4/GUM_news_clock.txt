@@ -1,0 +1,90 @@
+1	Texas student Ahmed Mohamed inspires social movement
+2	Tuesday , September 22 , 2015
+3	News of police response to a boy 's digital clock in Texas last week has inspired a global social movement in support of the youth .
+4	Ahmed Mohamed , a 14 - year - old boy from Irving , Texas , was arrested at his school by police
+5	after he brought a digital clock
+6	he had made
+7	to school .
+BriefSummaryOfNews{>2}BriefDescriptionSupportAndStory
+8	After news of the police response was reported ,
+9	Mohamed received support online
+10	ranging from US President Barack Obama to Facebook creator Mark Zuckerberg .
+11	Yesterday Mohamed received VIP attention at Google headquarters in California at the Google Science Fair —
+12	and tomorrow he plans to meet international dignitaries at the United Nations headquarters in New York .
+ReceiveOnlineSupportAndAttention{>4}TweetCaption
+13	US President Barack Obama tweet to student Ahmed Mohamed
+14	Image :
+15	Twitter / Barack Obama .
+OnlineSupport{=3}DetailsOfStory
+16	Mohamed brought the digital clock
+17	he made
+18	to school on September 14 ,
+19	and a teacher mistakenly thought
+20	it resembled a bomb .
+21	Police arrested and questioned the student .
+MohamedBroughtClockAndArrested{>4}ImagesWentViral
+22	Images of the boy
+23	wearing a NASA T - shirt
+24	and handcuffed by the police
+25	were quickly posted
+26	and reposted online .
+IntroStory{=1}Aftermath
+27	The Deseret News observed
+28	that the hashtag on Twitter , #IStandWithAhmed , had become an international phenomenon .
+29	The Straits Times noted
+30	what began as individual messages to Mohamed had grown into a " support movement " .
+HashtagSpreadGainAttention{=4}DevelopIntoSocialMovement
+31	American academic and professor Marc Lamont Hill commented ,
+32	" Hoping that the #istandwithahmed movement translates into a substantive national conversation on race , punishment , and incarceration . "
+DevelopmentOfInternationalMovement{=3}Invitations
+33	The Twitter attention led to outreach from Google
+34	and Mohamed was invited to their Google Science Fair .
+35	Mohamed was a VIP guest at the Google Science Fair this weekend ,
+36	and was able to meet finalists at the event
+37	held at Google 's headquarters
+38	located in Mountain View , California .
+39	Co-founder of Google , Sergey Brin , personally met with Mohamed during his visit to Google .
+InvitationsFromGoogle{=4}InvitationsFromUN
+40	On Wednesday , Mohamed and his father are to travel to the United Nations .
+41	His father Mohamed El - Hassan Mohamed said
+42	he was taking his entire family to the U.N. headquarters in New York ,
+43	because international dignitaries wanted to meet with his son and express their support .
+PrestigiousInvitations{=2}IslamophobiaAndResponses
+44	Psychology major at University of Texas Arlington Amneh Jafari heard of the incident
+45	and wanted to issue her support to Mohamed .
+46	She chose the hastag #IStandWithAhmed
+47	and posted to Twitter .
+JafariCreatedHashtag{<4}BelievesExampleOfIslamophobia
+48	Jafari said
+49	she felt Mohamed had been subject to Islamophobia
+50	and her hashtag created greater awareness about this issue .
+51	The hashtag took on a life of its own ,
+52	and was used in messages on Twitter over one million times by Thursday night .
+HashtagAndIslamophobia{=3}Responses
+53	NASA tweeted support of Ahmed Mohamed via its account International Space Station
+54	Image :
+55	Twitter / NASA .
+56	US President Barack Obama tweeted
+57	using his @POTUS account :
+58	" Cool clock , Ahmed .
+59	Want to bring it to the White House ?
+60	We should inspire more kids like you to like science .
+61	It 's what makes America great . "
+62	Twitter gave Mohamed the option
+63	to come to their company for an internship .
+64	Facebook co-founder Mark Zuckerberg tweeted to Mohamed
+65	and said
+66	the boy was welcome to come and tour the company .
+67	Executive director of the Dallas chapter of the Council on American - Islamic Relations Alia Salem said
+68	Mohamed wishes to use his newfound fame and attention
+69	to spotlight social causes
+70	including the treatment of Muslims in the United States .
+71	University of Texas Arlington Muslim Student Association president Sehar Memon said
+72	the large amount of positive feedback for Mohamed had helped make his situation much better .
+73	Memon also said
+74	she believed
+75	the social movement in reaction to Mohamed helped improve Muslim / non-Muslim .
+PositiveResponsesSocialMovement{=4}SchoolAndPoliceDenyIslamophobia
+76	Both the Irving Independent School District and the Irving Police Department have asserted
+77	that the boy 's religion and name were not a factor in the manner
+78	in which they approached the situation .

@@ -495,14 +495,15 @@
         "90\tWinter is definitely low season , with the occasional rainy or snowy day ,",
         "91\tbut also an ideal time",
         "92\tto save money",
-        "93\twhile enjoying the city without countless other travelers and tourists .",
-        "94\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
-        "95\ton most sunny days the skies are azure blue .",
-        "96\tThe main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin",
-        "97\twhich does not let the smog leave .",
-        "98\tThe government 's ban on diesel vehicles within Athens and the early 1990s initiatives",
-        "99\tto improve car emissions",
-        "100\thave greatly contributed to better atmospheric conditions in the basin ."
+        "93\twhile enjoying the city",
+        "94\twithout countless other travelers and tourists .",
+        "95\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
+        "96\ton most sunny days the skies are azure blue .",
+        "97\tThe main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin",
+        "98\twhich does not let the smog leave .",
+        "99\tThe government 's ban on diesel vehicles within Athens and the early 1990s initiatives",
+        "100\tto improve car emissions",
+        "101\thave greatly contributed to better atmospheric conditions in the basin ."
     ],
     "RightTopic": "AthensArchitectureModernizationClimate",
     "RightTree": {
@@ -862,14 +863,15 @@
             "90\tWinter is definitely low season , with the occasional rainy or snowy day ,",
             "91\tbut also an ideal time",
             "92\tto save money",
-            "93\twhile enjoying the city without countless other travelers and tourists .",
-            "94\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
-            "95\ton most sunny days the skies are azure blue .",
-            "96\tThe main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin",
-            "97\twhich does not let the smog leave .",
-            "98\tThe government 's ban on diesel vehicles within Athens and the early 1990s initiatives",
-            "99\tto improve car emissions",
-            "100\thave greatly contributed to better atmospheric conditions in the basin ."
+            "93\twhile enjoying the city",
+            "94\twithout countless other travelers and tourists .",
+            "95\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
+            "96\ton most sunny days the skies are azure blue .",
+            "97\tThe main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin",
+            "98\twhich does not let the smog leave .",
+            "99\tThe government 's ban on diesel vehicles within Athens and the early 1990s initiatives",
+            "100\tto improve car emissions",
+            "101\thave greatly contributed to better atmospheric conditions in the basin ."
         ],
         "RightTopic": "Climate",
         "RightTree": {
@@ -888,14 +890,15 @@
                 "90\tWinter is definitely low season , with the occasional rainy or snowy day ,",
                 "91\tbut also an ideal time",
                 "92\tto save money",
-                "93\twhile enjoying the city without countless other travelers and tourists .",
-                "94\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
-                "95\ton most sunny days the skies are azure blue .",
-                "96\tThe main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin",
-                "97\twhich does not let the smog leave .",
-                "98\tThe government 's ban on diesel vehicles within Athens and the early 1990s initiatives",
-                "99\tto improve car emissions",
-                "100\thave greatly contributed to better atmospheric conditions in the basin ."
+                "93\twhile enjoying the city",
+                "94\twithout countless other travelers and tourists .",
+                "95\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
+                "96\ton most sunny days the skies are azure blue .",
+                "97\tThe main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin",
+                "98\twhich does not let the smog leave .",
+                "99\tThe government 's ban on diesel vehicles within Athens and the early 1990s initiatives",
+                "100\tto improve car emissions",
+                "101\thave greatly contributed to better atmospheric conditions in the basin ."
             ],
             "RightTopic": "Content",
             "RightTree": {
@@ -909,9 +912,10 @@
                     "90\tWinter is definitely low season , with the occasional rainy or snowy day ,",
                     "91\tbut also an ideal time",
                     "92\tto save money",
-                    "93\twhile enjoying the city without countless other travelers and tourists .",
-                    "94\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
-                    "95\ton most sunny days the skies are azure blue ."
+                    "93\twhile enjoying the city",
+                    "94\twithout countless other travelers and tourists .",
+                    "95\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
+                    "96\ton most sunny days the skies are azure blue ."
                 ],
                 "LeftTopic": "TimesToVisit",
                 "LeftTree": {
@@ -925,7 +929,8 @@
                         "90\tWinter is definitely low season , with the occasional rainy or snowy day ,",
                         "91\tbut also an ideal time",
                         "92\tto save money",
-                        "93\twhile enjoying the city without countless other travelers and tourists ."
+                        "93\twhile enjoying the city",
+                        "94\twithout countless other travelers and tourists ."
                     ],
                     "LeftTopic": "SeasonalWeather",
                     "LeftTree": {
@@ -943,7 +948,8 @@
                             "90\tWinter is definitely low season , with the occasional rainy or snowy day ,",
                             "91\tbut also an ideal time",
                             "92\tto save money",
-                            "93\twhile enjoying the city without countless other travelers and tourists ."
+                            "93\twhile enjoying the city",
+                            "94\twithout countless other travelers and tourists ."
                         ],
                         "RightTopic": "Winter",
                         "RightTree": null,
@@ -951,8 +957,8 @@
                         "RightNuclearity": "M"
                     },
                     "RightText": [
-                        "94\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
-                        "95\ton most sunny days the skies are azure blue ."
+                        "95\tWhilst peak traffic hour can be a bit smoggy on the main roads ,",
+                        "96\ton most sunny days the skies are azure blue ."
                     ],
                     "RightTopic": "AirConditions",
                     "RightTree": null,
@@ -960,11 +966,11 @@
                     "RightNuclearity": "S"
                 },
                 "RightText": [
-                    "96\tThe main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin",
-                    "97\twhich does not let the smog leave .",
-                    "98\tThe government 's ban on diesel vehicles within Athens and the early 1990s initiatives",
-                    "99\tto improve car emissions",
-                    "100\thave greatly contributed to better atmospheric conditions in the basin ."
+                    "97\tThe main reason attributed for the pollution of Athens is because the city is enclosed by mountains in a basin",
+                    "98\twhich does not let the smog leave .",
+                    "99\tThe government 's ban on diesel vehicles within Athens and the early 1990s initiatives",
+                    "100\tto improve car emissions",
+                    "101\thave greatly contributed to better atmospheric conditions in the basin ."
                 ],
                 "RightTopic": "AthensPollution",
                 "RightTree": null,

@@ -1,90 +1,90 @@
-1	Vava’u is a group of more than 50 islands in Tonga , about 150 miles north of Tongatapu .
-2	They are either raised coral limestone or coral atolls .
+EDU	Vava’u is a group of more than 50 islands in Tonga , about 150 miles north of Tongatapu .
+EDU	They are either raised coral limestone or coral atolls .
 Intro{>3}HarborAndWater
-3	The beautiful harbour opposite the main town of Neiafu
-4	( known as the Port of Refuge Harbour )
-5	is a common destination for yachties
-6	sailing the South Pacific .
+EDU	The beautiful harbour opposite the main town of Neiafu
+EDU	( known as the Port of Refuge Harbour )
+EDU	is a common destination for yachties
+EDU	sailing the South Pacific .
 MainDestination{>4}ClearWater
-7	The waters of the islands are known for their clarity ,
-8	it being said that you can see the bottom at 40 metres .
+EDU	The waters of the islands are known for their clarity ,
+EDU	it being said that you can see the bottom at 40 metres .
 IslandsAndHarbor{=2}HumpbackWhalesTourism
-9	The area attracts many humpback whales between June and November
-10	and there are lots of companies
-11	organising tours
-12	to see them .
+EDU	The area attracts many humpback whales between June and November
+EDU	and there are lots of companies
+EDU	organising tours
+EDU	to see them .
 WhaleTourism{>3}ManyAccommodations
-13	There are numerous places
-14	to stay
-15	to suit most budgets .
+EDU	There are numerous places
+EDU	to stay
+EDU	to suit most budgets .
 Vava'uIntro{=1}HistoryTourismAndClimate
-16	Understand
+EDU	Understand
 UnderstandHeader{<3}Content
-17	Findings of Lapita pottery suggest
-18	that early-Polynesians were on these islands close to 3000 years ago .
-19	These days there are around 20000 people
-20	living in the Group .
+EDU	Findings of Lapita pottery suggest
+EDU	that early-Polynesians were on these islands close to 3000 years ago .
+EDU	These days there are around 20000 people
+EDU	living in the Group .
 History{=4}NeiafuTourism
-21	Neiafu and surrounding villages are home to about a third of the Group ’s overall population of around 20000 ,
-22	with the majority of the population living in small villages on the other islands .
-23	Neiafu is the official port of entry for yachts
-24	coming to Vava'u ,
-25	which attracts over 500 yachts every winter sailing season between June and October .
+EDU	Neiafu and surrounding villages are home to about a third of the Group ’s overall population of around 20000 ,
+EDU	with the majority of the population living in small villages on the other islands .
+EDU	Neiafu is the official port of entry for yachts
+EDU	coming to Vava'u ,
+EDU	which attracts over 500 yachts every winter sailing season between June and October .
 NeiafuIntro{>5}Tourism
-26	A string of islands and reefs along the eastern edge of the Group shelters the area from strong winds and ocean swellS
-27	and humpback whales come to these protected waters
-28	to give birth .
-29	This is the high season for tourism ;
+EDU	A string of islands and reefs along the eastern edge of the Group shelters the area from strong winds and ocean swellS
+EDU	and humpback whales come to these protected waters
+EDU	to give birth .
+EDU	This is the high season for tourism ;
 HighSeason{=7}LowSeason
-30	between December and April few people visit
-31	and many tour companies and restaurants close down .
+EDU	between December and April few people visit
+EDU	and many tour companies and restaurants close down .
 HighAndLowSeasons{=6}NeiafuTownActivities
-32	Neiafu town is the centre of activity .
-33	It is on the southern point of the main island of Utu Vava'u
-34	and has an attractive setting on one of the world 's most beautiful harbours .
+EDU	Neiafu town is the centre of activity .
+EDU	It is on the southern point of the main island of Utu Vava'u
+EDU	and has an attractive setting on one of the world 's most beautiful harbours .
 BeautifulHarbor{>7}NeiafuAmenities
-35	Neiafu offers all the usual amenities including banks , schools , tour companies , restaurants , cafes and bars , supermarkets , a market and a hospital .
-36	It does n't have a beach
-37	but boats to one of the nearby coral atolls with superb sandy beaches are easily available .
+EDU	Neiafu offers all the usual amenities including banks , schools , tour companies , restaurants , cafes and bars , supermarkets , a market and a hospital .
+EDU	It does n't have a beach
+EDU	but boats to one of the nearby coral atolls with superb sandy beaches are easily available .
 HistoryAndTourism{=2}ClimateAndIslands
-38	Climate
+EDU	Climate
 ClimateHeader{<4}Details
-39	Vava'u has a tropical climate with average temperatures up to 29 º C in January and down to 24 º C in June .
-40	It is sunny throughout the year .
-41	Between November and April , it is more humid
-42	and thunderstorms and cyclones do occur .
+EDU	Vava'u has a tropical climate with average temperatures up to 29 º C in January and down to 24 º C in June .
+EDU	It is sunny throughout the year .
+EDU	Between November and April , it is more humid
+EDU	and thunderstorms and cyclones do occur .
 WinterSpring{=5}SummerFall
-43	From May to September there are southeast trade winds
-44	but during the summer months the winds are from the northeast .
-45	Port of Refuge Harbor at Neiafu
+EDU	From May to September there are southeast trade winds
+EDU	but during the summer months the winds are from the northeast .
+EDU	Port of Refuge Harbor at Neiafu
 Climate{=3}MainIslands
-46	Orientation
+EDU	Orientation
 OrientationHeader{<4}Details
-47	The main islands are :
-48	Utu Vava'u .
-49	This is the largest island ,
-50	where Neiafu is found .
+EDU	The main islands are :
+EDU	Utu Vava'u .
+EDU	This is the largest island ,
+EDU	where Neiafu is found .
 UtuVava'uIntro{>6}IslandDetails
-51	It is a limestone island with heights up to 213 m in the west .
+EDU	It is a limestone island with heights up to 213 m in the west .
 IslandDescription{<7}IslandWildlifeAndVegetation
-52	The island provides a home to eleven indigenous bird species
-53	and contains Mt. Talau national park , with some of the limited remaining native vegetation .
-54	Tropical vegetation includes the pandanus or screw pine , the casuarina , and the mulberry tree ,
-55	the bark of which is used
-56	to make tapa cloth .
+EDU	The island provides a home to eleven indigenous bird species
+EDU	and contains Mt. Talau national park , with some of the limited remaining native vegetation .
+EDU	Tropical vegetation includes the pandanus or screw pine , the casuarina , and the mulberry tree ,
+EDU	the bark of which is used
+EDU	to make tapa cloth .
 UtuVava'u{=5}OtherIslands
-57	Pangaimotu .
-58	This is the second largest island in the Group .
-59	It can be seen across the water from Neiafu
-60	and is connected by land bridge at the most southern point of ‘Utu Vava’u .
+EDU	Pangaimotu .
+EDU	This is the second largest island in the Group .
+EDU	It can be seen across the water from Neiafu
+EDU	and is connected by land bridge at the most southern point of ‘Utu Vava’u .
 Location{>7}Attractions
-61	There are some good beaches and plenty of secluded cove beaches and protected bays with good snorkelling .
-62	Avai'o'vuna Swamp is a small coastal wetland on the island .
+EDU	There are some good beaches and plenty of secluded cove beaches and protected bays with good snorkelling .
+EDU	Avai'o'vuna Swamp is a small coastal wetland on the island .
 Pangaimotu{=6}HungaIsland
-63	Hunga Island .
-64	This is some 35 minutes from Neiafu Harbour
+EDU	Hunga Island .
+EDU	This is some 35 minutes from Neiafu Harbour
 HungaIslandLocationFromNeiafu{<7}HumpbackWhaleAttraction
-65	and provides the main concentration of humpback whales .
-66	The island lies in deep water
-67	and has sheltered waters and bays
-68	which provide a resting place for humpbacks with calves .
+EDU	and provides the main concentration of humpback whales .
+EDU	The island lies in deep water
+EDU	and has sheltered waters and bays
+EDU	which provide a resting place for humpbacks with calves .

@@ -1,127 +1,127 @@
-1	I wish to make a ministerial statement about the first confirmed case of COVID-19 in New Zealand .
-2	On Friday , 28 February , New Zealand recorded its first case of the COVID-19 coronavirus ,
-3	becoming the 48th country
-4	to have a confirmed case .
+EDU	I wish to make a ministerial statement about the first confirmed case of COVID-19 in New Zealand .
+EDU	On Friday , 28 February , New Zealand recorded its first case of the COVID-19 coronavirus ,
+EDU	becoming the 48th country
+EDU	to have a confirmed case .
 IntroFirstConfimedCase{>2}DetailsOfCase
-5	The individual had entered the country two days earlier
-6	after spending some weeks in Iran ,
-7	which is currently experiencing a sizable outbreak of the disease .
+EDU	The individual had entered the country two days earlier
+EDU	after spending some weeks in Iran ,
+EDU	which is currently experiencing a sizable outbreak of the disease .
 PersonTraveledFromIran{=4}CurrentlyInHospital
-8	I can report to the House
-9	that they are currently in a stable and improving condition at Auckland Hospital .
+EDU	I can report to the House
+EDU	that they are currently in a stable and improving condition at Auckland Hospital .
 DetailsOfIndividual{=3}LimitSpread
-10	The good news in this instance is that the individual had limited contact with people upon their return to the country ,
-11	and their family took all the appropriate measures
-12	when presenting at the emergency department .
+EDU	The good news in this instance is that the individual had limited contact with people upon their return to the country ,
+EDU	and their family took all the appropriate measures
+EDU	when presenting at the emergency department .
 PersonHadLimitedContact{>6}TracePeopleInContact
-13	As you would expect ,
-14	our public health service is working hard
-15	to contain this first case
-16	and limit the risk of any spread of the disease .
+EDU	As you would expect ,
+EDU	our public health service is working hard
+EDU	to contain this first case
+EDU	and limit the risk of any spread of the disease .
 PublicHealthServiceLimitSpread{=8}ContactTracing
-17	Contact tracing began immediately
-18	and has gone to plan .
+EDU	Contact tracing began immediately
+EDU	and has gone to plan .
 ContactTracing{<7}Located15People
-19	All 15 people
-20	who were seated nearby the individual on their flight into New Zealand
-21	have been traced
-22	and are being told to self-isolate .
+EDU	All 15 people
+EDU	who were seated nearby the individual on their flight into New Zealand
+EDU	have been traced
+EDU	and are being told to self-isolate .
 15PeopleLocatedSelf-Isolate{=8}MonitorTheirSituation
-23	Public health staff will remain in touch with individuals
-24	to monitor the situation
-25	and give ongoing advice .
+EDU	Public health staff will remain in touch with individuals
+EDU	to monitor the situation
+EDU	and give ongoing advice .
 15PeopleInCloseContact{=5}RemainingPassengers
-26	All but 10 of the remaining passengers on the flight ,
-27	who are not considered to be close contacts ,
+EDU	All but 10 of the remaining passengers on the flight ,
+EDU	who are not considered to be close contacts ,
 RemainingPassengersNotCloseContact{<7}ContactedProvideReassurance
-28	have also been contacted
-29	to provide reassurance
-30	and answer any questions
-31	they might have ;
+EDU	have also been contacted
+EDU	to provide reassurance
+EDU	and answer any questions
+EDU	they might have ;
 RemainingPassengersContacted{=6}10PassengersNotContacted
-32	those 10
-33	that have n't been contacted
-34	did not provide accurate contact information .
+EDU	those 10
+EDU	that have n't been contacted
+EDU	did not provide accurate contact information .
 LimitSpread{<4}DecisiveResponseLowChanceOutbreak
-35	I 'm advised
-36	that
-37	as a result of our decisive response ,
-38	the chance of an outbreak from our first case is low .
+EDU	I 'm advised
+EDU	that
+EDU	as a result of our decisive response ,
+EDU	the chance of an outbreak from our first case is low .
 FirstConfirmedCaseNZ{>1}NZGeneralStepsCovid
-39	Internationally , the situation with COVID-19 continues to develop at pace .
-40	However , the Director-General of the World Health Organization said , this morning ,
-41	containment … is feasible
-42	and must remain the top priority for all countries .
+EDU	Internationally , the situation with COVID-19 continues to develop at pace .
+EDU	However , the Director-General of the World Health Organization said , this morning ,
+EDU	containment … is feasible
+EDU	and must remain the top priority for all countries .
 WHOStatement{<3}NZApproach
-43	This is exactly the approach
-44	that New Zealand is taking ,
-45	using three main tools :
-46	border controls ; self-isolation ; and good public health practices ,
-47	including highlighting the importance of basic hygiene .
+EDU	This is exactly the approach
+EDU	that New Zealand is taking ,
+EDU	using three main tools :
+EDU	border controls ; self-isolation ; and good public health practices ,
+EDU	including highlighting the importance of basic hygiene .
 ThreeMainStepsAndHygiene{>5}GovernmentEffortsControlSituation
-48	At every step , the Government has taken decisions in the interests of health and safety of the wider public ,
-49	and so far we have been among the best
-50	at keeping COVID-19 at bay .
+EDU	At every step , the Government has taken decisions in the interests of health and safety of the wider public ,
+EDU	and so far we have been among the best
+EDU	at keeping COVID-19 at bay .
 GeneralSteps{=4}TravelRestrictions
-51	Just yesterday , Cabinet decided to extend for another week the travel restrictions
-52	that have been in place for China since 3 February and for Iran since last Friday .
+EDU	Just yesterday , Cabinet decided to extend for another week the travel restrictions
+EDU	that have been in place for China since 3 February and for Iran since last Friday .
 ExtendTravelRestrictions{>5}RestrictionsSuccessfulKeepCovidOut
-53	These restrictions have played a key role
-54	in keeping COVID-19 out of New Zealand for so long
-55	and have given us time
-56	to better understand the disease
-57	and ramp up our preparations .
+EDU	These restrictions have played a key role
+EDU	in keeping COVID-19 out of New Zealand for so long
+EDU	and have given us time
+EDU	to better understand the disease
+EDU	and ramp up our preparations .
 GeneralApproachAndTravelRestriction{=2}FurtherPrecaution
-58	Of course , members will be aware
-59	that there are outbreaks in other regions as well .
+EDU	Of course , members will be aware
+EDU	that there are outbreaks in other regions as well .
 OutbreaksOtherRegions{<6}ItalyAndSouthKoreaQuarantine
-60	So , as a further precaution , we have decided
-61	that anyone arriving in New Zealand
-62	who has been in northern Italy or South Korea
-63	who has been there in the last 14 days
-64	will be registered for self-isolation .
+EDU	So , as a further precaution , we have decided
+EDU	that anyone arriving in New Zealand
+EDU	who has been in northern Italy or South Korea
+EDU	who has been there in the last 14 days
+EDU	will be registered for self-isolation .
 Self-IsolationFromItalyKorea{>5}Reasoning
-65	This is based on an expert assessment of risk .
+EDU	This is based on an expert assessment of risk .
 ExpertAssessmentOfRisk{<7}OutbreaksPossibleInDevelopedCountries
-66	It recognises
-67	that
-68	while there are outbreaks in both countries ,
-69	they also have well-developed health systems
-70	and the outbreaks are largely located in specific regions .
+EDU	It recognises
+EDU	that
+EDU	while there are outbreaks in both countries ,
+EDU	they also have well-developed health systems
+EDU	and the outbreaks are largely located in specific regions .
 ExpertAssessmentOfRisk{=6}Self-IsolationWorks
-71	We know
-72	self-isolation works .
-73	It is a longstanding and successful approach
-74	to managing infectious diseases
-75	and has proven its worth again in recent weeks .
+EDU	We know
+EDU	self-isolation works .
+EDU	It is a longstanding and successful approach
+EDU	to managing infectious diseases
+EDU	and has proven its worth again in recent weeks .
 Self-Isolation{=4}HealthPresenceAtAirports
-76	We have also stepped up the health presence at our airports .
+EDU	We have also stepped up the health presence at our airports .
 IncreaseHealthPresenceAirports{>5}Regulations
-77	All airlines flying into New Zealand have been requested to read a health message
-78	upon landing ,
-79	and all arrivals into New Zealand will receive health information cards alongside the standard customs declaration form .
+EDU	All airlines flying into New Zealand have been requested to read a health message
+EDU	upon landing ,
+EDU	and all arrivals into New Zealand will receive health information cards alongside the standard customs declaration form .
 HealthMessagesAndCards{=6}HealthStaffInternationalFlights
-80	As a result of decisions
-81	taken on Friday ,
-82	health staff are meeting all direct international flights
-83	landing in New Zealand airports from Hong Kong , Japan , South Korea , Singapore , and Thailand .
+EDU	As a result of decisions
+EDU	taken on Friday ,
+EDU	health staff are meeting all direct international flights
+EDU	landing in New Zealand airports from Hong Kong , Japan , South Korea , Singapore , and Thailand .
 DirectInternationalFlights{=7}AllInternationalFlights
-84	Our border response is further ramping up
-85	to have health staff available for all international flights into New Zealand .
+EDU	Our border response is further ramping up
+EDU	to have health staff available for all international flights into New Zealand .
 FurtherPrecaution{>3}Acknowledgements
-86	All these decisions and actions are designed
-87	to limit the spread of any sporadic COVID-19 cases
-88	that might arrive in New Zealand .
-89	At the same time , our health system continues its preparations in line with our comprehensive pandemic plan .
+EDU	All these decisions and actions are designed
+EDU	to limit the spread of any sporadic COVID-19 cases
+EDU	that might arrive in New Zealand .
+EDU	At the same time , our health system continues its preparations in line with our comprehensive pandemic plan .
 EffortsToLimitSpread{>4}ThanksAndReassurance
-90	I want to thank our DHBs , public health staff , and primary care and health officials for the work
-91	they are doing
-92	to protect the public .
+EDU	I want to thank our DHBs , public health staff , and primary care and health officials for the work
+EDU	they are doing
+EDU	to protect the public .
 Thanks{=5}Reassurance
-93	I have high confidence in our medical professionals .
-94	We have a strong public health system .
-95	We continue to work
-96	to keep COVID-19 out ,
+EDU	I have high confidence in our medical professionals .
+EDU	We have a strong public health system .
+EDU	We continue to work
+EDU	to keep COVID-19 out ,
 CompetentSystemKeepCovidOut{=6}AlsoAbleHandleCases
-97	but we are ready
-98	if it arrives in our community .
+EDU	but we are ready
+EDU	if it arrives in our community .

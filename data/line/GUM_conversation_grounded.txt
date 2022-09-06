@@ -1,297 +1,297 @@
-1	What 'd you do Sabrina ?
-2	Nothing .
-3	I left the phone in my bedroom last night ,
-4	and so I 'm grounded from the phone .
-5	It was an accident .
+EDU	What 'd you do Sabrina ?
+EDU	Nothing .
+EDU	I left the phone in my bedroom last night ,
+EDU	and so I 'm grounded from the phone .
+EDU	It was an accident .
 Conflict{>4}AlwaysInTrouble
-6	You guys are always in trouble .
-7	What 's up with that ?
-8	Mom 's a bitch .
+EDU	You guys are always in trouble .
+EDU	What 's up with that ?
+EDU	Mom 's a bitch .
 IntroConflict{>3}Elaboration
-9	Get your feet off of there .
-10	Get your feet off of there .
+EDU	Get your feet off of there .
+EDU	Get your feet off of there .
 Scold{<5}Stupid
-11	You 're so stupid
-12	thinking
-13	I spent the night .
-14	I came home last night
-15	and told you .
+EDU	You 're so stupid
+EDU	thinking
+EDU	I spent the night .
+EDU	I came home last night
+EDU	and told you .
 Daughter{=6}Parents
-16	Kendra , just let it go .
-17	You —
-18	No ,
-19	because she does n't —
+EDU	Kendra , just let it go .
+EDU	You —
+EDU	No ,
+EDU	because she does n't —
 LetItGo{=7}AllDaughterSaidLastNight
-20	All
-21	you said last night
-22	was —
+EDU	All
+EDU	you said last night
+EDU	was —
 AnnoyedMomThinksSpentNight{=4}Elaboration
-23	She thinks
-24	I spent the night in my jeans —
-25	Kim was n't staying the night .
+EDU	She thinks
+EDU	I spent the night in my jeans —
+EDU	Kim was n't staying the night .
 SpentNight{<6}Deserve
-26	If I did spend the night ,
-27	and I was trying to lie ,
-28	I would give up ,
-29	cause then I would n't care ,
+EDU	If I did spend the night ,
+EDU	and I was trying to lie ,
+EDU	I would give up ,
+EDU	cause then I would n't care ,
 IfTryLieWouldGiveUp{=7}Don'tDeserve
-30	cause I knew
-31	I deserved it .
-32	But I did n't spend the night ,
-33	and I do n't deserve this .
+EDU	cause I knew
+EDU	I deserved it .
+EDU	But I did n't spend the night ,
+EDU	and I do n't deserve this .
 Don'tDeserveThis{=5}KimStory
-34	Kim could n't spend the night ,
-35	I told you .
-36	She could ,
-37	but then af- —
-38	I wanted to stay at the game longer .
+EDU	Kim could n't spend the night ,
+EDU	I told you .
+EDU	She could ,
+EDU	but then af- —
+EDU	I wanted to stay at the game longer .
 WantedToStayOut{=7}Kim'sMomDidn'tLetHer
-39	And her mom wanted to take her home early ,
-40	and I 'm like ,
-41	no let 's stay longer .
-42	But her mom would n't let her .
+EDU	And her mom wanted to take her home early ,
+EDU	and I 'm like ,
+EDU	no let 's stay longer .
+EDU	But her mom would n't let her .
 KimCouldn'tStayOut{>6}GoHomeAndPostpone
-43	And so she went home
-44	and , I was like ,
-45	I 'll call you
-46	when I get home ,
-47	and then you come over .
+EDU	And so she went home
+EDU	and , I was like ,
+EDU	I 'll call you
+EDU	when I get home ,
+EDU	and then you come over .
 CallAtHome{=7}Postpone
-48	And she goes ,
-49	no just spend the night .
-50	We 'll do this some other weekend .
-51	Okay cool ,
-52	cause she had to go bowling in the morning .
+EDU	And she goes ,
+EDU	no just spend the night .
+EDU	We 'll do this some other weekend .
+EDU	Okay cool ,
+EDU	cause she had to go bowling in the morning .
 IntroGroundedAndStory{>2}MoreBickering
-53	Talk to Melanie 's mom .
-54	Her mom would know .
-55	I 'll have Melanie call you .
-56	Oh .
-57	Her mom call you ,
+EDU	Talk to Melanie 's mom .
+EDU	Her mom would know .
+EDU	I 'll have Melanie call you .
+EDU	Oh .
+EDU	Her mom call you ,
 HaveMelanie'sMomCall{>4}Lies
-58	Right , right .
-59	Her mom would n't lie .
+EDU	Right , right .
+EDU	Her mom would n't lie .
 Melanie'sMomWon'tLie{<6}MomSuspicion
-60	Right , Melanie will call me
-61	to confirm your lie .
+EDU	Right , Melanie will call me
+EDU	to confirm your lie .
 ConfirmLies{<7}DaughterContactMelanieFirst
-62	Melanie lies
-63	but —
-64	You 'll get a hold of her first .
-65	I know
-66	how that works .
+EDU	Melanie lies
+EDU	but —
+EDU	You 'll get a hold of her first .
+EDU	I know
+EDU	how that works .
 MomSuspicion{=5}PastLies
-67	No , Melanie 's mom .
-68	I thought
-69	Melanie did n't have a phone .
-70	But I 'm supposed to call Melanie 's mom .
-71	I did n't want you to have her phone number .
+EDU	No , Melanie 's mom .
+EDU	I thought
+EDU	Melanie did n't have a phone .
+EDU	But I 'm supposed to call Melanie 's mom .
+EDU	I did n't want you to have her phone number .
 Melanie{=3}MoreLiesAndBickering
-72	Yeah , another lie .
-73	Remember ?
-74	That was a long time ago .
-75	Now I 'm supposed to re- —
+EDU	Yeah , another lie .
+EDU	Remember ?
+EDU	That was a long time ago .
+EDU	Now I 'm supposed to re- —
 LieFromLongTimeAgo{<5}Can'tTrustAnymore
-76	A- and I 'm supposed to trust you every time
-77	you tell the truth .
-78	But how am I supposed to know
-79	when you 're telling the truth ?
+EDU	A- and I 'm supposed to trust you every time
+EDU	you tell the truth .
+EDU	But how am I supposed to know
+EDU	when you 're telling the truth ?
 HowKnowWhenTellingTruth{=6}JustAJoke
-80	That was a joke .
-81	That was a joke .
+EDU	That was a joke .
+EDU	That was a joke .
 Joke{<8}MindRead
-82	Yeah ,
-83	and I 'm supposed to read your mind
-84	and know what you 're joking about .
-85	No
-86	but , it was a joke .
+EDU	Yeah ,
+EDU	and I 'm supposed to read your mind
+EDU	and know what you 're joking about .
+EDU	No
+EDU	but , it was a joke .
 JustAJoke{<7}LieOnceCan'tTrustAnymore
-87	You know Kendra , y-
-88	— I do n't know
-89	how many times I got ta tell you ,
-90	once you lie ,
-91	once you lie —
+EDU	You know Kendra , y-
+EDU	— I do n't know
+EDU	how many times I got ta tell you ,
+EDU	once you lie ,
+EDU	once you lie —
 LyingAndTrust{=4}CarwashAndGrounded
-92	Are they having a carwash ?
-93	You lose th- complete trust .
-94	No .
-95	Yeah they are .
-96	Yeah that 's what it is a —
+EDU	Are they having a carwash ?
+EDU	You lose th- complete trust .
+EDU	No .
+EDU	Yeah they are .
+EDU	Yeah that 's what it is a —
 YesCarwash{<6}ShouldHaveCarwashAndBakesale
-97	We should have a carwash there .
-98	Carwash and a bakesale .
+EDU	We should have a carwash there .
+EDU	Carwash and a bakesale .
 CarwashAndBakesale{=7}TooHotAndBookstore
-99	They 're not getting any people though .
-100	Mm .
-101	Hot out .
+EDU	They 're not getting any people though .
+EDU	Mm .
+EDU	Hot out .
 TooHot{=8}Bookstore
-102	What 's that supposed to be ?
-103	They 're making it into something .
-104	You 're not going anywhere for a while .
-105	It 's a bookstore .
-106	Really ?
+EDU	What 's that supposed to be ?
+EDU	They 're making it into something .
+EDU	You 're not going anywhere for a while .
+EDU	It 's a bookstore .
+EDU	Really ?
 CarwashAndBakesale{>5}GroundedForNothing
-107	God , I did n't spend the night ,
-108	that 's what makes me so mad ,
-109	I 'm grounded for nothing .
+EDU	God , I did n't spend the night ,
+EDU	that 's what makes me so mad ,
+EDU	I 'm grounded for nothing .
 GroundedForNothing{=7}HomeAllLastNight
-110	I was home all night last night ,
-111	I came home
-112	and told you .
+EDU	I was home all night last night ,
+EDU	I came home
+EDU	and told you .
 GroundedForNothing{>6}CuffsOnBed
-113	And even my cuffs and everything 's on my bed .
-114	So stupid .
+EDU	And even my cuffs and everything 's on my bed .
+EDU	So stupid .
 GroundedArgument{=1}NapVolleyballUniformHantavirus
-115	Next time
-116	if I leave in the morning ,
-117	I 'll wake you up .
-118	Mom I 'm awake now ,
-119	I 'm leaving .
+EDU	Next time
+EDU	if I leave in the morning ,
+EDU	I 'll wake you up .
+EDU	Mom I 'm awake now ,
+EDU	I 'm leaving .
 DaughterLeaving{<3}Bicker
-120	Well you woke me up last night ,
-121	to tell me
-122	Kim was n't spending the night .
+EDU	Well you woke me up last night ,
+EDU	to tell me
+EDU	Kim was n't spending the night .
 WokeLastNight{<6}Could'veWaitedUntilMorning
-123	I do n't know
-124	why you could n't wake me up in the morning ,
-125	to tell me
-126	that you were going .
+EDU	I do n't know
+EDU	why you could n't wake me up in the morning ,
+EDU	to tell me
+EDU	that you were going .
 WokeLastNightTellNews{=5}AlwaysDisturbMom
-127	You guys wake me up every time
-128	I 'm trying to take a little nap .
+EDU	You guys wake me up every time
+EDU	I 'm trying to take a little nap .
 LastNight{=4}Mess
-129	What if we are awake ?
-130	I was tired this morning .
-131	So much fun .
+EDU	What if we are awake ?
+EDU	I was tired this morning .
+EDU	So much fun .
 ThisMorning{<5}Mess
-132	My hair looks like a mess .
-133	I left it in a ponytail ,
-134	I did n't even have time
-135	to take a shower .
+EDU	My hair looks like a mess .
+EDU	I left it in a ponytail ,
+EDU	I did n't even have time
+EDU	to take a shower .
 ThisMorningMess{=6}LastNightShower
-136	I think
-137	if I spent the night
-138	I would 've took a shower .
+EDU	I think
+EDU	if I spent the night
+EDU	I would 've took a shower .
 Nap{=2}VolleyballUniformHantavirus
-139	All
-140	I need
-141	is your signature
-142	so I can play the volleyball .
-143	On the volleyball team .
+EDU	All
+EDU	I need
+EDU	is your signature
+EDU	so I can play the volleyball .
+EDU	On the volleyball team .
 RequestSignaturePlayVolleyball{=4}Debate
-144	No .
-145	No .
+EDU	No .
+EDU	No .
 AnswerNo{=5}Debate
-146	Why ?
-147	It 's just volleyball .
-148	It 's f- like on Saturdays and Wednesdays .
-149	It 's for church .
-150	It 's fun .
+EDU	Why ?
+EDU	It 's just volleyball .
+EDU	It 's f- like on Saturdays and Wednesdays .
+EDU	It 's for church .
+EDU	It 's fun .
 JustVolleyball{<6}PriorEngagements
-151	You have practice every Wednesday .
-152	Yeah
-153	but , not at uh —
-154	This is at six thirty .
+EDU	You have practice every Wednesday .
+EDU	Yeah
+EDU	but , not at uh —
+EDU	This is at six thirty .
 NotTimeConflict{=7}StillNo
-155	I do n't care .
-156	And Susan 's going to it too .
-157	Mm .
+EDU	I do n't care .
+EDU	And Susan 's going to it too .
+EDU	Mm .
 Volleyball{=3}UniformHantavirus
-158	Who cut the grass ?
+EDU	Who cut the grass ?
 AskWhoCutGrass{=6}Marlena
-159	Marlena did it .
-160	Marlena did it a long time ago ,
-161	but it has n't been watered .
-162	It 's dying .
-163	I know .
+EDU	Marlena did it .
+EDU	Marlena did it a long time ago ,
+EDU	but it has n't been watered .
+EDU	It 's dying .
+EDU	I know .
 Grass{<5}Uniform
-164	Gon na rip your purse .
-165	I know .
+EDU	Gon na rip your purse .
+EDU	I know .
 RipPurse{<7}Didn'tSpendNight
-166	See
-167	if I spent the night mom ,
-168	you 'd think
-169	I 'd still be in my uniform ?
+EDU	See
+EDU	if I spent the night mom ,
+EDU	you 'd think
+EDU	I 'd still be in my uniform ?
 UniformProveDidn'tSpendNight{=6}Distrust
-170	I know
-171	she 's —
-172	J- she —
+EDU	I know
+EDU	she 's —
+EDU	J- she —
 Restarts{<8}CoverUpTracks
-173	See
-174	now she 's trying to think of ways
-175	to cover her tracks .
-176	I know what you 're doing .
-177	Seen this before .
+EDU	See
+EDU	now she 's trying to think of ways
+EDU	to cover her tracks .
+EDU	I know what you 're doing .
+EDU	Seen this before .
 Distrust{>7}JeansAndSawsall
-178	I 'm hungry .
-179	Shit .
-180	I love your jeans .
-181	Cause I wanted to go to the bathroom
-182	when you 're done .
+EDU	I 'm hungry .
+EDU	Shit .
+EDU	I love your jeans .
+EDU	Cause I wanted to go to the bathroom
+EDU	when you 're done .
 Jeans{=8}SawsallAndBlades
-183	Anyways , they were not .
-184	Did you get a sawsall ?
-185	Yes , it 's right here .
-186	Oh .
+EDU	Anyways , they were not .
+EDU	Did you get a sawsall ?
+EDU	Yes , it 's right here .
+EDU	Oh .
 Sawsall{=9}Blades
-187	I got the blades .
-188	They 're right here .
+EDU	I got the blades .
+EDU	They 're right here .
 Uniform{=4}Hantavirus
-189	Do you remember the uh , program on TV , about Hantavirus ?
-190	About what virus ?
-191	Hantavirus .
-192	Hutter ?
+EDU	Do you remember the uh , program on TV , about Hantavirus ?
+EDU	About what virus ?
+EDU	Hantavirus .
+EDU	Hutter ?
 HantavirusName{=6}DeadMiceVirus
-193	What 's that about ?
-194	I do n't re- –
-195	I do n't remember .
-196	It 's the one from the dead mice .
-197	Oh , yeah .
+EDU	What 's that about ?
+EDU	I do n't re- –
+EDU	I do n't remember .
+EDU	It 's the one from the dead mice .
+EDU	Oh , yeah .
 IntroHantavirus{=5}Discussion
-198	Is it , is it all over now ?
-199	Is it for real now ?
-200	Is it in here ?
-201	Is it in the United States now ?
+EDU	Is it , is it all over now ?
+EDU	Is it for real now ?
+EDU	Is it in here ?
+EDU	Is it in the United States now ?
 Questions{<7}SpreadToDifferentStates
-202	They said ,
-203	they already determined
-204	it was in like eighteen different states .
+EDU	They said ,
+EDU	they already determined
+EDU	it was in like eighteen different states .
 SpreadToDifferentStates{<6}GarbageBagInsulationMiceDroppings
-205	What ?
-206	So ?
-207	The Hantavirus .
+EDU	What ?
+EDU	So ?
+EDU	The Hantavirus .
 Clarification{<9}WhyBroughtUpVirus
-208	What , what are you g- —
-209	Well —
-210	So what 're you getting at ?
+EDU	What , what are you g- —
+EDU	Well —
+EDU	So what 're you getting at ?
 WhyBroughtUpHantavirus{<8}InsulationMiceDroppings
-211	That insulation out there with the mice shit in it ?
-212	Did you just wash —
-213	Yes .
-214	Really bothers me .
+EDU	That insulation out there with the mice shit in it ?
+EDU	Did you just wash —
+EDU	Yes .
+EDU	Really bothers me .
 ConcernWithGarbageBags{=7}TookPrecautions
-215	I kn- —
-216	Oh oh I know .
-217	I mean
-218	that 's the thing
-219	I thought of too .
+EDU	I kn- —
+EDU	Oh oh I know .
+EDU	I mean
+EDU	that 's the thing
+EDU	I thought of too .
 AlsoConcerned{<8}Precautions
-220	Well , it 's all packed up in garbage bags now .
-221	I did n't even touch it .
-222	Used a hoe ,
-223	stuffed it .
-224	I did n't touch anything .
+EDU	Well , it 's all packed up in garbage bags now .
+EDU	I did n't even touch it .
+EDU	Used a hoe ,
+EDU	stuffed it .
+EDU	I did n't touch anything .
 UsedHoe{=9}Don'tTouchYellow
-225	Do n't touch anything yellow .
-226	Okay ?
+EDU	Do n't touch anything yellow .
+EDU	Okay ?
 Don'tTouchYellow{=11}NotWithGloves
-227	Not with your gloves or anything .
-228	Find something else
-229	to pick it up with .
-230	Mhm .
+EDU	Not with your gloves or anything .
+EDU	Find something else
+EDU	to pick it up with .
+EDU	Mhm .
 Don'tTouchYellow{=10}TrashBag
-231	Did you — did you put it in a trash bag ?
-232	I took that brown trash thing ,
-233	and tucked a bag in it .
-234	And then I put them in there .
-235	Squashed em down .
+EDU	Did you — did you put it in a trash bag ?
+EDU	I took that brown trash thing ,
+EDU	and tucked a bag in it .
+EDU	And then I put them in there .
+EDU	Squashed em down .

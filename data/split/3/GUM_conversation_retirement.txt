@@ -6,167 +6,166 @@
 6	She has .
 NewInterestInRetirement{>3}PastResistenceAndOpinions
 7	Uh , she used to go over
-8	and read a book
-9	or something .
-10	Yeah ,
-11	or turn a deaf ear .
-12	That was for sure .
-13	But uh , once you understand it ,
-14	you know ,
-15	you , you 're interested in getting right in , and going after it .
-16	Yeah .
+8	and read a book or something .
+9	Yeah ,
+10	or turn a deaf ear .
+11	That was for sure .
+12	But uh , once you understand it ,
+13	you know ,
+14	you , you 're interested in getting right in , and going after it .
+15	Yeah .
 SamRetirement{=2}RegBarrAndDuvall
-17	I really ought a call , at least Reg Barr ,
-18	and ask
-19	if uh , he 's still speaking to me .
-20	Well now , he was the one
-21	that was up on the left , up there .
+16	I really ought a call , at least Reg Barr ,
+17	and ask
+18	if uh , he 's still speaking to me .
+19	Well now , he was the one
+20	that was up on the left , up there .
+21	Yeah .
 22	Yeah .
-23	Yeah .
-24	Yes .
-25	Well , he came over to you all smiles ,
-26	I noticed .
-27	Yes .
-28	Well , we 've known each other for thirty - some years ,
-29	why would n't he ?
-30	But a- anyway , um , I was so glad
-31	that he opened up on this disclosure bit .
-32	Because it was Burns that 's been objecting to our having it .
-33	Oh ?
-34	And I knew this .
-35	So when he opened up on that ,
-36	and she followed through ,
-37	and told about her husband ,
-38	you know ?
-39	Not necessarily that she would approve of it ,
-40	but at least she was n't disapproving .
-41	Yeah .
-42	Of it .
-43	Yeah .
+23	Yes .
+24	Well , he came over to you all smiles ,
+25	I noticed .
+26	Yes .
+27	Well , we 've known each other for thirty - some years ,
+28	why would n't he ?
+29	But a- anyway , um , I was so glad
+30	that he opened up on this disclosure bit .
+31	Because it was Burns that 's been objecting to our having it .
+32	Oh ?
+33	And I knew this .
+34	So when he opened up on that ,
+35	and she followed through ,
+36	and told about her husband ,
+37	you know ?
+38	Not necessarily that she would approve of it ,
+39	but at least she was n't disapproving .
+40	Yeah .
+41	Of it .
+42	Yeah .
 RegBarrAndBurns{=3}Duvall
-44	And uh , course Duvall might –
-45	And I – I can not get over this .
-46	That man .
-47	I really can not .
-48	And you know ,
-49	he must have been thinking ,
-50	when he said
-51	he was n't a political appointee ,
-52	he must have been associating his relationship with Steitler .
-53	Oh .
-54	I really do believe that .
-55	Mhm .
-56	In his thinking .
-57	I do n't know
-58	how else he could have done it .
-59	That topples over .
-60	Um , but he did n't say that .
-61	Oh ?
-62	He said ,
-63	I loved your hum- humor , uh ,
-64	and I love you ,
-65	but , I am not a political appointee .
-66	And his eyes were just snapping .
-67	And I said ,
-68	Oh ?
-69	How did you get on the board ?
-70	Well he said ,
-71	I got a letter from the governor ,
-72	asking .
-73	Everybody on there is an app- political appointee ,
-74	that was n't the point .
-75	The point was ,
-76	I could have mentioned what was in the paper about him ,
-77	that he was related
-78	and ,
-79	you know ,
-80	had business with Steitler ,
-81	and I just said ,
-82	and there 's Doctor Duvall ,
-83	you know ?
-84	And then I went to Rotus ,
-85	who 's a seasoned politician ,
-86	if there ever was one .
-87	Yeah .
-88	He just would flare .
-89	And I said ,
-90	well , I –
-91	alright .
-92	I said ,
-93	I 'll apologize next time ,
-94	and I 'm gon na make hay out of it ,
-95	do n't you worry .
-96	I wan na know
-97	how you birds got on that board ,
-98	if you 're not political appointees .
-99	Mm .
-100	Oh my .
+43	And uh , course Duvall might –
+44	And I – I can not get over this .
+45	That man .
+46	I really can not .
+47	And you know ,
+48	he must have been thinking ,
+49	when he said
+50	he was n't a political appointee ,
+51	he must have been associating his relationship with Steitler .
+52	Oh .
+53	I really do believe that .
+54	Mhm .
+55	In his thinking .
+56	I do n't know
+57	how else he could have done it .
+58	That topples over .
+59	Um , but he did n't say that .
+60	Oh ?
+61	He said ,
+62	I loved your hum- humor , uh ,
+63	and I love you ,
+64	but , I am not a political appointee .
+65	And his eyes were just snapping .
+66	And I said ,
+67	Oh ?
+68	How did you get on the board ?
+69	Well he said ,
+70	I got a letter from the governor ,
+71	asking .
+72	Everybody on there is an app- political appointee ,
+73	that was n't the point .
+74	The point was ,
+75	I could have mentioned what was in the paper about him ,
+76	that he was related
+77	and ,
+78	you know ,
+79	had business with Steitler ,
+80	and I just said ,
+81	and there 's Doctor Duvall ,
+82	you know ?
+83	And then I went to Rotus ,
+84	who 's a seasoned politician ,
+85	if there ever was one .
+86	Yeah .
+87	He just would flare .
+88	And I said ,
+89	well , I –
+90	alright .
+91	I said ,
+92	I 'll apologize next time ,
+93	and I 'm gon na make hay out of it ,
+94	do n't you worry .
+95	I wan na know
+96	how you birds got on that board ,
+97	if you 're not political appointees .
+98	Mm .
+99	Oh my .
 RetirementRegBarrAndDuvall{=1}BasilAndCigarette
-101	Can I grow some basil ?
-102	From seed ?
-103	Yes ,
-104	that 's how I 've –
-105	I do n't have any this year ,
-106	but I 've grown it other years .
-107	Well –
-108	There 's no proble- .
-109	It will not take any frost .
-110	Soon as the b-
-111	Yeah I –
-112	A little bit of frost ,
-113	it 's gone .
-114	I l- I learned that one time
-115	the –
-116	I learned
-117	it just went down .
-118	The hard way .
-119	Hm ?
-120	Uh-huh .
-121	Yes ?
-122	Well , I think
-123	it was Barbara that has some seeds .
-124	Just –
-125	No problem .
-126	It comes right up .
+100	Can I grow some basil ?
+101	From seed ?
+102	Yes ,
+103	that 's how I 've –
+104	I do n't have any this year ,
+105	but I 've grown it other years .
+106	Well –
+107	There 's no proble- .
+108	It will not take any frost .
+109	Soon as the b-
+110	Yeah I –
+111	A little bit of frost ,
+112	it 's gone .
+113	I l- I learned that one time
+114	the –
+115	I learned
+116	it just went down .
+117	The hard way .
+118	Hm ?
+119	Uh-huh .
+120	Yes ?
+121	Well , I think
+122	it was Barbara that has some seeds .
+123	Just –
+124	No problem .
+125	It comes right up .
+126	Yeah .
 127	Yeah .
-128	Yeah .
 AskGrowBasil{=3}OtherHerbs
-129	I –
-130	Is n't that what you gave the neighbor one time ?
-131	You gave him some kind of herb .
-132	Did I give him some ?
-133	I gave him a red pepper .
-134	I think
-135	you –
-136	I think
-137	you gave him some herb of some kind .
-138	I may have given – given him some basil , yes .
-139	Yeah .
-140	I do n't have any this year ,
-141	I forgot to plant it .
-142	I have oregano .
-143	Yeah .
-144	A good stand of it ,
-145	if you want any .
-146	Yeah .
-147	I have a lot of dried or- oregano .
-148	Mm .
+128	I –
+129	Is n't that what you gave the neighbor one time ?
+130	You gave him some kind of herb .
+131	Did I give him some ?
+132	I gave him a red pepper .
+133	I think
+134	you –
+135	I think
+136	you gave him some herb of some kind .
+137	I may have given – given him some basil , yes .
+138	Yeah .
+139	I do n't have any this year ,
+140	I forgot to plant it .
+141	I have oregano .
+142	Yeah .
+143	A good stand of it ,
+144	if you want any .
+145	Yeah .
+146	I have a lot of dried or- oregano .
+147	Mm .
 BasilAndHerbs{>2}Cigarette
-149	Is your cigarette out , everybody 's ?
-150	Yeah , it 's out .
+148	Is your cigarette out , everybody 's ?
+149	Yeah , it 's out .
 MentionCigarette{<3}SmokedDownIntoTheCork
-151	You smoked it down into the cork ,
-152	did n't you ?
-153	Pardon ?
-154	You smoked it down into the cork .
-155	Well , yeah ,
-156	you do n't like that ,
-157	do you ,
-158	but –
-159	No ,
-160	it chokes me to death .
-161	It 's – it 's there ,
-162	might as well smoke it .
-163	Oh .
+150	You smoked it down into the cork ,
+151	did n't you ?
+152	Pardon ?
+153	You smoked it down into the cork .
+154	Well , yeah ,
+155	you do n't like that ,
+156	do you ,
+157	but –
+158	No ,
+159	it chokes me to death .
+160	It 's – it 's there ,
+161	might as well smoke it .
+162	Oh .
+163	No good .
 164	No good .
-165	No good .

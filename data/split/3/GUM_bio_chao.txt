@@ -14,52 +14,53 @@ Education{<3}WorkWithLanguages
 12	He served as Bertrand Russell 's interpreter
 13	when Russell visited China in 1920 .
 14	In his My Linguistic Autobiography , he wrote of his ability
-15	to pick up a Chinese dialect quickly , without much effort .
-16	Chao possessed a natural gift
-17	for hearing fine distinctions in pronunciation
-18	that was said to be " legendary for its acuity " ,
-19	enabling him to record the sounds of various dialects with a high degree of accuracy .
+15	to pick up a Chinese dialect quickly ,
+16	without much effort .
+17	Chao possessed a natural gift
+18	for hearing fine distinctions in pronunciation
+19	that was said to be " legendary for its acuity " ,
+20	enabling him to record the sounds of various dialects with a high degree of accuracy .
 EarlyLife{=1}CareerDevelopmentAndLaterLife
-20	Career development and later life
+21	Career development and later life
 CareerLaterLifeHeader{<2}Content
-21	He returned to China in 1920 ,
-22	marrying the physician Yang Buwei there that year .
-23	The ceremony was simple ,
-24	rather than the noisy traditional wedding ,
-25	attended only by Hu Shih and one other friend .
-26	Hu 's account of it in the newspapers made the couple a model of modern marriage for China 's New Culture generation .
-27	Chao taught mathematics at Tsinghua University and ,
-28	one year later , returned to the United States
-29	to teach at Harvard .
-30	He again returned to China in 1925 ,
-31	teaching at Tsinghua ,
-32	and beginning a survey of the Wu dialects in 1926 .
-33	He began to conduct linguistic fieldwork throughout China for the Institute of History and Philology of Academia Sinica from 1928 onwards .
-34	During this period of time , he collaborated with Luo Changpei and Li Fang - Kuei , the other two leading Chinese linguists of his generation ,
-35	to edit and render into Chinese Bernhard Karlgren 's monumental Etudes sur la Phonologie Chinoise
-36	( published in 1940 ) .
+22	He returned to China in 1920 ,
+23	marrying the physician Yang Buwei there that year .
+24	The ceremony was simple ,
+25	rather than the noisy traditional wedding ,
+26	attended only by Hu Shih and one other friend .
+27	Hu 's account of it in the newspapers made the couple a model of modern marriage for China 's New Culture generation .
+28	Chao taught mathematics at Tsinghua University and ,
+29	one year later , returned to the United States
+30	to teach at Harvard .
+31	He again returned to China in 1925 ,
+32	teaching at Tsinghua ,
+33	and beginning a survey of the Wu dialects in 1926 .
+34	He began to conduct linguistic fieldwork throughout China for the Institute of History and Philology of Academia Sinica from 1928 onwards .
+35	During this period of time , he collaborated with Luo Changpei and Li Fang - Kuei , the other two leading Chinese linguists of his generation ,
+36	to edit and render into Chinese Bernhard Karlgren 's monumental Etudes sur la Phonologie Chinoise
+37	( published in 1940 ) .
 WorkInChina{=3}WorkInUSAndLaterLife
-37	He left for the US in 1938 ,
-38	and resided there afterwards .
-39	In 1945 , he served as president of the Linguistic Society of America ,
-40	and a special issue of the society 's journal Language was dedicated to him in 1966 .
-41	He became an American citizen in 1954 .
-42	In the 1950s he was among the first members of the Society for General Systems Research .
-43	From 1947 to 1960 , he taught at the University of California at Berkeley ,
-44	where in 1952 , he became Agassiz Professor of Oriental Languages .
-45	Both Chao and Yang were known for their good senses of humor ,
-46	he particularly for his love of subtle jokes and language puns :
-47	they published a family history
-48	entitled , Life with Chaos :
-49	the autobiography of a Chinese family .
-50	Late in his life , he was invited by Deng Xiaoping to return to China in 1981 .
-51	Previously at the invitation of Premier Zhou En - Lai , Chao and his wife returned to China in 1973 for the first time since the 1940s .
-52	He visited China again between May and June in 1981
-53	after his wife died in March the same year .
-54	He died in Cambridge , Massachusetts .
-55	His first daughter Rulan Chao Pian
-56	( 1922 - 2013 )
-57	was Professor of East Asian Studies and Music at Harvard .
-58	His third daughter Lensey ,
-59	born in 1929 ,
-60	is a children 's book author and mathematician .
+38	He left for the US in 1938 ,
+39	and resided there afterwards .
+40	In 1945 , he served as president of the Linguistic Society of America ,
+41	and a special issue of the society 's journal Language was dedicated to him in 1966 .
+42	He became an American citizen in 1954 .
+43	In the 1950s he was among the first members of the Society for General Systems Research .
+44	From 1947 to 1960 , he taught at the University of California at Berkeley ,
+45	where in 1952 , he became Agassiz Professor of Oriental Languages .
+46	Both Chao and Yang were known for their good senses of humor ,
+47	he particularly for his love of subtle jokes and language puns :
+48	they published a family history
+49	entitled , Life with Chaos :
+50	the autobiography of a Chinese family .
+51	Late in his life , he was invited by Deng Xiaoping to return to China in 1981 .
+52	Previously at the invitation of Premier Zhou En - Lai , Chao and his wife returned to China in 1973 for the first time since the 1940s .
+53	He visited China again between May and June in 1981
+54	after his wife died in March the same year .
+55	He died in Cambridge , Massachusetts .
+56	His first daughter Rulan Chao Pian
+57	( 1922 - 2013 )
+58	was Professor of East Asian Studies and Music at Harvard .
+59	His third daughter Lensey ,
+60	born in 1929 ,
+61	is a children 's book author and mathematician .

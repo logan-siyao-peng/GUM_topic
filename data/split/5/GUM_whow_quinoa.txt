@@ -1,0 +1,134 @@
+1	How to Prepare Quinoa
+2	Quinoa is known as the little rice of Peru .
+PeruRice{<3}Incas
+3	The Incas treated the crop as sacred
+4	and referred to quinoa as " chisaya mama " or " mother of all grains . "
+5	[ 1 ]
+6	By tradition , the Inca emperor would sow the first seeds of the season
+7	using " golden implements . "
+HistoryPeru{<2}WhatIsQuinoa
+8	Quinoa is rich in protein and much lighter than other grains .
+9	It is much easier to prepare than rice
+10	and is rapidly gaining in popularity , especially among vegetarians who value its high protein levels .
+QuinoaIntroduction{<1}Recipe
+11	Ingredients
+IngredientsHeader{<3}Content
+12	1 cup quinoa
+13	2 cups water
+14	( or broth )
+Ingredients{>4}OptionalIngredients
+15	Olive oil to taste
+16	( Optional )
+17	1/2 teaspoon salt
+18	( Optional )
+Ingredients{=2}ThreeMethods
+19	Method 1
+20	Cooking On A Stove Top
+MethodOneHeader{<4}Steps
+21	Rinse the grains of quinoa in water .
+22	You can skip this step
+23	if you have purchased pre-rinsed quinoa in a box .
+24	To rinse ,
+25	place the measured grain in a strainer under running water for a few minutes .
+26	This is necessary
+27	to remove the excess saponins on the outside of the grains
+28	which impart a bitter flavor to quinoa
+29	if not removed .
+30	Toast quinoa in a saucepan
+31	( optional ) .
+32	Drizzle a bit of olive oil in a pan over medium - high heat .
+33	Add the quinoa
+34	and cook for about 1 minute .
+35	This brings out quinoa 's nutty flavor .
+Preparation{=5}Cooking
+36	Cook the quinoa .
+37	Place two parts water or stock to one part of quinoa in a saucepan over medium - high heat
+38	and bring to a boil .
+39	Cover
+40	and reduce heat to low .
+41	Simmer the quinoa for about 15 minutes
+42	or until the grain becomes translucent
+43	and the white germ forms a visible spiral on the exterior of the quinoa grain .
+44	Try to ensure there is an al dente bite to the germ , in the same way as pasta .
+45	Quinoa will continue cooking for a bit
+46	even after you take it off the heat .
+47	Take the quinoa off the heat
+48	and let stand ,
+49	covered ,
+50	for 5 minutes .
+51	This will give it time
+52	to absorb any moisture
+53	that might still be in the pan .
+54	Uncover
+55	and fluff with a fork .
+56	The quinoa should look light and fluffy ,
+57	and you should be able to see the germ
+58	separating from the seed .
+59	Serve .
+60	Freshly cooked quinoa should be served immediately
+61	to retain nutritional value and a good flavor .
+62	Serve with :
+63	Stir - fry ,
+64	using the quinoa as a substitute for rice .
+65	Curry .
+66	Braised meat .
+67	In a salad .
+68	Virtually any other combination
+69	you can think of !
+Method1{=3}Method2And3
+70	Method 2
+71	Cooking In a Rice Cooker
+MethodTwoHeader{<5}Steps
+72	Rinse 1 cup of quinoa in a fine mesh sieve under cold water .
+73	If you bought packaged quinoa ,
+74	this step is n't always necessary ,
+75	but it 's better to be safe
+76	than sorry .
+77	Pour quinoa into rice cooker .
+78	One option is to toast the quinoa
+79	before placing in the rice cooker .
+80	See Step # 2 in Method One above for directions .
+81	Add 2 cups of liquid and 1/2 teaspoon of salt into the rice cooker .
+82	Water , chicken stock or broth , or vegetable stock all work .
+83	Cook for approximately 15 minutes .
+84	Some rice cooker will have different settings instead of a simple " cook " option .
+85	Try the " white rice " option
+86	if your rice cooker gives you several options .
+87	Let stand for about 5 minutes .
+88	Fluff with a fork
+89	and serve .
+Method2{=4}Method3
+90	Method 3
+91	Cooking In the Oven
+MethodThreeHeader{<5}Steps
+92	Preheat oven to 350 ° F
+93	( 177 ° C ) .
+94	Arrange rack in the middle of the oven .
+95	Rinse quinoa thoroughly in a fine mesh seive under cold water .
+96	In a medium saucepan , heat up 2 tablespoons vegetable oil over medium - low heat .
+97	Add onions , peppers , mushrooms , or any other type of desired vegetable or herb into the saucepan
+98	( optional ) .
+99	Cook onions
+100	until they are translucent ,
+101	but not burned .
+102	Sweat the peppers or vegetables along with the onions .
+103	Add the quinoa and salt to the saucepan ,
+104	stirring
+105	until completely incorporated .
+106	This should take no longer than 30 seconds .
+107	Add one cup of broth and one cup of water to the saucepan
+108	and bring to a boil over medium high heat .
+109	Once a boil is reached ,
+110	transfer quinoa to a 8 - by - 8 - inch baking dish .
+111	[ 2 ]
+112	Spread out quinoa evenly
+113	and cover baking dish completely with aluminum foil .
+114	Cook the quinoa in the oven for roughly 20 minutes ,
+115	or until most of the liquid is gone .
+116	Remove the aluminum foil from the baking dish ,
+117	add cheese or other seasonings ,
+118	and bake for an additional 5 minutes .
+119	After 5 minutes ,
+120	the quinoa should be fully cooked .
+121	Serve
+122	and enjoy !

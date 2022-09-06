@@ -93,81 +93,82 @@ Intro{=1}ThreeMethods
 92	Pat down soil around the plants
 93	to eliminate air pockets .
 94	If you want to plant the basil in a container ,
-95	make sure it 's large enough to accommodate the number of plants
-96	you 're growing ;
-97	they need to be planted 6 inches apart ,
-98	since they grow quite large .
-99	2 Keep the soil damp ,
-100	but not soaked .
-101	Basil does best in well - drained soil ,
-102	and should not be subjected to standing water .
-103	Water the mature basil plants once a day , in the morning ,
-104	so the water has time
-105	to soak in
-106	and evaporate
-107	rather than sitting on the plants overnight .
-108	3 Pinch off flower heads .
-109	When you see flower buds ,
-110	pinch them and two pairs of leaves under them off .
-111	Flowers blooming create a hormone change
-112	which dramatically reduces the flavor of the leaves ,
-113	as well as reducing the amount of foliage
-114	which grows .
-115	This is called " bolting "
-116	and is more likely to happen
-117	when there 's extra sunshine .
-118	You 'll notice
-119	that
-120	if you leave the flowers ,
-121	the plant will become lanky
-122	and the leaves wo n't be as full or tasty .
-123	4 Watch for pests and mold .
-124	Basil plants are attractive to Japanese beetles
-125	the best way to control these pests is to pick them off the plants by hand .
-126	If your plants show signs of mold growth ,
-127	they may not be getting adequate sunlight ,
-128	or they may be too close together .
-129	Weed out the smaller plants
-130	to give the larger ones more space .
-131	Method 3 of 3 :
-132	Harvesting and Using Basil
-133	1 Harvest
-134	and prune .
-135	As the plant matures ,
-136	pinch off the top two pairs of leaves
-137	once a stalk reaches a reasonable height .
-138	If you look closely ,
-139	at the base of every leaf are two tiny little leaves
-140	that will grow outwards
-141	if the stem growing between them is cut off .
-142	Cut close to those tiny leaves ,
-143	but be sure not to damage them .
-144	Pinching encourages the plant 's energy to be directed into its stronger stems and leaves .
-145	This helps the plants grow bushy .
-146	Do n't pinch on the lower part of the stem ,
-147	or the basil plants will grow tall and reedy .
-148	You want them to get bushy ,
-149	so pinch from the top .
-150	2 Enjoy the basil fresh .
-151	Rinse off the leaves
-152	and use the basil
-153	to make pesto or a Caprese salad with tomatoes and fresh mozzarella cheese .
-154	3 Store the basil in the refrigerator .
-155	You 'll probably have more basil
-156	than you could possibly eat fresh ,
-157	so plan on storing some in the fridge .
-158	Wash the leaves ,
-159	dry them well ,
-160	and wrap them in paper towels .
-161	Place them in a food storage container with an airtight lid .
-162	4 Freeze the basil .
-163	Freezing the leaves whole does n't work very well ,
-164	but
-165	if you puree it first
-166	you can freeze it for months .
-167	Place the basil in a blender with a little water .
-168	Puree it
-169	until smooth ,
-170	then put it in a food storage bag
-171	and freeze
-172	until you need it .
+95	make sure it 's large enough
+96	to accommodate the number of plants
+97	you 're growing ;
+98	they need to be planted 6 inches apart ,
+99	since they grow quite large .
+100	2 Keep the soil damp ,
+101	but not soaked .
+102	Basil does best in well - drained soil ,
+103	and should not be subjected to standing water .
+104	Water the mature basil plants once a day , in the morning ,
+105	so the water has time
+106	to soak in
+107	and evaporate
+108	rather than sitting on the plants overnight .
+109	3 Pinch off flower heads .
+110	When you see flower buds ,
+111	pinch them and two pairs of leaves under them off .
+112	Flowers blooming create a hormone change
+113	which dramatically reduces the flavor of the leaves ,
+114	as well as reducing the amount of foliage
+115	which grows .
+116	This is called " bolting "
+117	and is more likely to happen
+118	when there 's extra sunshine .
+119	You 'll notice
+120	that
+121	if you leave the flowers ,
+122	the plant will become lanky
+123	and the leaves wo n't be as full or tasty .
+124	4 Watch for pests and mold .
+125	Basil plants are attractive to Japanese beetles
+126	the best way to control these pests is to pick them off the plants by hand .
+127	If your plants show signs of mold growth ,
+128	they may not be getting adequate sunlight ,
+129	or they may be too close together .
+130	Weed out the smaller plants
+131	to give the larger ones more space .
+132	Method 3 of 3 :
+133	Harvesting and Using Basil
+134	1 Harvest
+135	and prune .
+136	As the plant matures ,
+137	pinch off the top two pairs of leaves
+138	once a stalk reaches a reasonable height .
+139	If you look closely ,
+140	at the base of every leaf are two tiny little leaves
+141	that will grow outwards
+142	if the stem growing between them is cut off .
+143	Cut close to those tiny leaves ,
+144	but be sure not to damage them .
+145	Pinching encourages the plant 's energy to be directed into its stronger stems and leaves .
+146	This helps the plants grow bushy .
+147	Do n't pinch on the lower part of the stem ,
+148	or the basil plants will grow tall and reedy .
+149	You want them to get bushy ,
+150	so pinch from the top .
+151	2 Enjoy the basil fresh .
+152	Rinse off the leaves
+153	and use the basil
+154	to make pesto or a Caprese salad with tomatoes and fresh mozzarella cheese .
+155	3 Store the basil in the refrigerator .
+156	You 'll probably have more basil
+157	than you could possibly eat fresh ,
+158	so plan on storing some in the fridge .
+159	Wash the leaves ,
+160	dry them well ,
+161	and wrap them in paper towels .
+162	Place them in a food storage container with an airtight lid .
+163	4 Freeze the basil .
+164	Freezing the leaves whole does n't work very well ,
+165	but
+166	if you puree it first
+167	you can freeze it for months .
+168	Place the basil in a blender with a little water .
+169	Puree it
+170	until smooth ,
+171	then put it in a food storage bag
+172	and freeze
+173	until you need it .

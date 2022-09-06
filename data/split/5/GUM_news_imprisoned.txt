@@ -1,0 +1,69 @@
+1	Australian woman claims
+2	Church of Scientology imprisoned her for twelve years
+3	Thursday , May 7 , 2015
+4	Valeska Paris , an Australian woman and former Scientologist , has claimed
+5	that the Church of Scientology imprisoned her for twelve years aboard the Scientology - owned cruise ship , Freewinds .
+6	The Church of Scientology 's cruise ship Freewinds in Bonaire .
+Paris'sClaim{>2}ParisBackground
+7	Paris was born in Switzerland
+8	but her parents moved her to the United Kingdom
+9	when she was six
+10	so they could be closer to the church 's headquarters .
+BornAndRaised{=3}Adolescence
+11	She joined the Sea Org
+12	aged 14 .
+13	In 1995 , at age seventeen , she was told to disconnect from her mother .
+IntroAndParisBackground{=1}ImprisonmentAndChurchResponse
+14	Paris claims
+15	she was first sent to the ship
+16	aged eighteen
+17	for two weeks as a teenager
+18	but ended up spending twelve years there .
+19	Paris also claims
+20	that her passport was taken away from her
+21	and she was forced to work in the engine room .
+SentToWorkAsTeenager{=5}Reasons
+22	I was basically hauled in
+23	and told that my mum had attacked the church
+24	and that I needed to disconnect from her
+25	because she was suppressive .
+26	Valeska Paris
+27	I was basically hauled in
+28	and told that my mum had attacked the church
+29	and that I needed to disconnect from her
+30	because she was suppressive .
+31	Her mother had spoken out against Scientology on French television
+32	after her ex-husband and Paris 's father , Albert Jaquier , committed suicide
+33	after he lost his fortune to Scientology .
+FirstBroughtToShipAndReasons{>4}FirstInFloridaThenTransferred
+34	Paris claims
+35	that she was kept at Flag Land Base in Clearwater , Florida
+36	until she was eighteen
+37	and then transferred to the Freewinds .
+WorkingInFlorida{=3}WorkingInFreewindsAndSydney
+38	On board the Freewinds , Paris claims
+39	that she was working from 6:00am to midnight
+40	and due to lack of sleep ended up being a walking zombie .
+LongHours{=5}WorkWithAsbestos
+41	She also claims
+42	that in 1997 and 1998 , she was tasked with removal of asbestos from the ship .
+43	In 2007 , Paris left the ship after a confrontation with the ship 's management .
+WorkingInFreewinds{=4}WorkingInSydneyWorkCamp
+44	She was eventually sent to Rehabilitation Project Force in Sydney ,
+45	which the Church describes as a religious retreat ,
+46	but critics charge is a forced work camp .
+Imprisonment{=2}LeavesChurchAndChurchResponse
+47	Here , she met her future husband
+48	and subsequently left the church .
+LeftTheChurch{=3}ChurchResponse
+49	In a statement to the Australian Broadcasting Corporation , the Church denied these allegations :
+50	She certainly was n't ' forced ' to be there .
+51	She was also never forced to perform labour in the engine room .
+52	They also claimed
+53	Paris was a volunteer
+ChurchClaimsParisWasVolunteer{=5}ChurchClaimsParisLying
+54	and claim
+55	she has a vested interest for misrepresenting her experiences with the Church .
+ChurchDeniesAllegations{>4}PassportConfiscationJustification
+56	The Church also claims
+57	that Paris not having her passport was maritime procedure .

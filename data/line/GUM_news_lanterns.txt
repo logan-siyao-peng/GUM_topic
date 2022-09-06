@@ -1,77 +1,77 @@
-1	Lantern Festival in Taipei lights up the night
-2	Monday , March 5 , 2007
-3	Taipei , Taiwan
+EDU	Lantern Festival in Taipei lights up the night
+EDU	Monday , March 5 , 2007
+EDU	Taipei , Taiwan
 ~
-4	— The Taipei City Lantern Festival was off to a bright start on Saturday Night
-5	as hundreds of thousands of people crowded onto the Chiang Kai Shek Memorial near downtown Taipei
-6	to witness city mayor Hau Lung-bin
-7	and other dignitaries ceremoniously flip the switch
-8	to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park .
+EDU	— The Taipei City Lantern Festival was off to a bright start on Saturday Night
+EDU	as hundreds of thousands of people crowded onto the Chiang Kai Shek Memorial near downtown Taipei
+EDU	to witness city mayor Hau Lung-bin
+EDU	and other dignitaries ceremoniously flip the switch
+EDU	to light hundreds of colorful lantern scenes in and around the 240,000 square meter memorial park .
 FestivalIntro{>3}PigThemeZodiac
-9	The centerpiece of this rock concert-like performance is a 15 meter high rotating pig
-10	equipped with a fog machine , laser light show and theme music .
-11	The theme of this year s lantern festival revolves around the 12 year Chinese zodiac cycle s year of the pig .
-12	Its round shape symbolizes wealth and good fortune
-13	and is believed to bring good luck .
+EDU	The centerpiece of this rock concert - like performance is a 15 meter high rotating pig
+EDU	equipped with a fog machine , laser light show and theme music .
+EDU	The theme of this year s lantern festival revolves around the 12 year Chinese zodiac cycle s year of the pig .
+EDU	Its round shape symbolizes wealth and good fortune
+EDU	and is believed to bring good luck .
 FestivalIntroAndPigTheme{>2}FestivalBackgroundAndAttendance
-14	Started in 1990 ,
-15	the Taipei lantern festival continues a 2000 year old tradition of light related festivals
-16	marking the end of the Chinese New Year celebrations .
+EDU	Started in 1990 ,
+EDU	the Taipei lantern festival continues a 2000 year old tradition of light related festivals
+EDU	marking the end of the Chinese New Year celebrations .
 FestivalOriginsAndTradition{=3}EventGrowsInPopularity
-17	This particular event grows in popularity every year .
-18	Last Year over 4 million visitors attended the event
-19	and this year the city expects about 6 million visitors
-20	according to the event website .
+EDU	This particular event grows in popularity every year .
+EDU	Last Year over 4 million visitors attended the event
+EDU	and this year the city expects about 6 million visitors
+EDU	according to the event website .
 FestivalIntroHistoryAndAttendance{=1}FestivalDescriptionAndTransportation
-21	Colorful lantern scenes not only fill the central square
-22	but also the surrounding 2 km circumference of the memorial .
+EDU	Colorful lantern scenes not only fill the central square
+EDU	but also the surrounding 2 km circumference of the memorial .
 FestivalLanternsAndMemorial{<4}DifferentThemes
-23	Each section has a theme .
-24	One side of the memorial is scenes
-25	made by student groups
-26	while other areas represent the counties of Taiwan .
+EDU	Each section has a theme .
+EDU	One side of the memorial is scenes
+EDU	made by student groups
+EDU	while other areas represent the counties of Taiwan .
 ThemesByStudentsAndCounties{=5}InternationalSections
-27	There is even a section of lanterns
-28	sponsored by foreign countries .
-29	The Malaysia Tourism board was quite prominent at the main entrance to the grounds .
+EDU	There is even a section of lanterns
+EDU	sponsored by foreign countries .
+EDU	The Malaysia Tourism board was quite prominent at the main entrance to the grounds .
 DifferentSectionsAndThemes{=3}CrowdsAndDecorations
-30	As with all new year celebrations in Taiwan , the lantern festival is crowded .
-31	People flock
-32	to see the lantern scenes
-33	and enjoy the festival atmosphere
+EDU	As with all new year celebrations in Taiwan , the lantern festival is crowded .
+EDU	People flock
+EDU	to see the lantern scenes
+EDU	and enjoy the festival atmosphere
 FestivalAtmosphere{>5}CarryLanternsFromStreetVendors
-34	as they carry lanterns ,
-35	given away by the city
-36	and bought from street vendors at the event .
+EDU	as they carry lanterns ,
+EDU	given away by the city
+EDU	and bought from street vendors at the event .
 CrowdsAndBoughtLanterns{=4}ToysAndLightShow
-37	The many light toys such a swords , devil ears , and lanterns turn the milling crowd into a unique light show
-38	that can be observed
-39	by climbing the steps of the 70 meter memorial hall on the grounds .
+EDU	The many light toys such a swords , devil ears , and lanterns turn the milling crowd into a unique light show
+EDU	that can be observed
+EDU	by climbing the steps of the 70 meter memorial hall on the grounds .
 EventDescriptionAndThemes{>2}TransportationAndWeather
-40	Local public transportation hubs are often swamped by the event .
-41	The station staff at Chiang Kai Shek Memorial Hall Station do an excellent job of crowd control
-42	but lines for the subway can still be hours long and very exhausting .
+EDU	Local public transportation hubs are often swamped by the event .
+EDU	The station staff at Chiang Kai Shek Memorial Hall Station do an excellent job of crowd control
+EDU	but lines for the subway can still be hours long and very exhausting .
 CrowdedTransportation{=3}RainStorm
-43	A sudden rain storm on Sunday night
-44	( March 4 )
-45	caused a mass exodus of people to head for the station prompting lines
-46	that backed up into the street .
+EDU	A sudden rain storm on Sunday night
+EDU	( March 4 )
+EDU	caused a mass exodus of people to head for the station prompting lines
+EDU	that backed up into the street .
 RainStormCauseCrowdedStreets{=4}CrowdsCanBeAvoided
-47	The commuting crowds can be avoided however
-48	by walking from NTU Hospital Station or Shandao Station .
-49	Both of these stops are only about a 20 minute walk from the event
-50	and have no crowds at all .
+EDU	The commuting crowds can be avoided however
+EDU	by walking from NTU Hospital Station or Shandao Station .
+EDU	Both of these stops are only about a 20 minute walk from the event
+EDU	and have no crowds at all .
 TakeLessCrowdedRoutes{=5}GoAtLessPopularTimes
-51	If you really want to avoid the crowds ,
-52	definitely avoid the weekends .
-53	Wait until the fourth or fifth day of the festival
-54	when the crowds will have dwindled .
+EDU	If you really want to avoid the crowds ,
+EDU	definitely avoid the weekends .
+EDU	Wait until the fourth or fifth day of the festival
+EDU	when the crowds will have dwindled .
 WhichDaysToGo{>6}PersonalExperience
-55	I visited the festival on Saturday night , the opening night ,
-56	and there was a sea of people in the square .
+EDU	I visited the festival on Saturday night , the opening night ,
+EDU	and there was a sea of people in the square .
 SaturdayOpeningNightCrowds{=7}TuesdayNightEmpty
-57	I went back the next Tuesday night
-58	and there was almost no one there ,
-59	just a few stray photographers
-60	taking advantage of the unimpeded views of the lanterns .
-61	The festival runs through March 11 this year .
+EDU	I went back the next Tuesday night
+EDU	and there was almost no one there ,
+EDU	just a few stray photographers
+EDU	taking advantage of the unimpeded views of the lanterns .
+EDU	The festival runs through March 11 this year .

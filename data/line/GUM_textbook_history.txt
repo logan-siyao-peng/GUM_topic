@@ -1,235 +1,235 @@
-1	1 The Americas , Europe , and Africa Before 1492
-2	1.1 The Americas
-3	Learning Objectives
-4	By the end of this section , you will be able to :
-5	Locate on a map the major American civilizations before the arrival of the Spanish
-6	Discuss the cultural achievements of these civilizations
-7	Discuss the differences and similarities between lifestyles , religious practices , and customs among the native peoples
+EDU	1 The Americas , Europe , and Africa Before 1492
+EDU	1.1 The Americas
+EDU	Learning Objectives
+EDU	By the end of this section , you will be able to :
+EDU	Locate on a map the major American civilizations before the arrival of the Spanish
+EDU	Discuss the cultural achievements of these civilizations
+EDU	Discuss the differences and similarities between lifestyles , religious practices , and customs among the native peoples
 ~
-8	Figure 1.2
-9	( credit :
-10	modification of work by Architect of the Capitol )
+EDU	Figure 1.2
+EDU	( credit :
+EDU	modification of work by Architect of the Capitol )
 FigureCredit{<3}Introduction
-11	Some scholars believe
-12	that between nine and fifteen thousand years ago , a land bridge existed between Asia and North America
-13	that we now call Beringia .
+EDU	Some scholars believe
+EDU	that between nine and fifteen thousand years ago , a land bridge existed between Asia and North America
+EDU	that we now call Beringia .
 IntroBeringia{<5}CrossBridgeAndStrait
-14	The first inhabitants of what would be named the Americas migrated across this bridge in search of food .
-15	When the glaciers melted ,
-16	water engulfed Beringia ,
-17	and the Bering Strait was formed .
-18	Later settlers came by boat across the narrow strait .
+EDU	The first inhabitants of what would be named the Americas migrated across this bridge in search of food .
+EDU	When the glaciers melted ,
+EDU	water engulfed Beringia ,
+EDU	and the Bering Strait was formed .
+EDU	Later settlers came by boat across the narrow strait .
 CrossBridgeAndStrait{>6}GeneticEvidence
-19	( The fact
-20	that Asians and American Indians share genetic markers on a Y chromosome
-21	lends credibility to this migration theory . )
+EDU	( The fact
+EDU	that Asians and American Indians share genetic markers on a Y chromosome
+EDU	lends credibility to this migration theory . )
 Migration{=4}SettlementAndAgriculture
-22	Continually moving southward ,
-23	the settlers eventually populated both North and South America ,
+EDU	Continually moving southward ,
+EDU	the settlers eventually populated both North and South America ,
 SettlersPopulateAmericas{>6}Examples
-24	creating unique cultures
-25	that ranged from the highly complex and urban Aztec civilization in what is now Mexico City to the woodland tribes of eastern North America .
-26	Recent research along the west coast of South America suggests
-27	that migrant populations may have traveled down this coast by water as well as by land .
+EDU	creating unique cultures
+EDU	that ranged from the highly complex and urban Aztec civilization in what is now Mexico City to the woodland tribes of eastern North America .
+EDU	Recent research along the west coast of South America suggests
+EDU	that migrant populations may have traveled down this coast by water as well as by land .
 Settlement{=5}AgricultureAndMapFigure
-28	Researchers believe
-29	that about ten thousand years ago , humans also began the domestication of plants and animals ,
-30	adding agriculture as a means of sustenance to hunting and gathering techniques .
+EDU	Researchers believe
+EDU	that about ten thousand years ago , humans also began the domestication of plants and animals ,
+EDU	adding agriculture as a means of sustenance to hunting and gathering techniques .
 IntroAgriculture{<7}Impact
-31	With this agricultural revolution , and the more abundant and reliable food supplies
-32	it brought ,
-33	populations grew
-34	and people were able to develop a more settled way of life ,
-35	building permanent settlements .
+EDU	With this agricultural revolution , and the more abundant and reliable food supplies
+EDU	it brought ,
+EDU	populations grew
+EDU	and people were able to develop a more settled way of life ,
+EDU	building permanent settlements .
 Impact{>8}MesoamericaExample
-36	Nowhere in the Americas was this more obvious than in Mesoamerica
-37	( Figure 1.3 ) .
+EDU	Nowhere in the Americas was this more obvious than in Mesoamerica
+EDU	( Figure 1.3 ) .
 Agriculture{>6}MapFigure
-38	Figure 1.3
-39	This map shows the extent of the major civilizations of the Western Hemisphere .
-40	In South America , early civilizations developed along the coast
-41	because the high Andes and the inhospitable Amazon Basin made the interior of the continent less favorable for settlement .
+EDU	Figure 1.3
+EDU	This map shows the extent of the major civilizations of the Western Hemisphere .
+EDU	In South America , early civilizations developed along the coast
+EDU	because the high Andes and the inhospitable Amazon Basin made the interior of the continent less favorable for settlement .
 Introduction{<2}FirstAmericans
-42	THE FIRST AMERICANS :
+EDU	THE FIRST AMERICANS :
 TheFirstAmericansTitle{<3}Content
-43	THE OLMEC
+EDU	THE OLMEC
 TheOlmecTitle{<5}Content
-44	Mesoamerica is the geographic area
-45	stretching from north of Panama up to the desert of central Mexico .
-46	Although marked by great topographic , linguistic , and cultural diversity ,
-47	this region cradled a number of civilizations with similar characteristics .
+EDU	Mesoamerica is the geographic area
+EDU	stretching from north of Panama up to the desert of central Mexico .
+EDU	Although marked by great topographic , linguistic , and cultural diversity ,
+EDU	this region cradled a number of civilizations with similar characteristics .
 MesoamericaLocationAndDiversity{=7}Characteristics
-48	Mesoamericans were polytheistic ;
-49	their gods possessed both male and female traits
-50	and demanded blood sacrifices of enemies
-51	taken in battle
-52	or ritual bloodletting .
+EDU	Mesoamericans were polytheistic ;
+EDU	their gods possessed both male and female traits
+EDU	and demanded blood sacrifices of enemies
+EDU	taken in battle
+EDU	or ritual bloodletting .
 Religion{=9}Diet
-53	Corn , or maize ,
-54	domesticated by 5000 BCE ,
-55	formed the basis of their diet .
+EDU	Corn , or maize ,
+EDU	domesticated by 5000 BCE ,
+EDU	formed the basis of their diet .
 ReligionAndDiet{<8}ImportantContributionsAndTrade
-56	They developed a mathematical system ,
-57	built huge edifices ,
+EDU	They developed a mathematical system ,
+EDU	built huge edifices ,
 MathAndEdifices{=10}Calendar
-58	and devised a calendar
-59	that accurately predicted eclipses and solstices
-60	and that priest-astronomers used
-61	to direct the planting and harvesting of crops .
+EDU	and devised a calendar
+EDU	that accurately predicted eclipses and solstices
+EDU	and that priest-astronomers used
+EDU	to direct the planting and harvesting of crops .
 Inventions{<9}WrittenLanguageAndTrade
-62	Most important for our knowledge of these peoples ,
-63	they created the only known written language in the Western Hemisphere ;
-64	researchers have made much progress
-65	in interpreting the inscriptions on their temples and pyramids .
+EDU	Most important for our knowledge of these peoples ,
+EDU	they created the only known written language in the Western Hemisphere ;
+EDU	researchers have made much progress
+EDU	in interpreting the inscriptions on their temples and pyramids .
 WrittenLanguage{>10}Trade
-66	Though the area had no overarching political structure ,
-67	trade over long distances helped diffuse culture .
+EDU	Though the area had no overarching political structure ,
+EDU	trade over long distances helped diffuse culture .
 TradeDiffuseCulture{>11}TradeItems
-68	Weapons
-69	made of obsidian ,
-70	jewelry
-71	crafted from jade ,
+EDU	Weapons
+EDU	made of obsidian ,
+EDU	jewelry
+EDU	crafted from jade ,
 Stone-basedProducts{=12}FeathersCacaoBeans
-72	feathers
-73	woven into clothing and ornaments ,
-74	and cacao beans
-75	that were whipped into a chocolate drink
-76	formed the basis of commerce .
+EDU	feathers
+EDU	woven into clothing and ornaments ,
+EDU	and cacao beans
+EDU	that were whipped into a chocolate drink
+EDU	formed the basis of commerce .
 IntroMesoamerica{=6}TheOlmec
-77	The mother of Mesoamerican cultures was the Olmec civilization .
-78	Flourishing along the hot Gulf Coast of Mexico from about 1200 to about 400 BCE ,
-79	the Olmec produced a number of major works of art , architecture , pottery , and sculpture .
+EDU	The mother of Mesoamerican cultures was the Olmec civilization .
+EDU	Flourishing along the hot Gulf Coast of Mexico from about 1200 to about 400 BCE ,
+EDU	the Olmec produced a number of major works of art , architecture , pottery , and sculpture .
 IntroOlmec{>9}Characteristics
-80	Most recognizable are their giant head sculptures
-81	( Figure 1.4 )
-82	and the pyramid in La Venta .
+EDU	Most recognizable are their giant head sculptures
+EDU	( Figure 1.4 )
+EDU	and the pyramid in La Venta .
 ImportantBuildings{=10}WaterAndAgriculture
-83	The Olmec built aqueducts
-84	to transport water into their cities
-85	and irrigate their fields .
+EDU	The Olmec built aqueducts
+EDU	to transport water into their cities
+EDU	and irrigate their fields .
 Aqueducts{=11}Agriculture
-86	They grew maize , squash , beans , and tomatoes .
-87	They also bred small domesticated dogs
-88	which , along with fish , provided their protein .
+EDU	They grew maize , squash , beans , and tomatoes .
+EDU	They also bred small domesticated dogs
+EDU	which , along with fish , provided their protein .
 OlmecIntro{=8}Influence
-89	Although no one knows
-90	what happened to the Olmec after about 400 BCE ,
-91	in part because the jungle reclaimed many of their cities ,
-92	their culture was the base
-93	upon which the Maya and the Aztec built .
+EDU	Although no one knows
+EDU	what happened to the Olmec after about 400 BCE ,
+EDU	in part because the jungle reclaimed many of their cities ,
+EDU	their culture was the base
+EDU	upon which the Maya and the Aztec built .
 BaseForMayaAndAztec{=10}ReligiousInfluence
-94	It was the Olmec
-95	who worshipped a rain god , a maize god , and the feathered serpent so important in the future pantheons of the Aztecs
-96	( who called him Quetzalcoatl )
-97	and the Maya
-98	( to whom he was Kukulkan ) .
+EDU	It was the Olmec
+EDU	who worshipped a rain god , a maize god , and the feathered serpent so important in the future pantheons of the Aztecs
+EDU	( who called him Quetzalcoatl )
+EDU	and the Maya
+EDU	( to whom he was Kukulkan ) .
 InfluenceOnAztecsAndMaya{>9}ExtensiveTradeSystem
-99	The Olmec also developed a system of trade throughout Mesoamerica ,
-100	giving rise to an elite class .
+EDU	The Olmec also developed a system of trade throughout Mesoamerica ,
+EDU	giving rise to an elite class .
 OlmecText{>7}FigureCaption
-101	Figure 1.4
+EDU	Figure 1.4
 FigureTitle{<8}Caption
-102	The Olmec carved heads from giant boulders
-103	that ranged from four to eleven feet in height
-104	and could weigh up to fifty tons .
-105	All these figures have flat noses , slightly crossed eyes , and large lips .
-106	These physical features can be seen today in some of the peoples indigenous to the area .
+EDU	The Olmec carved heads from giant boulders
+EDU	that ranged from four to eleven feet in height
+EDU	and could weigh up to fifty tons .
+EDU	All these figures have flat noses , slightly crossed eyes , and large lips .
+EDU	These physical features can be seen today in some of the peoples indigenous to the area .
 TheOlmec{=4}TheMaya
-107	THE MAYA
+EDU	THE MAYA
 TheMayaTitle{<5}TheMayaContent
-108	After the decline of the Olmec , a city rose in the fertile central highlands of Mesoamerica .
-109	One of the largest population centers in pre-Columbian America and home to more than 100,000 people at its height in about 500 CE ,
-110	Teotihuacan was located about thirty miles northeast of modern Mexico City .
+EDU	After the decline of the Olmec , a city rose in the fertile central highlands of Mesoamerica .
+EDU	One of the largest population centers in pre-Columbian America and home to more than 100,000 people at its height in about 500 CE ,
+EDU	Teotihuacan was located about thirty miles northeast of modern Mexico City .
 TeotihuacanCity{>9}Multiethnic
-111	The ethnicity of this settlement ’s inhabitants is debated ;
-112	some scholars believe
-113	it was a multiethnic city .
+EDU	The ethnicity of this settlement ’s inhabitants is debated ;
+EDU	some scholars believe
+EDU	it was a multiethnic city .
 MayaIntro{=8}BuildingsAndTrade
-114	Large-scale agriculture and the resultant abundance of food allowed time
-115	for people to develop special trades and skills other than farming .
-116	Builders constructed over twenty-two hundred apartment compounds for multiple families , as well as more than a hundred temples .
+EDU	Large-scale agriculture and the resultant abundance of food allowed time
+EDU	for people to develop special trades and skills other than farming .
+EDU	Builders constructed over twenty-two hundred apartment compounds for multiple families , as well as more than a hundred temples .
 ManyBuildings{>10}ExamplePyramidsAndTemples
-117	Among these were the Pyramid of the Sun
-118	( which is two hundred feet high )
-119	and the Pyramid of the Moon
-120	( one hundred and fifty feet high ) .
+EDU	Among these were the Pyramid of the Sun
+EDU	( which is two hundred feet high )
+EDU	and the Pyramid of the Moon
+EDU	( one hundred and fifty feet high ) .
 Pyramids{=11}Temple
-121	Near the Temple of the Feathered Serpent , graves have been uncovered
-122	that suggest
-123	humans were sacrificed for religious purposes .
+EDU	Near the Temple of the Feathered Serpent , graves have been uncovered
+EDU	that suggest
+EDU	humans were sacrificed for religious purposes .
 Buildings{=9}TradeAndTeotihuacan
-124	The city was also the center for trade ,
-125	which extended to settlements on Mesoamerica ’s Gulf Coast .
-126	The Maya were one Mesoamerican culture
-127	that had strong ties to Teotihuacan .
+EDU	The city was also the center for trade ,
+EDU	which extended to settlements on Mesoamerica ’s Gulf Coast .
+EDU	The Maya were one Mesoamerican culture
+EDU	that had strong ties to Teotihuacan .
 MayaCharacteristics{=7}ContributionsAndAchievements
-128	The Maya ’s architectural and mathematical contributions were significant .
+EDU	The Maya ’s architectural and mathematical contributions were significant .
 IntroContributions{>9}Elaboration
-129	Flourishing from roughly 2000 BCE to 900 CE in what is now Mexico , Belize , Honduras , and Guatemala ,
-130	the Maya perfected the calendar and written language
-131	the Olmec had begun .
+EDU	Flourishing from roughly 2000 BCE to 900 CE in what is now Mexico , Belize , Honduras , and Guatemala ,
+EDU	the Maya perfected the calendar and written language
+EDU	the Olmec had begun .
 CalendarAndWritingSystem{=10}MathSystem
-132	They devised a written mathematical system
-133	to record crop yields and the size of the population ,
-134	and to assist in trade .
+EDU	They devised a written mathematical system
+EDU	to record crop yields and the size of the population ,
+EDU	and to assist in trade .
 Inventions{=8}ManyCity-States
-135	Surrounded by farms
-136	relying on primitive agriculture ,
-137	they built the city-states of Copan , Tikal , and Chichen Itza along their major trade routes , as well as temples , statues of gods , pyramids , and astronomical observatories
-138	( Figure 1.5 ) .
+EDU	Surrounded by farms
+EDU	relying on primitive agriculture ,
+EDU	they built the city-states of Copan , Tikal , and Chichen Itza along their major trade routes , as well as temples , statues of gods , pyramids , and astronomical observatories
+EDU	( Figure 1.5 ) .
 MayaCharacteristicsAndContributions{=6}Downfall
-139	However ,
-140	because of poor soil and a drought
-141	that lasted nearly two centuries ,
-142	their civilization declined by about 900 CE
-143	and they abandoned their large population centers .
+EDU	However ,
+EDU	because of poor soil and a drought
+EDU	that lasted nearly two centuries ,
+EDU	their civilization declined by about 900 CE
+EDU	and they abandoned their large population centers .
 Drought{>8}FigureCaption
-144	Figure 1.5
+EDU	Figure 1.5
 FigureTitle{<9}CaptionAndCredit
-145	El Castillo ,
-146	located at Chichen Itza in the eastern Yucatán peninsula ,
-147	served as a temple for the god Kukulkan .
+EDU	El Castillo ,
+EDU	located at Chichen Itza in the eastern Yucatán peninsula ,
+EDU	served as a temple for the god Kukulkan .
 IntroElCastillo{>11}ArchitecturalDetail
-148	Each side contains ninety-one steps to the top .
-149	When counting the top platform ,
-150	the total number of stairs is three hundred and sixty-five , the number of days in a year .
+EDU	Each side contains ninety-one steps to the top .
+EDU	When counting the top platform ,
+EDU	the total number of stairs is three hundred and sixty-five , the number of days in a year .
 Caption{>10}Credit
-151	( credit :
-152	Ken Thomas )
+EDU	( credit :
+EDU	Ken Thomas )
 DownfallAndFigure{=7}SpanishFindingsAndRemains
-153	The Spanish found little organized resistance among the weakened Maya upon their arrival in the 1520s .
+EDU	The Spanish found little organized resistance among the weakened Maya upon their arrival in the 1520s .
 SpanishConquer{<8}SpanishFindings
-154	However , they did find Mayan history , in the form of glyphs , or pictures
-155	representing words ,
-156	recorded in folding books
-157	called codices
-158	( the singular is codex ) .
+EDU	However , they did find Mayan history , in the form of glyphs , or pictures
+EDU	representing words ,
+EDU	recorded in folding books
+EDU	called codices
+EDU	( the singular is codex ) .
 Codices{>9}BurnCodices
-159	In 1562 , Bishop Diego de Landa ,
-160	who feared
-161	the converted natives had reverted to their traditional religious practices ,
-162	collected and burned every codex
-163	he could find .
+EDU	In 1562 , Bishop Diego de Landa ,
+EDU	who feared
+EDU	the converted natives had reverted to their traditional religious practices ,
+EDU	collected and burned every codex
+EDU	he could find .
 BurnCodices{>10}FewSurvive
-164	Today only a few survive .
+EDU	Today only a few survive .
 Content{>1}KeyTermsAndQuestions
-165	Key Terms
-166	Beringia
-167	an ancient land bridge
-168	linking Asia and North America
+EDU	Key Terms
+EDU	Beringia
+EDU	an ancient land bridge
+EDU	linking Asia and North America
 KeyTerms{=2}Questions
-169	Review Questions
+EDU	Review Questions
 QuestionsTitle{<3}Questions
-170	1. Which of the following Indian peoples built homes in cliff dwellings
-171	that still exist ?
+EDU	1. Which of the following Indian peoples built homes in cliff dwellings
+EDU	that still exist ?
 Question{=5}Choices
-172	A. Anasazi
-173	B. Cherokee
-174	C. Aztec
-175	D. Inca
+EDU	A. Anasazi
+EDU	B. Cherokee
+EDU	C. Aztec
+EDU	D. Inca
 Question1{=4}Question2
-176	2. Which culture developed the first writing system in the Western Hemisphere ?
-177	A. Inca
-178	B. Maya
-179	C. Olmec
-180	D. Pueblo
+EDU	2. Which culture developed the first writing system in the Western Hemisphere ?
+EDU	A. Inca
+EDU	B. Maya
+EDU	C. Olmec
+EDU	D. Pueblo

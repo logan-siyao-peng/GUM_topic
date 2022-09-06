@@ -1,0 +1,158 @@
+1	Keep your eyes peeled for cosmic debris :
+2	Andrew Westphal about Stardust @ home
+3	Sunday , May 28 , 2006
+4	Stardust is a NASA space capsule
+5	that collected samples from comet 81P/Wild
+6	( also known as " Wild 2 )
+7	in deep space
+8	and landed back on Earth on January 15 , 2006 .
+WhatIsStardust{=3}StardustAtHomeProject
+9	It was decided that a collaborative online review process would be used
+10	to " discover " the microscopically small samples
+11	the capsule collected .
+CollaborativeReviewProcess{=4}HumanIntelligenceAndDirectorIntro
+12	The project is called Stardust @ home .
+13	Unlike distributed computing projects like SETI @ home , Stardust @ home relies entirely on human intelligence .
+14	Andrew Westphal is the director of Stardust @ home .
+IntroStardust{>2}WikinewsInterviewLogistics
+15	Wikinews interviewed him for May 's Interview of the Month
+16	( IOTM )
+17	on May 18 , 2006 .
+18	As always , the interview was conducted on IRC ,
+19	with multiple people asking questions .
+Intro{<1}Interview
+20	Some may not know exactly
+21	what Stardust or Stardust @ home is .
+22	Can you explain more about it for us ?
+Question{>4}ImageCaption
+23	Artist 's rendering of Spacecraft Stardust
+24	Image :
+25	NASA
+QuestionAndPhotoCaption{<3}Response
+26	Stardust is a NASA Discovery mission
+27	that was launched in 1999 .
+28	It is really two missions in one .
+29	The primary science goal of the mission was to collect a sample from a known primitive solar - system body , a comet
+30	called Wild 2
+31	( pronounced " Vilt - two "
+32	— the discoverer was German ,
+33	I believe ) .
+34	This is the first US " sample return " mission since Apollo , and the first ever from beyond the moon .
+35	This gives a little context .
+36	By " sample return " of course I mean a mission
+37	that brings back extraterrestrial material .
+38	I should have said above
+39	that this is the first " solid " sample return mission —
+40	Genesis brought back a sample from the Sun almost two years ago ,
+41	but Stardust is also bringing back the first solid samples from the local interstellar medium —
+42	basically this is a sample of the Galaxy .
+43	This is absolutely unprecedented ,
+44	and we 're obviously incredibly excited .
+45	I should mention parenthetically
+46	that there is a fantastic launch video
+47	— taken from the POV of the rocket on the JPL Stardust website —
+48	highly recommended
+49	— best I 've ever seen —
+50	all the way from the launch pad , too .
+51	Basically interplanetary trajectory .
+52	Absolutely great .
+53	Is the video available to the public ?
+54	Yes
+55	[ see below ] .
+IntroStardustContext{=4}HowProjectCarriedOut
+56	OK , I digress .
+57	The first challenge
+58	that we have
+59	before can do any kind of analysis of these interstellar dust particles
+60	is simply to find them .
+61	This is a big challenge
+62	because they are very small
+63	( order of micron in size )
+64	and are somewhere
+65	( we do n't know where )
+66	on a HUGE collector
+67	— at least on the scale of the particle size —
+68	about a tenth of a square meter .
+69	So ...
+70	We 're right now using an automated microscope
+71	that we developed several years ago for nuclear astrophysics work
+72	to scan the collector in the Cosmic Dust Lab in Building 31 at Johnson Space Center .
+73	This is the ARES group
+74	that handles returned samples
+75	( Moon Rocks , Genesis chips , Meteorites , and Interplanetary Dust Particles
+76	collected by U2 in the stratosphere ) .
+77	The microscope collects stacks of digital images of the aerogel collectors in the array .
+78	These images are sent to us
+79	— we compress them
+80	and convert them into a format appropriate for Stardust @ home .
+81	Stardust @ home is a highly distributed project
+82	using a " Virtual Microscope "
+83	that is written in html and javascript
+84	and runs on most browsers
+85	— no downloads are required .
+86	Using the Virtual Microscope
+87	volunteers can search over the collector for the tracks of the interstellar dust particles .
+StardustProjectBackgroundAndProcess{=2}CollectingSamples
+88	Aerogel slice removed with an ultrasonic blade ,
+89	showing particle tracks .
+90	Image :
+91	NASA
+92	How many samples do you anticipate
+93	being found during the course of the project ?
+ImageCaptionAndQuestion{<4}Response
+94	Great question .
+95	The short answer is that we do n't know .
+96	The long answer is a bit more complicated .
+97	Here 's what we know .
+98	The Galileo and Ulysses spacecraft carried dust detectors onboard
+99	that Eberhard Gruen and his colleagues used
+100	to first detect
+101	and them measure the flux of interstellar dust particles
+102	streaming into the solar system .
+103	( This is a kind of " wind " of interstellar dust ,
+104	caused by the fact
+105	that our solar system is moving with respect to the local interstellar medium . )
+106	Markus Landgraf has estimated the number of interstellar dust particles
+107	that should have been captured by Stardust during two periods of the " cruise " phase of the interplanetary orbit
+108	in which the spacecraft was moving with this wind .
+109	He estimated
+110	that there should be around 45 particles ,
+111	but this number is very uncertain
+112	— I would n't be surprised
+113	if it is quite different from that .
+114	That was the long answer !
+115	One thing
+116	that I should say ...
+117	is that like all research , the outcome of what we are doing is highly uncertain .
+118	There is a wonderful quote
+119	attributed to Einstein —
+120	" If we knew
+121	what we were doing ,
+122	it would n't be called " research " ,
+123	would it ? "
+HowManySamples{=3}SampleSize
+124	How big would the samples be ?
+Question{<4}Response
+125	We expect
+126	that the particles will be of order a micron in size .
+127	( A millionth of a meter . )
+128	When people are searching
+129	using the virtual microscope ,
+130	they will be looking not for the particles , but for the tracks
+131	that the particles make ,
+132	which are much larger
+133	— several microns in diameter .
+134	Just yesterday we switched over to a new site
+135	which has a demo of the VM
+136	( virtual microscope )
+137	I invite you to check it out .
+138	The tracks in the demo are from submicron carbonyl iron particles
+139	that were shot into aerogel
+140	using a particle accelerator
+141	modified
+142	to accelerate dust particles to very high speeds ,
+143	to simulate the interstellar dust impacts
+144	that we 're looking for .
+145	And that 's on the main Stardust @ home website
+146	[ see below ] ?
+147	Yes .

@@ -1,197 +1,199 @@
-1	The day
-2	it rained in the garden
+EDU	The day
+EDU	it rained in the garden
 ~
-3	The first drops of rain fell onto the parched stones from a cloudless blue sky .
-4	They disappeared immediately ,
-5	drunk down into the mineral silence .
+EDU	The first drops of rain fell onto the parched stones from a cloudless blue sky .
+EDU	They disappeared immediately ,
+EDU	drunk down into the mineral silence .
 FirstSignsItWillRain{<2}EveryoneWaiting
-6	The garden paused ,
-7	and everything held its breath
-8	and waited .
+EDU	The garden paused ,
+EDU	and everything held its breath
+EDU	and waited .
 EveryoneWaiting{<4}EveryoneKnowsRainWillCome
-9	More rain would come .
-10	Everyone knew , beyond belief or necessity
-11	that the time had come .
-12	And with it , the rain .
+EDU	More rain would come .
+EDU	Everyone knew , beyond belief or necessity
+EDU	that the time had come .
+EDU	And with it , the rain .
 EveryoneWaiting{=3}DescriptionsAndWaiting
-13	Heavy oily drops bounced from leaf to grass to dusty ground ,
-14	gathering in stems and folds on the way .
-15	Yet still the sky was a hard polished blue with not a cloud in sight .
+EDU	Heavy oily drops bounced from leaf to grass to dusty ground ,
+EDU	gathering in stems and folds on the way .
+EDU	Yet still the sky was a hard polished blue with not a cloud in sight .
 DescriptionOfDropsAndSky{<4}MoreWaiting
-16	Still the garden held its breath .
-17	It would not be long now .
-18	A spattering of drops plucked memories from deep in the roots ,
-19	shivering through shoots and tendrils , humus and stone .
-20	Wispy vapour trails marbled the blue surface above .
+EDU	Still the garden held its breath .
+EDU	It would not be long now .
+EDU	A spattering of drops plucked memories from deep in the roots ,
+EDU	shivering through shoots and tendrils , humus and stone .
+EDU	Wispy vapour trails marbled the blue surface above .
 AnticipatingRain{=1}RainAndWater
-21	And then it rained for good .
+EDU	And then it rained for good .
 AnnounceStartsToRain{>5}DescriptionRain
-22	We sat on the porch
-23	watching ,
-24	no longer daring to dart out and leap around in the downfall
-25	as drops turned to torrents
-26	and the staccato tapping on the roof climaxed to a thunderous roar .
+EDU	We sat on the porch
+EDU	watching ,
+EDU	no longer daring to dart out and leap around in the downfall
+EDU	as drops turned to torrents
+EDU	and the staccato tapping on the roof climaxed to a thunderous roar .
 StartsToRain{<4}WaterAndMovement
-27	Pools erupted
-28	and overflowed along the edges of the lawn ,
-29	cascading around the raspberry canes and over the flower beds .
+EDU	Pools erupted
+EDU	and overflowed along the edges of the lawn ,
+EDU	cascading around the raspberry canes and over the flower beds .
 WaterOnLawn{=6}Earthworms
-30	Earthworms rose up from the water-laden earth
-31	where they could no longer breath
-32	and wriggled
-33	and struggled fro air on the surface ,
-34	writhing and swimming for a safe haven .
+EDU	Earthworms rose up from the water - laden earth
+EDU	where they could no longer breath
+EDU	and wriggled
+EDU	and struggled fro air on the surface ,
+EDU	writhing
+EDU	and swimming for a safe haven .
 WaterOnTheLawn{=5}WaterFromTheBarrels
-35	Water burst over the barrels and cans
-36	standing under the eaves and gutters ,
-37	flooding the pathways ,
-38	carrying away all
-39	that was n’t fixed solid
+EDU	Water burst over the barrels and cans
+EDU	standing under the eaves and gutters ,
+EDU	flooding the pathways ,
+EDU	carrying away all
+EDU	that was n’t fixed solid
 WaterBurstsFromBarrels{<6}WaterCreepingIntoNarrator'sSpace
-40	and licking at the stairs to the back porch
-41	before climbing each step
-42	and lapping against the planks
-43	we were sitting on ,
+EDU	and licking at the stairs to the back porch
+EDU	before climbing each step
+EDU	and lapping against the planks
+EDU	we were sitting on ,
 WaterReachesPorchSteps{=7}Raft
-44	a wooden raft
-45	surrounded by angry water and martial beat
-46	drum , drum , drumming on the roof above .
+EDU	a wooden raft
+EDU	surrounded by angry water and martial beat
+EDU	drum , drum , drumming on the roof above .
 EruptionOfWater{=3}WaterAndFish
-47	We slipped out feet over the sides
-48	and
-49	when we felt the fish ,
-50	some as big as logs ,
-51	some as small as leaves ,
+EDU	We slipped out feet over the sides
+EDU	and
+EDU	when we felt the fish ,
+EDU	some as big as logs ,
+EDU	some as small as leaves ,
 IntroFishAndSizes{>5}FishInteractWithNarrator
-52	nibble at our feet ,
-53	we leant over
-54	to watch them fraying and frolicking under the choppy surface .
+EDU	nibble at our feet ,
+EDU	we leant over
+EDU	to watch them fraying and frolicking under the choppy surface .
 Fish{<4}WavesInfiltratingTheHouse
-55	Waves lapped at the porch ,
-56	washing away the boxes , and bowls , and the dog ’s basket .
-57	The rocking chair , the watering can , boxes of cuttings , and tied-up newspapers , all floated away
+EDU	Waves lapped at the porch ,
+EDU	washing away the boxes , and bowls , and the dog ’s basket .
+EDU	The rocking chair , the watering can , boxes of cuttings , and tied - up newspapers , all floated away
 WavesWashAwayBelongings{<5}GoInsideAndSeekShelter
-58	as we slammed the kitchen door shut
-59	and retreated to the front room
-60	we gazed out at the river
-61	that the street had become .
+EDU	as we slammed the kitchen door shut
+EDU	and retreated to the front room
+EDU	we gazed out at the river
+EDU	that the street had become .
 WentInside{=6}DescriptionOutsideAndMoreWater
-62	The sky was pewter
-63	smeared with charcoal now ,
-64	and pressed down hard on the rooftops ,
-65	slowly dissolving everything below .
+EDU	The sky was pewter
+EDU	smeared with charcoal now ,
+EDU	and pressed down hard on the rooftops ,
+EDU	slowly dissolving everything below .
 DescriptionSky{=7}WaterInTheHallway
-66	When the water rippled into the hallway ,
-67	we splashed our way to the staircase and then up
-68	as it nipped at our heels .
+EDU	When the water rippled into the hallway ,
+EDU	we splashed our way to the staircase and then up
+EDU	as it nipped at our heels .
 TransformationOfGarden{=2}AnticipateCaptain'sArrival
-69	Outside the other houses were rocks
-70	surrounded by sea
+EDU	Outside the other houses were rocks
+EDU	surrounded by sea
 Location{<7}IntroMermaidsAndDescription
-71	with mermaids swimming all around ,
-72	flapping their scaly tails
-73	and hauling themselves up ,
-74	to fall backwards into the crest of the oncoming waves .
+EDU	with mermaids swimming all around ,
+EDU	flapping their scaly tails
+EDU	and hauling themselves up ,
+EDU	to fall backwards into the crest of the oncoming waves .
 IntroMermaids{<6}MermaidsAnnouncement
-75	And as they swam
-76	they sang ,
-77	their voices born on the winds and the salt and the rain ,
-78	and we could hear them singing ,
+EDU	And as they swam
+EDU	they sang ,
+EDU	their voices born on the winds and the salt and the rain ,
+EDU	and we could hear them singing ,
 MermaidsDescription{<8}WhatTheySing
-79	He is coming ,
-80	He is coming .
+EDU	He is coming ,
+EDU	He is coming .
 MermaidsSinging{=7}MermaidsInteraction
-81	And they combed their long hair in preparation .
-82	We waved
-83	and called ,
+EDU	And they combed their long hair in preparation .
+EDU	We waved
+EDU	and called ,
 NarratorCalls{=9}Mermaids'Response
-84	and they laughed
-85	and played ,
-86	tantalising ,
-87	their seaweed locks just out of reach .
+EDU	and they laughed
+EDU	and played ,
+EDU	tantalising ,
+EDU	their seaweed locks just out of reach .
 MermaidsTeasing{>8}MermaidsLeave
-88	With a flick of the tail they were off ,
-89	still singing ,
-90	He is coming ,
-91	He is coming ,
-92	until their voices were lost in the noise of the rain and the water .
+EDU	With a flick of the tail they were off ,
+EDU	still singing ,
+EDU	He is coming ,
+EDU	He is coming ,
+EDU	until their voices were lost in the noise of the rain and the water .
 Mermaids'Announcement{=5}ClimbHigher
-93	A great whiskered head arose ,
-94	then a belly ,
-95	wet
-96	and sleek ,
-97	long enough to wrap itself twice around the world .
+EDU	A great whiskered head arose ,
+EDU	then a belly ,
+EDU	wet
+EDU	and sleek ,
+EDU	long enough
+EDU	to wrap itself twice around the world .
 IntroWorm{<6}MoreAnticipationAndClimbing
-98	“ Is it him ? ”
-99	we asked each other ,
-100	nudging elbows
+EDU	“ Is it him ? ”
+EDU	we asked each other ,
+EDU	nudging elbows
 QuestionWhoIsComing{=8}ClimbChairsWormDestroyHouse
-101	and climbing onto the chairs .
-102	We pulled off wet socks and shoes ,
-103	letting them float away on the tide ,
-104	before the great worm turned
-105	and the wake engulfed the creaking , cracking house .
+EDU	and climbing onto the chairs .
+EDU	We pulled off wet socks and shoes ,
+EDU	letting them float away on the tide ,
+EDU	before the great worm turned
+EDU	and the wake engulfed the creaking , cracking house .
 Worm{<7}MoreAnticipationAndClimbing
-106	We clambered up onto the roof ,
-107	sliding on the tiles
-108	and clinging to chimney stacks ,
-109	sheltering our eyes from the driving downpour .
+EDU	We clambered up onto the roof ,
+EDU	sliding on the tiles
+EDU	and clinging to chimney stacks ,
+EDU	sheltering our eyes from the driving downpour .
 ClimbOnRoofIntenseStorm{>9}SkyDescription
-110	The sky was black ,
-111	and the stormy sea all the deepest , darkest blues and greens and greys
-112	and flecked with white
-113	where the sea-horses galloped .
+EDU	The sky was black ,
+EDU	and the stormy sea all the deepest , darkest blues and greens and greys
+EDU	and flecked with white
+EDU	where the sea - horses galloped .
 ClimbOnRoof{=8}WhaleAndMoreClimbing
-114	The waters broke
-115	making way for the gnarled head of a whale ,
-116	spouting water high against the clouds
-117	before opening its whiskered maw
-118	and in a looming , booming voice called :
+EDU	The waters broke
+EDU	making way for the gnarled head of a whale ,
+EDU	spouting water high against the clouds
+EDU	before opening its whiskered maw
+EDU	and in a looming , booming voice called :
 IntroWhale{<11}WhaleAnnouncement
-119	He is coming ,
-120	He is coming .
+EDU	He is coming ,
+EDU	He is coming .
 WhaleAnnouncement{=10}ClimbOnWhale
-121	The chimneys washed away ,
-122	so we scrambled onto the blue-black back
-123	encrusted with barnacles and cockles like stars in a night sky
-124	and held on tight
-125	as he rode the waves ,
+EDU	The chimneys washed away ,
+EDU	so we scrambled onto the blue - black back
+EDU	encrusted with barnacles and cockles like stars in a night sky
+EDU	and held on tight
+EDU	as he rode the waves ,
 ClimbOnWhale{>11}WhaleMovements
-126	dipping
-127	and blowing ,
-128	dipping
-129	and blowing .
+EDU	dipping
+EDU	and blowing ,
+EDU	dipping
+EDU	and blowing .
 Whale{>9}StrongWindAndMoreRain
-130	The wind and the rain tugged at our hair .
-131	And still it rained .
+EDU	The wind and the rain tugged at our hair .
+EDU	And still it rained .
 AnticipationAndAvoidDrowning{=4}ArrivalOfShip
-132	We heard a fearsome creaking and cracking
-133	and before our eyes a great patch of sky peeled away ,
-134	deeping down in the troughs
-135	and riding the crests
-136	with torn sails set against the wind .
+EDU	We heard a fearsome creaking and cracking
+EDU	and before our eyes a great patch of sky peeled away ,
+EDU	deeping down in the troughs
+EDU	and riding the crests
+EDU	with torn sails set against the wind .
 IntroShip{<5}Ship
-137	It was a galleon with masts like a dead man ’s fingers ,
-138	tarred timbers groaning
-139	and a mermaid sat on the bow
-140	as he ship dipped
-141	and passed .
+EDU	It was a galleon with masts like a dead man ’s fingers ,
+EDU	tarred timbers groaning
+EDU	and a mermaid sat on the bow
+EDU	as he ship dipped
+EDU	and passed .
 ShipDescription{<7}MermaidAnnouncement
-142	He is coming ,
-143	He is coming ,
-144	she sang out .
+EDU	He is coming ,
+EDU	He is coming ,
+EDU	she sang out .
 ShipDescription{<6}ShipSavesNarrator
-145	And just as the wash hit us ,
-146	prising us from the whale ’s speckled back and down into the sea ,
-147	someone threw down a knotted rope
-148	and we hung on for dear life .
-149	The singing sailors hauled us aboard
+EDU	And just as the wash hit us ,
+EDU	prising us from the whale ’s speckled back and down into the sea ,
+EDU	someone threw down a knotted rope
+EDU	and we hung on for dear life .
+EDU	The singing sailors hauled us aboard
 SailorsSaveNarrator{>7}Sailors'Announcement
-150	chanting ,
-151	He ’s a coming - ha !
-152	He ’s a coming - ha !
-153	And we fell onto the deck
-154	like fish bursting from a net .
+EDU	chanting ,
+EDU	He ’s a coming - ha !
+EDU	He ’s a coming - ha !
+EDU	And we fell onto the deck
+EDU	like fish bursting from a net .
 AnticipateMysteriousArrival{=3}ArrivalOfCaptain
-155	The Captain stood above us
-156	dressed in jewels and finery from a thousand pillagings .
+EDU	The Captain stood above us
+EDU	dressed in jewels and finery from a thousand pillagings .

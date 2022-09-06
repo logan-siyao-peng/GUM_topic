@@ -1,126 +1,126 @@
-1	It is my special pleasure to address the fifty-ninth session of the General Assembly of the United Nations .
-2	This universal forum has enabled the peoples of the world to coordinate and harmonize their efforts
-3	in preserving peace and security ,
-4	in achieving prosperity
-5	and upholding the values of human civilization .
+EDU	It is my special pleasure to address the fifty-ninth session of the General Assembly of the United Nations .
+EDU	This universal forum has enabled the peoples of the world to coordinate and harmonize their efforts
+EDU	in preserving peace and security ,
+EDU	in achieving prosperity
+EDU	and upholding the values of human civilization .
 AddressUNAndItsImpacts{=2}AddressPresidentAndSecretaryGeneral
-6	I would like to congratulate you , Mr. President , on being elected to preside over this august body
-7	and to express my confidence in your successful leadership .
-8	I would also like , on behalf of Albania , to convey to the Secretary-General our highest appreciation for his leading contribution to the fulfilment of the historical mission of the United Nations and to the aspirations of our peoples for a better world
-9	in which only peace , democracy and economic prosperity reign .
+EDU	I would like to congratulate you , Mr. President , on being elected to preside over this august body
+EDU	and to express my confidence in your successful leadership .
+EDU	I would also like , on behalf of Albania , to convey to the Secretary-General our highest appreciation for his leading contribution to the fulfilment of the historical mission of the United Nations and to the aspirations of our peoples for a better world
+EDU	in which only peace , democracy and economic prosperity reign .
 IntroductionAndAcknowledgements{<1}Albania'sEffortsUpholdDemocracy
-10	This session of the General Assembly takes place in a milestone year for Europe .
-11	Only a few months ago , a historic event vitalized the dream of a more united and stronger Europe .
-12	Ten European countries ,
-13	sharing a common aspiration for integration ,
-14	were admitted into the European Union .
+EDU	This session of the General Assembly takes place in a milestone year for Europe .
+EDU	Only a few months ago , a historic event vitalized the dream of a more united and stronger Europe .
+EDU	Ten European countries ,
+EDU	sharing a common aspiration for integration ,
+EDU	were admitted into the European Union .
 AdmissionTenCountriesToEU{<3}AlbaniaEfforts
-15	The Albanian Government and society are engaged in an all-round European integration process ,
-16	and they are carrying out necessary reforms with the necessary political will and drive .
+EDU	The Albanian Government and society are engaged in an all-round European integration process ,
+EDU	and they are carrying out necessary reforms with the necessary political will and drive .
 IntegrationProcess{<4}StrengthenDemocraticInstitutions
-17	Albania is working to strengthen the democratic institutions and capacities of its central and local government
-18	with a view to bringing its legislation and conditions into line with European Union standards ,
-19	progressively achieving concrete and measurable results ,
-20	as previously defined .
+EDU	Albania is working to strengthen the democratic institutions and capacities of its central and local government
+EDU	with a view to bringing its legislation and conditions into line with European Union standards ,
+EDU	progressively achieving concrete and measurable results ,
+EDU	as previously defined .
 ContextAndGeneralStatement{>2}SpecificEffortsMade
-21	Determined to make our contribution to regional and global security ,
-22	the Albanian Government considers the country 's integration into NATO to be one of its major objectives .
+EDU	Determined to make our contribution to regional and global security ,
+EDU	the Albanian Government considers the country 's integration into NATO to be one of its major objectives .
 IntroHopeJoinNATO{>5}Details
-23	The NATO Istanbul Summit last June commended the progress
-24	made by my country in this regard
-25	and encouraged the deepening of reforms .
-26	It welcomed Albania 's contribution to regional stability and cooperation
-27	and committed to assess our further progress at the next NATO summit ,
+EDU	The NATO Istanbul Summit last June commended the progress
+EDU	made by my country in this regard
+EDU	and encouraged the deepening of reforms .
+EDU	It welcomed Albania 's contribution to regional stability and cooperation
+EDU	and committed to assess our further progress at the next NATO summit ,
 AlbaniaCommended{>8}HopefullySoonFullMembership
-28	which would hopefully mark the start of negotiations for our full membership in the alliance .
+EDU	which would hopefully mark the start of negotiations for our full membership in the alliance .
 IstanbulSummit{=7}AdriaticCharter
-29	We believe
-30	that the commitments
-31	set up in the framework of the Adriatic Charter
-32	are also contributing to meet NATO standards , to the benefit of regional stability and security .
+EDU	We believe
+EDU	that the commitments
+EDU	set up in the framework of the Adriatic Charter
+EDU	are also contributing to meet NATO standards , to the benefit of regional stability and security .
 IstanbulSummitAndAdriaticCharter{<6}AlbaniaGovernmentValues
-33	We remain truly convinced
-34	that the respect and protection of human rights and freedoms are the main pillars of a pluralist democratic society .
+EDU	We remain truly convinced
+EDU	that the respect and protection of human rights and freedoms are the main pillars of a pluralist democratic society .
 ProtectHumanRights{=7}WhatAlbaniaHasBeenDoing
-35	The Government of the Republic of Albania will continue to constantly demonstrate its commitment to a full implementation of the standards
-36	enshrined in the United Nations and Council of Europe conventions , as well as the relevant documents of regional organizations , such as the Organization for Security and Cooperation in Europe ,
-37	in which we are playing a very active role .
-38	We will continue to do so in the future as well .
+EDU	The Government of the Republic of Albania will continue to constantly demonstrate its commitment to a full implementation of the standards
+EDU	enshrined in the United Nations and Council of Europe conventions , as well as the relevant documents of regional organizations , such as the Organization for Security and Cooperation in Europe ,
+EDU	in which we are playing a very active role .
+EDU	We will continue to do so in the future as well .
 CommitmentToUNStandards{<9}SpecificLegislationAndActions
-39	By adopting contemporary legislation
-40	and by becoming a party to other recently adopted international instruments on human rights ,
-41	Albania has associated itself with countries
-42	that are enforcing a number of national strategies and programmes
-43	focusing on specific population groups , especially women , children , persons in need and minorities , among others .
+EDU	By adopting contemporary legislation
+EDU	and by becoming a party to other recently adopted international instruments on human rights ,
+EDU	Albania has associated itself with countries
+EDU	that are enforcing a number of national strategies and programmes
+EDU	focusing on specific population groups , especially women , children , persons in need and minorities , among others .
 ContemporaryLegislation{=10}Submittingreports
-44	In recent years , the Albanian Government has started to periodically submit reports to the committees of the six main United Nations human rights treaties
-45	and is taking their recommendations into serious consideration .
+EDU	In recent years , the Albanian Government has started to periodically submit reports to the committees of the six main United Nations human rights treaties
+EDU	and is taking their recommendations into serious consideration .
 WhatAlbaniaHasBeenDoing{<8}BelieveEffortsUpholdImportantValues
-46	It is our belief that these international mechanisms play a significant and important role as guardians of the common human values
-47	we have together adopted .
+EDU	It is our belief that these international mechanisms play a significant and important role as guardians of the common human values
+EDU	we have together adopted .
 NATO{=4}MilleniumDeclaration
-48	Albania , as one of the 191 signatory countries of the Millennium Declaration , remains fully committed to implementation of the Millennium Development Goals ,
-49	which have been properly reflected in a national strategy for social and economic development .
+EDU	Albania , as one of the 191 signatory countries of the Millennium Declaration , remains fully committed to implementation of the Millennium Development Goals ,
+EDU	which have been properly reflected in a national strategy for social and economic development .
 IntroMillenniumDeclaration{>6}DefendHumanRightsFightPoverty
-50	The pattern of our sustained economic growth ,
-51	which is at 6 to 7 per cent for the seventh consecutive year ,
-52	is a good support base for the whole society
-53	to maintain higher standards of respect for human rights
-54	and to fight poverty and crime .
+EDU	The pattern of our sustained economic growth ,
+EDU	which is at 6 to 7 per cent for the seventh consecutive year ,
+EDU	is a good support base for the whole society
+EDU	to maintain higher standards of respect for human rights
+EDU	and to fight poverty and crime .
 MillenniumDeclaration{>5}ThankUNAgencies
-55	I would like to take this opportunity
-56	to thank the United Nations specialized agencies for their valuable assistance in support of the implementation of these objectives nationwide and on a central and local level .
+EDU	I would like to take this opportunity
+EDU	to thank the United Nations specialized agencies for their valuable assistance in support of the implementation of these objectives nationwide and on a central and local level .
 NATOAndMillenniumDeclaration{=3}ElectionsAndRegionalCooperation
-57	The Albanian Government is pleased to note
-58	that an ever-healthier climate of confidence and relations of bilateral and multilateral cooperation are prevailing in the South-Eastern European region .
-59	The countries of the region are fully engaged in a process
-60	that will lead us clearly toward Euro-Atlantic integration
+EDU	The Albanian Government is pleased to note
+EDU	that an ever-healthier climate of confidence and relations of bilateral and multilateral cooperation are prevailing in the South-Eastern European region .
+EDU	The countries of the region are fully engaged in a process
+EDU	that will lead us clearly toward Euro-Atlantic integration
 BetterCooperation{=6}MoveAwayFromExtremistTendencies
-61	and at the same time continually remove us from the extremist tendencies
-62	that caused a number of conflicts in the last decade .
+EDU	and at the same time continually remove us from the extremist tendencies
+EDU	that caused a number of conflicts in the last decade .
 ImprovedCooperationInSEEurope{<5}AlbaniaPoliciesAndActions
-63	The regional policy of my Government is guided by the motto :
-64	' the more integrated in the region ,
-65	the more integrated in Europe . '
+EDU	The regional policy of my Government is guided by the motto :
+EDU	' the more integrated in the region ,
+EDU	the more integrated in Europe . '
 RegionalPolicyMotto{<6}BetterCooperationAndSpecifics
-66	In implementing this policy ,
-67	Albania is cooperating
-68	as never before
-69	with all the countries of the region
+EDU	In implementing this policy ,
+EDU	Albania is cooperating
+EDU	as never before
+EDU	with all the countries of the region
 BetterCooperation{>7}SpecificPolicies
-70	by making borders less relevant ,
-71	opening up to one regional market the implementation of free trade agreements and free movement corridors ,
-72	and stimulating foreign direct investment .
-73	We are especially cooperating with the common fight against organized crime and all kinds of illegal trafficking .
+EDU	by making borders less relevant ,
+EDU	opening up to one regional market the implementation of free trade agreements and free movement corridors ,
+EDU	and stimulating foreign direct investment .
+EDU	We are especially cooperating with the common fight against organized crime and all kinds of illegal trafficking .
 SpecificPolicies{>8}GuidedByEUNATOStandards
-74	In the meantime , Albania is reinforcing its border management and control ,
-75	guided by the European Union and NATO standards .
+EDU	In the meantime , Albania is reinforcing its border management and control ,
+EDU	guided by the European Union and NATO standards .
 SEEuropeRegionCooperation{=4}ElectionsRegionalCooperationAndKosovo
-76	My country will hold general parliamentary elections by the middle of next year .
-77	We are committed to doing all
-78	that is required
-79	to ensure
-80	that the election process is fully compatible with international standards for free and fair elections .
+EDU	My country will hold general parliamentary elections by the middle of next year .
+EDU	We are committed to doing all
+EDU	that is required
+EDU	to ensure
+EDU	that the election process is fully compatible with international standards for free and fair elections .
 CommitmentToFairElections{>6}EffortsToEnsureFairElections
-81	To that end , we are committed to continuing to work with relevant specialized institutions on elections
-82	by fully implementing especially OSCE / Office for Democratic Institutions and Human Rights
-83	( ODIHR )
-84	recommendations .
-85	For us , the process and standards are more important than the results of the elections .
+EDU	To that end , we are committed to continuing to work with relevant specialized institutions on elections
+EDU	by fully implementing especially OSCE / Office for Democratic Institutions and Human Rights
+EDU	( ODIHR )
+EDU	recommendations .
+EDU	For us , the process and standards are more important than the results of the elections .
 Elections{=5}RegionalCooperationAndKosovo
-86	In the context
-87	of strengthening regional cooperation ,
-88	my country is committed to a more enhanced partnership with all regional organizations and initiatives
+EDU	In the context
+EDU	of strengthening regional cooperation ,
+EDU	my country is committed to a more enhanced partnership with all regional organizations and initiatives
 EnhancePartnershipWithRegionalInitiatives{=7}WhatTheyServe
-89	that serve the promotion of good neighbourly relations ;
-90	the strengthening of regional peace , security and stability ;
-91	ensuring political support for integration into Euro-Atlantic structures ,
-92	and attracting financing for national and regional projects in priority fields such as energy , transportation and telecommunications .
+EDU	that serve the promotion of good neighbourly relations ;
+EDU	the strengthening of regional peace , security and stability ;
+EDU	ensuring political support for integration into Euro-Atlantic structures ,
+EDU	and attracting financing for national and regional projects in priority fields such as energy , transportation and telecommunications .
 RegionalCooperation{=6}Kosovo
-93	On its path towards European integration , the South-East European region is still facing pending challenges , such as the future of Kosovo .
-94	Albania greatly appreciates the recent democratic and integration developments in Kosovo ,
-95	thanks to the efforts of the respective peoples and the partnership of its self-governing institutions with the United Nations Interim Administration Mission in Kosovo
-96	( UNMIK ) .
+EDU	On its path towards European integration , the South-East European region is still facing pending challenges , such as the future of Kosovo .
+EDU	Albania greatly appreciates the recent democratic and integration developments in Kosovo ,
+EDU	thanks to the efforts of the respective peoples and the partnership of its self-governing institutions with the United Nations Interim Administration Mission in Kosovo
+EDU	( UNMIK ) .
 DemocraticDevelopmentsKosovo{>7}ThankRepresentativeOfKosovo
-97	Allow me at this point to congratulate Mr. Soren Jessen-Petersen , Special Representative for Kosovo of the United Nations Secretary-General ,
-98	in assuming this very important duty .
+EDU	Allow me at this point to congratulate Mr. Soren Jessen-Petersen , Special Representative for Kosovo of the United Nations Secretary-General ,
+EDU	in assuming this very important duty .

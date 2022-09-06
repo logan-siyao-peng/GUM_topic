@@ -14,52 +14,53 @@
 14	and wanting that big red box with the dragons on it
 15	and I did n't even know
 16	what it did .
-17	The magician behind the counter was wise enough not to sell it to me ,
-18	but instead sold me two books
-19	which I still own today -
-20	" Scarne on Card Tricks " and " Scarne on Magic Tricks " .
-21	That started me out on books
-22	and I have amassed quite a few since then .
-23	My major influences on performance are Eugene Burger and Michael Skinner .
-24	October is National Magic Month in the US .
-25	Do you think
-26	magic is alive as a viable form of entertainment today ?
-27	Absolutely .
-28	There are more magicians
-29	working today
-30	than ever before .
-31	There will always be an audience for good magicians
-32	doing good magic .
-33	Has the internet helped or hurt magic ?
-34	Both .
-35	I think
-36	it has helped draw younger people to magic as a hobby ,
-37	but I think
-38	it has hurt the ability of young magicians
-39	to think
-40	because so many rely on the internet for everything
-41	and they are n't reading the books .
-42	We have to have knowledge of the history of magic and what has been done before .
-43	Moreover , seeing someone perform on the internet takes away the use of our senses , originality and imagination
-44	that reading and thinking about magic can produce .
-45	Anyone can become a monkey ;
-46	it takes serious study
-47	to become a magician .
-48	Do you travel much in your current role ?
-49	Yes , I am traveling quite a bit .
-50	After I was inducted as International President in Phoenix in July ,
-51	I have been to the Jeff McBride Experience in Eureka Springs , Arkansas , Magic Live in Las Vegas , The Midwest Magic Jubilee in St. Louis , the TAOM in Dallas , the British Ring Convention in Buxton , England and the Magic Circle in London .
-52	I am going to Las Vegas and Los Angeles next month ,
-53	Italy in November ,
-54	back to Las Vegas in December ,
-55	Mexico in January ,
-56	Magi - Fest in February ,
-57	the Winter Carnival of Magic in Tennessee in March ,
-58	Eureka Springs Cavalcade of Magic in March ,
-59	and the FFFF in April .
-60	That 's as of now .
+17	The magician behind the counter was wise enough
+18	not to sell it to me ,
+19	but instead sold me two books
+20	which I still own today -
+21	" Scarne on Card Tricks " and " Scarne on Magic Tricks " .
+22	That started me out on books
+23	and I have amassed quite a few since then .
+24	My major influences on performance are Eugene Burger and Michael Skinner .
+25	October is National Magic Month in the US .
+26	Do you think
+27	magic is alive as a viable form of entertainment today ?
+28	Absolutely .
+29	There are more magicians
+30	working today
+31	than ever before .
+32	There will always be an audience for good magicians
+33	doing good magic .
+34	Has the internet helped or hurt magic ?
+35	Both .
+36	I think
+37	it has helped draw younger people to magic as a hobby ,
+38	but I think
+39	it has hurt the ability of young magicians
+40	to think
+41	because so many rely on the internet for everything
+42	and they are n't reading the books .
+43	We have to have knowledge of the history of magic and what has been done before .
+44	Moreover , seeing someone perform on the internet takes away the use of our senses , originality and imagination
+45	that reading and thinking about magic can produce .
+46	Anyone can become a monkey ;
+47	it takes serious study
+48	to become a magician .
+49	Do you travel much in your current role ?
+50	Yes , I am traveling quite a bit .
+51	After I was inducted as International President in Phoenix in July ,
+52	I have been to the Jeff McBride Experience in Eureka Springs , Arkansas , Magic Live in Las Vegas , The Midwest Magic Jubilee in St. Louis , the TAOM in Dallas , the British Ring Convention in Buxton , England and the Magic Circle in London .
+53	I am going to Las Vegas and Los Angeles next month ,
+54	Italy in November ,
+55	back to Las Vegas in December ,
+56	Mexico in January ,
+57	Magi - Fest in February ,
+58	the Winter Carnival of Magic in Tennessee in March ,
+59	Eureka Springs Cavalcade of Magic in March ,
+60	and the FFFF in April .
+61	That 's as of now .
 Interview{>1}PhotoCaption
-61	File photo of magician David Gish
-62	displaying magic props for a young child .
-63	Image :
-64	Paul Budd .
+62	File photo of magician David Gish
+63	displaying magic props for a young child .
+64	Image :
+65	Paul Budd .
